@@ -1,2 +1,4 @@
 # Minecraft_Ragna_Mod_VI
-Personal minecraft  mods party 
+Partie personnelle de RagnaMod 6
+lesputesalacompotes.fun
+
