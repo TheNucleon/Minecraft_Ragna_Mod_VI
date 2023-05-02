@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Aller au répertoire de travail
-cd /root/home/Minecraft_Ragna_Mod_VI
+cd /root/minecraft/Minecraft_Ragna_Mod_VI
 
 # Mettre à jour le dépôt git
 git pull
