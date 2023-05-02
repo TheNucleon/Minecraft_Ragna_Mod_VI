@@ -1,4 +1,4 @@
 # Minecraft_Ragna_Mod_VI
-Partie personnelle de RagnaMod 6
-lesputesalacompotes.fun
+Partie privée de RagnaMod 6
+accessible ici : https://lesputesalacompotes.fun
 
