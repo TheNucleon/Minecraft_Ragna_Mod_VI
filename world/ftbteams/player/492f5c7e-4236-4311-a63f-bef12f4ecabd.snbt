@@ -1,0 +1,18 @@
+{
+	id: "492f5c7e-4236-4311-a63f-bef12f4ecabd"
+	type: "player"
+	player_name: "Three_Dogs"
+	ranks: { }
+	properties: {
+		"ftbchunks:allow_explosions": 0b
+		"ftbteams:display_name": "Three_Dogs"
+		"ftbteams:color": "#5990FF"
+		"ftbchunks:block_edit_mode": "allies"
+		"ftbchunks:block_interact_mode": "allies"
+		"ftbteams:description": ""
+		"ftbteams:free_to_join": 0b
+		"ftbchunks:allow_fake_players": 1b
+	}
+	message_history: [ ]
+	extra: { }
+}
