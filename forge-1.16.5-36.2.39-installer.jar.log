@@ -1,13 +1,13 @@
-JVM info: Private Build - 18.0.2-ea - 18.0.2-ea+9-Ubuntu-222.04
+JVM info: Private Build - 1.8.0_362 - 25.362-b09
 java.net.preferIPv4Stack=true
-Found java version 18.0.2-ea
+Found java version 1.8.0_362
 Target Directory: .
 Data kindly mirrored by CreeperHost at https://www.creeperhost.net/
 Extracting main jar:
   Extracted successfully
 Considering minecraft server jar
 Downloading libraries
-Found 1 additional library directories
+Found 0 additional library directories
 Considering library net.minecraftforge:forge:1.16.5-36.2.39
   File exists: Checksum validated.
 Considering library org.ow2.asm:asm:9.1
@@ -138,7 +138,7 @@ Considering library org.ow2.asm:asm:9.1
   File exists: Checksum validated.
 Considering library trove:trove:1.0.2
   File exists: Checksum validated.
-Created Temporary Directory: /tmp/forge_installer3155214366089632238
+Created Temporary Directory: /tmp/forge_installer8618104885452756801
   Extracting: /data/server.lzma
 Building Processors
 ===============================================================================

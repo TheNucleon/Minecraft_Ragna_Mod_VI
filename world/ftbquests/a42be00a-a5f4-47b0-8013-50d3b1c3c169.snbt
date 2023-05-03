@@ -1,0 +1,13 @@
+{
+	version: 1
+	uuid: "a42be00aa5f447b0801350d3b1c3c169"
+	name: "TheNukleon"
+	can_edit: false
+	lock: false
+	auto_pin: false
+	task_progress: { }
+	started: { }
+	completed: { }
+	claimed_rewards: { }
+	pinned_quests: [ ]
+}

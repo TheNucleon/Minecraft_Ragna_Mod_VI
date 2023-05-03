@@ -1,0 +1,20 @@
+{
+	id: "a42be00a-a5f4-47b0-8013-50d3b1c3c169"
+	type: "player"
+	player_name: "TheNukleon"
+	ranks: {
+		a42be00a-a5f4-47b0-8013-50d3b1c3c169: "owner"
+	}
+	properties: {
+		"ftbchunks:allow_explosions": 0b
+		"ftbteams:display_name": "TheNukleon"
+		"ftbteams:color": "#A859FF"
+		"ftbchunks:block_edit_mode": "allies"
+		"ftbchunks:block_interact_mode": "allies"
+		"ftbteams:description": ""
+		"ftbteams:free_to_join": 0b
+		"ftbchunks:allow_fake_players": 1b
+	}
+	message_history: [ ]
+	extra: { }
+}

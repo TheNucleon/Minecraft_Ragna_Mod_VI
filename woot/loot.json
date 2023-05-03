@@ -1,0 +1,45 @@
+{
+  "version": 1,
+  "simulatedMobs": [
+    {
+      "mob": "iceandfire:lightning_dragon",
+      "simulatedKills": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "learnedDrops": []
+    },
+    {
+      "mob": "minecraft:sheep",
+      "simulatedKills": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "learnedDrops": []
+    },
+    {
+      "mob": "iceandfire:ice_dragon",
+      "simulatedKills": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "learnedDrops": []
+    },
+    {
+      "mob": "iceandfire:fire_dragon",
+      "simulatedKills": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "learnedDrops": []
+    }
+  ]
+}
