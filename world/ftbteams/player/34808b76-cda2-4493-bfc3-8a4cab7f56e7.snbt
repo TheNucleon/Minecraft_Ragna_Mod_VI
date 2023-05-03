@@ -2,7 +2,9 @@
 	id: "34808b76-cda2-4493-bfc3-8a4cab7f56e7"
 	type: "player"
 	player_name: "Boryke"
-	ranks: { }
+	ranks: {
+		34808b76-cda2-4493-bfc3-8a4cab7f56e7: "owner"
+	}
 	properties: {
 		"ftbchunks:allow_explosions": 0b
 		"ftbteams:display_name": "Boryke"

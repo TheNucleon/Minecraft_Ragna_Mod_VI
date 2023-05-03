@@ -1,7 +1,25 @@
 {
+  "minecraft:recipes/tools/fishing_rod": {
+    "criteria": {
+      "has_string": "2023-05-03 20:31:27 +0000"
+    },
+    "done": true
+  },
+  "creategearaddon:recipes/shaftless_oak_cogwheel": {
+    "criteria": {
+      "has_item": "2023-05-03 21:17:06 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.base/crafting/kinetics/clutch": {
     "criteria": {
       "has_item": "2023-05-03 19:28:57 +0000"
+    },
+    "done": true
+  },
+  "amb:recipes/basalt_wall_from_basalt_stonecutting": {
+    "criteria": {
+      "has_basalt": "2023-05-03 20:27:08 +0000"
     },
     "done": true
   },
@@ -14,6 +32,12 @@
   "minecraft:recipes/redstone/lever": {
     "criteria": {
       "has_cobblestone": "2023-05-03 19:35:43 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/kinetics/mechanical_bearing": {
+    "criteria": {
+      "has_item": "2023-05-03 21:17:06 +0000"
     },
     "done": true
   },
@@ -41,6 +65,12 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/immersiveengineering/crafting/concrete": {
+    "criteria": {
+      "has_clay": "2023-05-03 21:53:45 +0000"
+    },
+    "done": true
+  },
   "creategearaddon:recipes/willow_bracket": {
     "criteria": {
       "has_item": "2023-05-03 19:28:57 +0000"
@@ -59,6 +89,12 @@
     },
     "done": true
   },
+  "creategearaddon:recipes/large_half_shaft_birch_cogwheel": {
+    "criteria": {
+      "has_large_cogwheels": "2023-05-03 21:22:12 +0000"
+    },
+    "done": true
+  },
   "astralsorcery:root": {
     "criteria": {
       "astralsorcery_present": "2023-05-03 18:07:52 +0000"
@@ -68,6 +104,12 @@
   "minecraft:recipes/building_blocks/lime_concrete_powder": {
     "criteria": {
       "has_gravel": "2023-05-03 19:39:49 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/andesite_cobblestone_stairs_from_andesite_cobblestone_stonecutting": {
+    "criteria": {
+      "has_andesite_cobblestone": "2023-05-03 20:27:03 +0000"
     },
     "done": true
   },
@@ -101,6 +143,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/andesite_cobblestone_wall": {
+    "criteria": {
+      "has_andesite_cobblestone": "2023-05-03 20:27:03 +0000"
+    },
+    "done": true
+  },
   "woot:recipes/woot/intern": {
     "criteria": {
       "cobblestone": "2023-05-03 19:35:43 +0000"
@@ -110,6 +158,18 @@
   "minecraft:recipes/decorations/crafting_table": {
     "criteria": {
       "has_planks": "2023-05-03 19:37:54 +0000"
+    },
+    "done": true
+  },
+  "creategears:recipes/creategears/fully_encased_chain_drive_horizontal": {
+    "criteria": {
+      "has_shaft": "2023-05-03 21:17:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/magenta_wool": {
+    "criteria": {
+      "has_white_wool": "2023-05-03 21:11:09 +0000"
     },
     "done": true
   },
@@ -173,6 +233,12 @@
     },
     "done": true
   },
+  "amb:recipes/basalt_stairs_from_basalt_stonecutting": {
+    "criteria": {
+      "has_basalt": "2023-05-03 20:27:08 +0000"
+    },
+    "done": true
+  },
   "betterendforge:recipes/betterendforge/terminite_hammer_smithing": {
     "criteria": {
       "has_stick": "2023-05-03 19:24:11 +0000"
@@ -182,6 +248,12 @@
   "minecraft:recipes/misc/stick": {
     "criteria": {
       "has_planks": "2023-05-03 19:37:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/embellishcraft_group/andesite_ornament_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2023-05-03 21:17:21 +0000"
     },
     "done": true
   },
@@ -203,9 +275,21 @@
     },
     "done": true
   },
+  "creategears:recipes/creategears/large_gear": {
+    "criteria": {
+      "has_large_cogwheels": "2023-05-03 21:22:12 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.base/crafting/kinetics/sticky_mechanical_piston": {
     "criteria": {
       "has_item": "2023-05-03 19:28:57 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/gabbro_cobblestone_stairs": {
+    "criteria": {
+      "has_gabbro_cobblestone": "2023-05-03 20:27:20 +0000"
     },
     "done": true
   },
@@ -215,15 +299,39 @@
     },
     "done": true
   },
-  "woot:recipes/woot/red_dyecasing": {
+  "create:recipes/create.palettes/diorite_cobblestone_slab_from_diorite_cobblestone_stonecutting": {
     "criteria": {
-      "cobblestone": "2023-05-03 19:35:43 +0000"
+      "has_diorite_cobblestone": "2023-05-03 20:27:23 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/granite_cobblestone_slab_from_granite_cobblestone_stonecutting": {
+    "criteria": {
+      "has_granite_cobblestone": "2023-05-03 20:27:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/embellishcraft_group/andesite_button_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2023-05-03 21:17:21 +0000"
+    },
+    "done": true
+  },
+  "bigreactors:recipes/bigreactors.reactor/reactor/reinforced/passivefluidport_forge": {
+    "criteria": {
+      "has_item2": "2023-05-03 21:58:37 +0000"
     },
     "done": true
   },
   "mcwfences:recipes/oak": {
     "criteria": {
       "has_oak": "2023-05-03 19:24:02 +0000"
+    },
+    "done": true
+  },
+  "woot:recipes/woot/red_dyecasing": {
+    "criteria": {
+      "cobblestone": "2023-05-03 19:35:43 +0000"
     },
     "done": true
   },
@@ -245,6 +353,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/paved_limestone_from_limestone_stonecutting": {
+    "criteria": {
+      "has_limestone": "2023-05-03 21:33:43 +0000"
+    },
+    "done": true
+  },
   "embellishcraft:recipes/embellishcraft_group/oak_plain_door": {
     "criteria": {
       "has_oak_log": "2023-05-03 19:24:02 +0000"
@@ -263,9 +377,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_blackstone_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2023-05-03 20:27:05 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/diorite_cobblestone_wall": {
+    "criteria": {
+      "has_diorite_cobblestone": "2023-05-03 20:27:23 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/granite_cobblestone_stairs": {
+    "criteria": {
+      "has_granite_cobblestone": "2023-05-03 20:27:10 +0000"
+    },
+    "done": true
+  },
   "woot:recipes/woot/efficiency_3": {
     "criteria": {
       "cobblestone": "2023-05-03 19:35:43 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/paved_andesite_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2023-05-03 21:17:21 +0000"
     },
     "done": true
   },
@@ -281,6 +419,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/gabbro_cobblestone_wall": {
+    "criteria": {
+      "has_gabbro_cobblestone": "2023-05-03 20:27:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/coarse_dirt": {
     "criteria": {
       "has_gravel": "2023-05-03 19:39:49 +0000"
@@ -290,6 +434,18 @@
   "naturescompass:natures_compass_sapling": {
     "criteria": {
       "has_sapling": "2023-05-03 19:18:37 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/andesite_pillar_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2023-05-03 21:17:21 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/kinetics/yellow_seat": {
+    "criteria": {
+      "has_wool": "2023-05-03 21:11:09 +0000"
     },
     "done": true
   },
@@ -323,6 +479,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/fancy_andesite_bricks_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2023-05-03 21:17:21 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.base/crafting/kinetics/mechanical_mixer": {
     "criteria": {
       "has_item": "2023-05-03 19:28:57 +0000"
@@ -341,6 +503,18 @@
     },
     "done": true
   },
+  "create:recipes/create.base/crafting/kinetics/lime_seat": {
+    "criteria": {
+      "has_wool": "2023-05-03 21:11:10 +0000"
+    },
+    "done": true
+  },
+  "bigreactors:recipes/bigreactors.turbine/turbine/reinforced/passivefluidport_forge": {
+    "criteria": {
+      "has_item2": "2023-05-03 21:58:37 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/sophisticatedbackpacks/auto_smoking_upgrade": {
     "criteria": {
       "has_smoking_upgrade": "2023-05-03 18:07:51 +0000"
@@ -353,9 +527,21 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/andesite_bricks_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2023-05-03 21:17:21 +0000"
+    },
+    "done": true
+  },
   "creategearaddon:recipes/large_crimson_cogwheel": {
     "criteria": {
       "has_item": "2023-05-03 19:28:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite_stairs_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2023-05-03 21:17:21 +0000"
     },
     "done": true
   },
@@ -365,21 +551,15 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/andesite_cobblestone_stairs": {
+    "criteria": {
+      "has_andesite_cobblestone": "2023-05-03 20:27:03 +0000"
+    },
+    "done": true
+  },
   "floormats:recipes/connected/wooden/connected_oak_log": {
     "criteria": {
       "has_connector": "2023-05-03 19:24:11 +0000"
-    },
-    "done": true
-  },
-  "woot:recipes/woot/gray_dyecasing": {
-    "criteria": {
-      "cobblestone": "2023-05-03 19:35:43 +0000"
-    },
-    "done": true
-  },
-  "creategearaddon:recipes/mahogany_cogwheel": {
-    "criteria": {
-      "has_item": "2023-05-03 19:28:57 +0000"
     },
     "done": true
   },
@@ -389,9 +569,33 @@
     },
     "done": true
   },
+  "creategearaddon:recipes/mahogany_cogwheel": {
+    "criteria": {
+      "has_item": "2023-05-03 19:28:57 +0000"
+    },
+    "done": true
+  },
+  "woot:recipes/woot/gray_dyecasing": {
+    "criteria": {
+      "cobblestone": "2023-05-03 19:35:43 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.base/crafting/kinetics/gantry_shaft": {
     "criteria": {
       "has_item": "2023-05-03 19:28:57 +0000"
+    },
+    "done": true
+  },
+  "amb:recipes/white_wool_wall": {
+    "criteria": {
+      "has_white_wool": "2023-05-03 21:11:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blue_wool": {
+    "criteria": {
+      "has_white_wool": "2023-05-03 21:11:10 +0000"
     },
     "done": true
   },
@@ -407,6 +611,12 @@
     },
     "done": true
   },
+  "floormats:recipes/connected/connected_gold_block": {
+    "criteria": {
+      "has_connector": "2023-05-03 19:24:11 +0000"
+    },
+    "done": true
+  },
   "woot:recipes/woot/fluidconvertor": {
     "criteria": {
       "cobblestone": "2023-05-03 19:35:43 +0000"
@@ -419,9 +629,15 @@
     },
     "done": true
   },
-  "floormats:recipes/connected/connected_gold_block": {
+  "tconstruct:recipes/tconstruct/smeltery/smeltery/seared/grout_multiple": {
     "criteria": {
-      "has_connector": "2023-05-03 19:24:11 +0000"
+      "has_item": "2023-05-03 21:53:45 +0000"
+    },
+    "done": true
+  },
+  "storagedrawers:recipes/storagedrawers/oak_drawers": {
+    "criteria": {
+      "has_chest": "2023-05-03 21:52:19 +0000"
     },
     "done": true
   },
@@ -434,6 +650,12 @@
   "woot:recipes/woot/import": {
     "criteria": {
       "cobblestone": "2023-05-03 19:35:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/cauldron": {
+    "criteria": {
+      "has_water_bucket": "2023-05-03 21:58:37 +0000"
     },
     "done": true
   },
@@ -467,6 +689,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/gabbro_cobblestone_slab_from_gabbro_cobblestone_stonecutting": {
+    "criteria": {
+      "has_gabbro_cobblestone": "2023-05-03 20:27:20 +0000"
+    },
+    "done": true
+  },
   "extendedmushrooms:recipes/decorations/mushroom_wood/glowshroom/glowshroom_chest": {
     "criteria": {
       "has_lots_of_items": "2023-05-03 19:27:58 +0000"
@@ -485,15 +713,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_andesite_slab_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2023-05-03 21:17:21 +0000"
+    },
+    "done": true
+  },
   "mcwtrpdoors:recipes/spruce/spruce_ranch_trapdoor": {
     "criteria": {
       "has_planks": "2023-05-03 19:44:35 +0000"
     },
     "done": true
   },
+  "extendedmushrooms:recipes/transportation/mushroom_wood/glowshroom/glowshroom_boat": {
+    "criteria": {
+      "in_water": "2023-05-03 21:58:44 +0000"
+    },
+    "done": true
+  },
   "embellishcraft:recipes/embellishcraft_group/blue_oak_fancy_bed": {
     "criteria": {
       "has_oak_planks": "2023-05-03 19:37:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/acacia_boat": {
+    "criteria": {
+      "in_water": "2023-05-03 21:58:44 +0000"
     },
     "done": true
   },
@@ -521,9 +767,27 @@
     },
     "done": true
   },
+  "storagedrawers:recipes/storagedrawers/dark_oak_drawers": {
+    "criteria": {
+      "has_chest": "2023-05-03 21:52:19 +0000"
+    },
+    "done": true
+  },
   "creategearaddon:recipes/spruce_bracket": {
     "criteria": {
       "has_item": "2023-05-03 19:28:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_basalt_from_basalt_stonecutting": {
+    "criteria": {
+      "has_basalt": "2023-05-03 20:27:08 +0000"
+    },
+    "done": true
+  },
+  "extendedmushrooms:recipes/transportation/mushroom_wood/honey_fungus/honey_fungus_boat": {
+    "criteria": {
+      "in_water": "2023-05-03 21:58:44 +0000"
     },
     "done": true
   },
@@ -545,9 +809,21 @@
     },
     "done": true
   },
+  "create:recipes/create.base/crafting/kinetics/black_seat": {
+    "criteria": {
+      "has_wool": "2023-05-03 21:11:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/white_concrete_powder": {
     "criteria": {
       "has_gravel": "2023-05-03 19:39:49 +0000"
+    },
+    "done": true
+  },
+  "exnihilosequentia:recipes/exnihilosequentia/ens_crook_wood": {
+    "criteria": {
+      "has_pebble": "2023-05-03 19:24:11 +0000"
     },
     "done": true
   },
@@ -557,9 +833,9 @@
     },
     "done": true
   },
-  "exnihilosequentia:recipes/exnihilosequentia/ens_crook_wood": {
+  "minecraft:recipes/building_blocks/white_wool_from_string": {
     "criteria": {
-      "has_pebble": "2023-05-03 19:24:11 +0000"
+      "has_string": "2023-05-03 20:31:27 +0000"
     },
     "done": true
   },
@@ -572,6 +848,18 @@
   "exnihilosequentia:recipes/exnihilosequentia/ens_cooked_silkworm": {
     "criteria": {
       "has_silkworm": "2023-05-03 19:28:14 +0000"
+    },
+    "done": true
+  },
+  "decorative_blocks:recipes/decorations/chandelier": {
+    "criteria": {
+      "has_torch": "2023-05-03 20:34:00 +0000"
+    },
+    "done": true
+  },
+  "creategearaddon:recipes/large_half_shaft_oak_cogwheel": {
+    "criteria": {
+      "has_large_cogwheels": "2023-05-03 21:22:12 +0000"
     },
     "done": true
   },
@@ -611,6 +899,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/fletching_table": {
+    "criteria": {
+      "has_flint": "2023-05-03 20:55:10 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.base/crafting/kinetics/radial_chassis": {
     "criteria": {
       "has_item": "2023-05-03 19:28:57 +0000"
@@ -623,9 +917,27 @@
     },
     "done": true
   },
+  "create:recipes/create.base/crafting/kinetics/mechanical_press": {
+    "criteria": {
+      "has_item": "2023-05-03 21:17:06 +0000"
+    },
+    "done": true
+  },
+  "exnihilosequentia:recipes/exnihilosequentia/ens_porcelain_clay": {
+    "criteria": {
+      "has_clay": "2023-05-03 21:53:45 +0000"
+    },
+    "done": true
+  },
   "woot:recipes/woot/cell_4": {
     "criteria": {
       "cobblestone": "2023-05-03 19:35:43 +0000"
+    },
+    "done": true
+  },
+  "creategearaddon:recipes/large_shaftless_oak_cogwheel": {
+    "criteria": {
+      "has_item": "2023-05-03 21:17:06 +0000"
     },
     "done": true
   },
@@ -665,6 +977,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2023-05-03 20:27:05 +0000"
+    },
+    "done": true
+  },
+  "amb:recipes/andesite_button": {
+    "criteria": {
+      "has_andesite": "2023-05-03 21:17:21 +0000"
+    },
+    "done": true
+  },
   "woot:recipes/woot/mass_1": {
     "criteria": {
       "cobblestone": "2023-05-03 19:35:43 +0000"
@@ -695,6 +1019,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_blackstone_bricks_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2023-05-03 20:27:05 +0000"
+    },
+    "done": true
+  },
+  "amb:recipes/basalt_slab_from_basalt_stonecutting": {
+    "criteria": {
+      "has_basalt": "2023-05-03 20:27:08 +0000"
+    },
+    "done": true
+  },
   "betterendforge:recipes/betterendforge/terminite_sword_handle_smithing": {
     "criteria": {
       "has_stick": "2023-05-03 19:24:11 +0000"
@@ -719,6 +1055,12 @@
     },
     "done": true
   },
+  "create:recipes/create.base/crafting/kinetics/red_seat": {
+    "criteria": {
+      "has_wool": "2023-05-03 21:11:10 +0000"
+    },
+    "done": true
+  },
   "betterendforge:recipes/betterendforge/thallasium_hammer_smithing": {
     "criteria": {
       "has_stick": "2023-05-03 19:24:11 +0000"
@@ -737,9 +1079,33 @@
     },
     "done": true
   },
+  "creategearaddon:recipes/large_half_shaft_redwood_cogwheel": {
+    "criteria": {
+      "has_large_cogwheels": "2023-05-03 21:22:12 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.base/crafting/kinetics/shaft": {
     "criteria": {
       "has_item": "2023-05-03 19:28:57 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/andesite_cobblestone_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2023-05-03 21:17:21 +0000"
+    },
+    "done": true
+  },
+  "comforts:hammock_white": {
+    "criteria": {
+      "has_white_wool": "2023-05-03 21:11:10 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/kinetics/mechanical_drill": {
+    "criteria": {
+      "has_item": "2023-05-03 21:17:06 +0000"
     },
     "done": true
   },
@@ -758,6 +1124,12 @@
   "framedblocks:recipes/framed_blocks/framed_cube": {
     "criteria": {
       "hasPlanks": "2023-05-03 19:37:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/black_wool": {
+    "criteria": {
+      "has_white_wool": "2023-05-03 21:11:09 +0000"
     },
     "done": true
   },
@@ -798,13 +1170,38 @@
     },
     "done": true
   },
+  "create:water_wheel": {
+    "criteria": {
+      "0": "2023-05-03 21:21:44 +0000",
+      "1": "2023-05-03 21:58:43 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/overgrown_andesite_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2023-05-03 21:17:21 +0000"
+    },
+    "done": true
+  },
   "embellishcraft:recipes/embellishcraft_group/cyan_oak_fancy_bed": {
     "criteria": {
       "has_oak_planks": "2023-05-03 19:37:54 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/decorations/blackstone_wall_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2023-05-03 20:27:05 +0000"
+    },
+    "done": true
+  },
   "mcwtrpdoors:recipes/oak/oak_cottage_trapdoor": {
+    "criteria": {
+      "has_planks": "2023-05-03 19:24:02 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/oak_bridge_pier": {
     "criteria": {
       "has_planks": "2023-05-03 19:24:02 +0000"
     },
@@ -816,9 +1213,9 @@
     },
     "done": true
   },
-  "mcwbridges:recipes/oak_bridge_pier": {
+  "minecraft:recipes/building_blocks/blackstone_stairs": {
     "criteria": {
-      "has_planks": "2023-05-03 19:24:02 +0000"
+      "has_blackstone": "2023-05-03 20:27:05 +0000"
     },
     "done": true
   },
@@ -840,9 +1237,27 @@
     },
     "done": true
   },
+  "supplementaries:recipes/sconce": {
+    "criteria": {
+      "has_item": "2023-05-03 20:34:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/light_blue_wool": {
+    "criteria": {
+      "has_white_wool": "2023-05-03 21:11:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/wooden_sword": {
     "criteria": {
       "has_stick": "2023-05-03 19:24:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blackstone_slab_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2023-05-03 20:27:05 +0000"
     },
     "done": true
   },
@@ -858,21 +1273,33 @@
     },
     "done": true
   },
-  "mcwtrpdoors:recipes/spruce/spruce_beach_trapdoor": {
-    "criteria": {
-      "has_planks": "2023-05-03 19:44:35 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/gray_concrete_powder": {
     "criteria": {
       "has_gravel": "2023-05-03 19:39:49 +0000"
     },
     "done": true
   },
+  "mcwtrpdoors:recipes/spruce/spruce_beach_trapdoor": {
+    "criteria": {
+      "has_planks": "2023-05-03 19:44:35 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/kinetics/cyan_seat": {
+    "criteria": {
+      "has_wool": "2023-05-03 21:11:10 +0000"
+    },
+    "done": true
+  },
   "mcwfurnitures:recipes/oak": {
     "criteria": {
       "has_planks": "2023-05-03 19:24:02 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/kinetics/millstone": {
+    "criteria": {
+      "has_item": "2023-05-03 19:28:57 +0000"
     },
     "done": true
   },
@@ -888,15 +1315,15 @@
     },
     "done": true
   },
-  "create:recipes/create.base/crafting/kinetics/millstone": {
-    "criteria": {
-      "has_item": "2023-05-03 19:28:57 +0000"
-    },
-    "done": true
-  },
   "exnihilosequentia:recipes/exnihilosequentia/ens_sieve": {
     "criteria": {
       "has_plank": "2023-05-03 19:37:53 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/kinetics/secondary_linear_chassisfrom_conversion": {
+    "criteria": {
+      "has_the_recipe": "2023-05-03 21:40:37 +0000"
     },
     "done": true
   },
@@ -924,15 +1351,39 @@
     },
     "done": true
   },
-  "create:recipes/create.base/crafting/kinetics/sail_frame": {
+  "creategears:recipes/creategears/large_gear_from_cogwheel": {
     "criteria": {
-      "has_item": "2023-05-03 19:28:57 +0000"
+      "has_cogwheel": "2023-05-03 21:22:12 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/black_concrete_powder": {
+  "amb:recipes/basalt_wall": {
     "criteria": {
-      "has_gravel": "2023-05-03 19:39:49 +0000"
+      "has_basalt": "2023-05-03 20:27:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tripwire_hook": {
+    "criteria": {
+      "has_string": "2023-05-03 20:31:27 +0000"
+    },
+    "done": true
+  },
+  "storagedrawers:recipes/storagedrawers/birch_drawers": {
+    "criteria": {
+      "has_chest": "2023-05-03 21:52:19 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/blackstone_bridge": {
+    "criteria": {
+      "has_planks": "2023-05-03 20:27:05 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/kinetics/sail_frame": {
+    "criteria": {
+      "has_item": "2023-05-03 19:28:57 +0000"
     },
     "done": true
   },
@@ -945,6 +1396,12 @@
   "embellishcraft:recipes/embellishcraft_group/oak_suspended_stairs": {
     "criteria": {
       "has_oak_planks": "2023-05-03 19:37:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/black_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2023-05-03 19:39:49 +0000"
     },
     "done": true
   },
@@ -966,9 +1423,33 @@
     },
     "done": true
   },
+  "comforts:sleeping_bag_white": {
+    "criteria": {
+      "has_white_wool": "2023-05-03 21:11:10 +0000"
+    },
+    "done": true
+  },
   "resourcefulbees:resourcefulbees/obtain_bee_nest": {
     "criteria": {
       "obtain_bee_nest": "2023-05-03 19:48:08 +0000"
+    },
+    "done": true
+  },
+  "creategearaddon:recipes/large_half_shaft_crimson_cogwheel": {
+    "criteria": {
+      "has_large_cogwheels": "2023-05-03 21:22:12 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/string": {
+    "criteria": {
+      "has_plank": "2023-05-03 21:35:40 +0000"
+    },
+    "done": true
+  },
+  "undergarden:recipes/undergarden_group/smogstem_boat": {
+    "criteria": {
+      "in_water": "2023-05-03 21:58:44 +0000"
     },
     "done": true
   },
@@ -984,15 +1465,15 @@
     },
     "done": true
   },
-  "supplementaries:recipes/item_shelf": {
+  "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_blackstone_stonecutting": {
     "criteria": {
-      "has_item": "2023-05-03 19:37:54 +0000"
+      "has_blackstone": "2023-05-03 20:27:05 +0000"
     },
     "done": true
   },
-  "amb:recipes/dirt_wall": {
+  "supplementaries:recipes/item_shelf": {
     "criteria": {
-      "has_dirt": "2023-05-03 19:54:13 +0000"
+      "has_item": "2023-05-03 19:37:54 +0000"
     },
     "done": true
   },
@@ -1008,6 +1489,24 @@
     },
     "done": true
   },
+  "amb:recipes/dirt_wall": {
+    "criteria": {
+      "has_dirt": "2023-05-03 19:54:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_slab_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2023-05-03 20:27:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/yellow_wool": {
+    "criteria": {
+      "has_white_wool": "2023-05-03 21:11:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/oak_sign": {
     "criteria": {
       "has_oak_planks": "2023-05-03 19:37:53 +0000"
@@ -1020,9 +1519,27 @@
     },
     "done": true
   },
+  "creategearaddon:recipes/large_half_shaft_willow_cogwheel": {
+    "criteria": {
+      "has_large_cogwheels": "2023-05-03 21:22:12 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/appliances/tree_fertilizer": {
+    "criteria": {
+      "has_item": "2023-05-03 20:48:38 +0000"
+    },
+    "done": true
+  },
   "woot:recipes/woot/light_blue_dyecasing": {
     "criteria": {
       "cobblestone": "2023-05-03 19:35:43 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/andesite_pillar": {
+    "criteria": {
+      "has_andesite": "2023-05-03 21:17:21 +0000"
     },
     "done": true
   },
@@ -1050,6 +1567,12 @@
     },
     "done": true
   },
+  "creategearaddon:recipes/large_half_shaft_jungle_cogwheel": {
+    "criteria": {
+      "has_large_cogwheels": "2023-05-03 21:22:12 +0000"
+    },
+    "done": true
+  },
   "betterdungeons:root": {
     "criteria": {
       "always": "2023-05-03 18:07:52 +0000"
@@ -1062,9 +1585,33 @@
     },
     "done": true
   },
+  "embellishcraft:recipes/embellishcraft_group/white_pillow": {
+    "criteria": {
+      "has_white_wool": "2023-05-03 21:11:10 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/limestone_pillar_from_limestone_stonecutting": {
+    "criteria": {
+      "has_limestone": "2023-05-03 21:33:43 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.base/crafting/kinetics/chute": {
     "criteria": {
       "has_item": "2023-05-03 19:28:57 +0000"
+    },
+    "done": true
+  },
+  "create:millstone": {
+    "criteria": {
+      "0": "2023-05-03 21:25:45 +0000"
+    },
+    "done": true
+  },
+  "betterendforge:recipes/betterendforge/thallasium_hoe_smithing": {
+    "criteria": {
+      "has_stick": "2023-05-03 19:24:11 +0000"
     },
     "done": true
   },
@@ -1074,9 +1621,15 @@
     },
     "done": true
   },
-  "betterendforge:recipes/betterendforge/thallasium_hoe_smithing": {
+  "embellishcraft:recipes/embellishcraft_group/white_couch": {
     "criteria": {
-      "has_stick": "2023-05-03 19:24:11 +0000"
+      "has_white_wool": "2023-05-03 21:11:10 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/diorite": {
+    "criteria": {
+      "has_diorite_cobblestone": "2023-05-03 20:27:23 +0000"
     },
     "done": true
   },
@@ -1095,6 +1648,12 @@
   "woot:recipes/woot/factory_a": {
     "criteria": {
       "cobblestone": "2023-05-03 19:35:43 +0000"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/blackstone": {
+    "criteria": {
+      "has_blackstone": "2023-05-03 20:27:05 +0000"
     },
     "done": true
   },
@@ -1140,6 +1699,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:river": "2023-05-03 21:00:18 +0000"
+    },
+    "done": false
+  },
   "woot:recipes/woot/factory_e": {
     "criteria": {
       "cobblestone": "2023-05-03 19:35:43 +0000"
@@ -1149,6 +1714,18 @@
   "creategearaddon:recipes/large_cherry_cogwheel": {
     "criteria": {
       "has_item": "2023-05-03 19:28:57 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/granite_cobblestone_stairs_from_granite_cobblestone_stonecutting": {
+    "criteria": {
+      "has_granite_cobblestone": "2023-05-03 20:27:10 +0000"
+    },
+    "done": true
+  },
+  "undergarden:recipes/undergarden_group/grongle_boat": {
+    "criteria": {
+      "in_water": "2023-05-03 21:58:44 +0000"
     },
     "done": true
   },
@@ -1167,6 +1744,12 @@
   "betterendforge:recipes/betterendforge/terminite_hoe_smithing": {
     "criteria": {
       "has_stick": "2023-05-03 19:24:11 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/limestone_pillar": {
+    "criteria": {
+      "has_limestone": "2023-05-03 21:33:43 +0000"
     },
     "done": true
   },
@@ -1194,21 +1777,27 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/immersiveengineering/crafting/jerrycan": {
+    "criteria": {
+      "has_bucket": "2023-05-03 21:58:42 +0000"
+    },
+    "done": true
+  },
   "floormats:recipes/connected/gilded/connected_gilded_jungle_log": {
     "criteria": {
       "has_connector": "2023-05-03 19:24:11 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/tools/stone_pickaxe": {
-    "criteria": {
-      "has_cobblestone": "2023-05-03 19:35:43 +0000"
-    },
-    "done": true
-  },
   "creategearaddon:recipes/jacaranda_cogwheel": {
     "criteria": {
       "has_item": "2023-05-03 19:28:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_pickaxe": {
+    "criteria": {
+      "has_cobblestone": "2023-05-03 19:35:43 +0000"
     },
     "done": true
   },
@@ -1230,6 +1819,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/chiseled_limestone_from_limestone_stonecutting": {
+    "criteria": {
+      "has_limestone": "2023-05-03 21:33:43 +0000"
+    },
+    "done": true
+  },
   "creategearaddon:recipes/large_fir_cogwheel": {
     "criteria": {
       "has_item": "2023-05-03 19:28:57 +0000"
@@ -1239,6 +1834,12 @@
   "minecraft:recipes/decorations/cobblestone_wall_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2023-05-03 19:35:43 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/tconstruct/gadgets/gadgets/shuriken/flint_shuriken": {
+    "criteria": {
+      "has_item": "2023-05-03 20:55:10 +0000"
     },
     "done": true
   },
@@ -1258,6 +1859,12 @@
   "mcwtrpdoors:recipes/oak/oak_beach_trapdoor": {
     "criteria": {
       "has_planks": "2023-05-03 19:24:02 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/kinetics/white_seat": {
+    "criteria": {
+      "has_wool": "2023-05-03 21:11:10 +0000"
     },
     "done": true
   },
@@ -1315,6 +1922,24 @@
     },
     "done": true
   },
+  "amb:recipes/basalt_stairs": {
+    "criteria": {
+      "has_basalt": "2023-05-03 20:27:08 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/mossy_limestone_from_limestone_stonecutting": {
+    "criteria": {
+      "has_limestone": "2023-05-03 21:33:43 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/andesite_cobblestone_slab_from_andesite_cobblestone_stonecutting": {
+    "criteria": {
+      "has_andesite_cobblestone": "2023-05-03 20:27:03 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.base/crafting/curiosities/minecart_coupling": {
     "criteria": {
       "has_item": "2023-05-03 19:28:57 +0000"
@@ -1333,9 +1958,51 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/light_gray_wool": {
+    "criteria": {
+      "has_white_wool": "2023-05-03 21:11:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/andesite_wall": {
+    "criteria": {
+      "has_andesite": "2023-05-03 21:17:21 +0000"
+    },
+    "done": true
+  },
   "floormats:recipes/connected/wooden/connected_acacia_log": {
     "criteria": {
       "has_connector": "2023-05-03 19:24:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite_slab": {
+    "criteria": {
+      "has_andesite": "2023-05-03 21:17:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_wool": {
+    "criteria": {
+      "has_white_wool": "2023-05-03 21:11:10 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/gabbro_cobblestone_stairs_from_gabbro_cobblestone_stonecutting": {
+    "criteria": {
+      "has_gabbro_cobblestone": "2023-05-03 20:27:20 +0000"
+    },
+    "done": true
+  },
+  "exnihilosequentia:recipes/exnihilosequentia/ens_mesh_iron": {
+    "criteria": {
+      "has_mesh": "2023-05-03 20:34:50 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/checker_slab_stonecutter": {
+    "criteria": {
+      "has_plank": "2023-05-03 20:27:05 +0000"
     },
     "done": true
   },
@@ -1345,9 +2012,21 @@
     },
     "done": true
   },
+  "resourcefulbees:resourcefulbees/fifty_shades_of_bees": {
+    "criteria": {
+      "fifty_shades_of_bees": "2023-05-03 20:24:55 +0000"
+    },
+    "done": true
+  },
   "creategearaddon:recipes/large_palm_cogwheel": {
     "criteria": {
       "has_item": "2023-05-03 19:28:57 +0000"
+    },
+    "done": true
+  },
+  "amb:recipes/basalt_button": {
+    "criteria": {
+      "has_basalt": "2023-05-03 20:27:08 +0000"
     },
     "done": true
   },
@@ -1387,6 +2066,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/purple_wool": {
+    "criteria": {
+      "has_white_wool": "2023-05-03 21:11:10 +0000"
+    },
+    "done": true
+  },
   "creategearaddon:recipes/large_hellbark_cogwheel": {
     "criteria": {
       "has_item": "2023-05-03 19:28:57 +0000"
@@ -1405,6 +2090,18 @@
     },
     "done": true
   },
+  "creategearaddon:recipes/large_half_shaft_magic_cogwheel": {
+    "criteria": {
+      "has_large_cogwheels": "2023-05-03 21:22:12 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/kinetics/blue_seat": {
+    "criteria": {
+      "has_wool": "2023-05-03 21:11:09 +0000"
+    },
+    "done": true
+  },
   "amb:recipes/spruce_wood_fence_gate": {
     "criteria": {
       "has_spruce_log": "2023-05-03 19:44:35 +0000"
@@ -1417,15 +2114,27 @@
     },
     "done": true
   },
+  "floormats:recipes/connected/nether/crimson_stem/connected_gilded_crimson_stem": {
+    "criteria": {
+      "has_connector": "2023-05-03 19:24:11 +0000"
+    },
+    "done": true
+  },
   "woot:recipes/woot/si_dust_2": {
     "criteria": {
       "cobblestone": "2023-05-03 19:35:43 +0000"
     },
     "done": true
   },
-  "floormats:recipes/connected/nether/crimson_stem/connected_gilded_crimson_stem": {
+  "exnihilosequentia:recipes/exnihilosequentia/ens_barrel_stone": {
     "criteria": {
-      "has_connector": "2023-05-03 19:24:11 +0000"
+      "has_walls": "2023-05-03 21:17:21 +0000"
+    },
+    "done": true
+  },
+  "amb:recipes/basalt_pressure_plate": {
+    "criteria": {
+      "has_basalt": "2023-05-03 20:27:08 +0000"
     },
     "done": true
   },
@@ -1441,9 +2150,33 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/polished_limestone": {
+    "criteria": {
+      "has_limestone": "2023-05-03 21:33:43 +0000"
+    },
+    "done": true
+  },
   "creategearaddon:recipes/large_dark_oak_cogwheel": {
     "criteria": {
       "has_item": "2023-05-03 19:28:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_stairs_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2023-05-03 21:17:21 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/kinetics/gantry_carriage": {
+    "criteria": {
+      "has_item": "2023-05-03 21:17:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_bed": {
+    "criteria": {
+      "has_white_wool": "2023-05-03 21:11:10 +0000"
     },
     "done": true
   },
@@ -1465,6 +2198,12 @@
     },
     "done": true
   },
+  "amb:recipes/white_wool_slab": {
+    "criteria": {
+      "has_white_wool": "2023-05-03 21:11:10 +0000"
+    },
+    "done": true
+  },
   "woot:recipes/woot/hammer": {
     "criteria": {
       "cobblestone": "2023-05-03 19:35:43 +0000"
@@ -1477,9 +2216,27 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/brown_concrete_powder": {
+  "create:recipes/create.base/crafting/kinetics/mechanical_piston": {
     "criteria": {
-      "has_gravel": "2023-05-03 19:39:49 +0000"
+      "has_item": "2023-05-03 21:17:06 +0000"
+    },
+    "done": true
+  },
+  "jellyfishing:jellyfishing/root": {
+    "criteria": {
+      "consumed_item": "2023-05-03 21:58:44 +0000"
+    },
+    "done": true
+  },
+  "storagedrawers:recipes/storagedrawers/jungle_drawers": {
+    "criteria": {
+      "has_chest": "2023-05-03 21:52:19 +0000"
+    },
+    "done": true
+  },
+  "creategearaddon:recipes/large_half_shaft_mahogany_cogwheel": {
+    "criteria": {
+      "has_large_cogwheels": "2023-05-03 21:22:12 +0000"
     },
     "done": true
   },
@@ -1489,9 +2246,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/brown_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2023-05-03 19:39:49 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/diorite_cobblestone_slab": {
+    "criteria": {
+      "has_diorite_cobblestone": "2023-05-03 20:27:23 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/rope_arrow": {
+    "criteria": {
+      "has_plank": "2023-05-03 21:35:40 +0000"
+    },
+    "done": true
+  },
   "ironchest:recipes/ironchest/chests/vanilla_dirt_chest": {
     "criteria": {
       "has_iron_ingot": "2023-05-03 19:54:13 +0000"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:recipes/generic/bonus_wool_recipes": {
+    "criteria": {
+      "has_white_wool": "2023-05-03 21:11:09 +0000"
     },
     "done": true
   },
@@ -1501,9 +2282,27 @@
     },
     "done": true
   },
+  "storagedrawers:recipes/storagedrawers/crimson_drawers": {
+    "criteria": {
+      "has_chest": "2023-05-03 21:52:19 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/kinetics/weighted_ejector": {
+    "criteria": {
+      "has_item": "2023-05-03 21:17:06 +0000"
+    },
+    "done": true
+  },
   "mcwtrpdoors:recipes/oak/oak_barn_trapdoor": {
     "criteria": {
       "has_planks": "2023-05-03 19:24:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cyan_wool": {
+    "criteria": {
+      "has_white_wool": "2023-05-03 21:11:10 +0000"
     },
     "done": true
   },
@@ -1513,15 +2312,21 @@
     },
     "done": true
   },
-  "aquaculture:recipes/tools/wooden_fillet_knife": {
+  "minecraft:recipes/misc/white_dye": {
     "criteria": {
-      "has_items": "2023-05-03 19:24:11 +0000"
+      "has_bone_meal": "2023-05-03 20:48:38 +0000"
     },
     "done": true
   },
-  "create:recipes/create.palettes/oak_window": {
+  "minecraft:recipes/transportation/spruce_boat": {
     "criteria": {
-      "has_ingredient": "2023-05-03 19:37:54 +0000"
+      "in_water": "2023-05-03 21:58:44 +0000"
+    },
+    "done": true
+  },
+  "aquaculture:recipes/tools/wooden_fillet_knife": {
+    "criteria": {
+      "has_items": "2023-05-03 19:24:11 +0000"
     },
     "done": true
   },
@@ -1531,15 +2336,57 @@
     },
     "done": true
   },
-  "embellishcraft:recipes/embellishcraft_group/oak_large_suspended_stairs": {
+  "create:recipes/create.palettes/oak_window": {
     "criteria": {
-      "has_oak_planks": "2023-05-03 19:37:54 +0000"
+      "has_ingredient": "2023-05-03 19:37:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/terracotta": {
+    "criteria": {
+      "has_clay_block": "2023-05-03 21:53:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/flint_and_steel": {
+    "criteria": {
+      "has_flint": "2023-05-03 20:55:10 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/kinetics/mechanical_plough": {
+    "criteria": {
+      "has_item": "2023-05-03 21:17:06 +0000"
+    },
+    "done": true
+  },
+  "storagedrawers:recipes/storagedrawers/warped_drawers": {
+    "criteria": {
+      "has_chest": "2023-05-03 21:52:19 +0000"
     },
     "done": true
   },
   "projecte:recipes/projecte/low_covalence_dust": {
     "criteria": {
       "has_cobble": "2023-05-03 19:35:43 +0000"
+    },
+    "done": true
+  },
+  "embellishcraft:recipes/embellishcraft_group/oak_large_suspended_stairs": {
+    "criteria": {
+      "has_oak_planks": "2023-05-03 19:37:54 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/blackstone_bridge_pier": {
+    "criteria": {
+      "has_planks": "2023-05-03 20:27:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/gray_wool": {
+    "criteria": {
+      "has_white_wool": "2023-05-03 21:11:09 +0000"
     },
     "done": true
   },
@@ -1567,6 +2414,24 @@
     },
     "done": true
   },
+  "create:overstressed": {
+    "criteria": {
+      "0": "2023-05-03 21:29:00 +0000"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/hedge": {
+    "criteria": {
+      "has_birch": "2023-05-03 21:05:36 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/overgrown_limestone_from_limestone_stonecutting": {
+    "criteria": {
+      "has_limestone": "2023-05-03 21:33:43 +0000"
+    },
+    "done": true
+  },
   "creategearaddon:recipes/large_magic_cogwheel": {
     "criteria": {
       "has_item": "2023-05-03 19:28:57 +0000"
@@ -1585,21 +2450,27 @@
     },
     "done": true
   },
+  "creategearaddon:recipes/large_half_shaft_fir_cogwheel": {
+    "criteria": {
+      "has_large_cogwheels": "2023-05-03 21:22:12 +0000"
+    },
+    "done": true
+  },
   "embellishcraft:recipes/embellishcraft_group/gray_oak_fancy_bed": {
     "criteria": {
       "has_oak_planks": "2023-05-03 19:37:54 +0000"
     },
     "done": true
   },
-  "woot:recipes/woot/blue_dyecasing": {
-    "criteria": {
-      "cobblestone": "2023-05-03 19:35:43 +0000"
-    },
-    "done": true
-  },
   "extendedmushrooms:recipes/decorations/mushroom_wood/honey_fungus/honey_fungus_chest": {
     "criteria": {
       "has_lots_of_items": "2023-05-03 19:27:58 +0000"
+    },
+    "done": true
+  },
+  "woot:recipes/woot/blue_dyecasing": {
+    "criteria": {
+      "cobblestone": "2023-05-03 19:35:43 +0000"
     },
     "done": true
   },
@@ -1633,6 +2504,24 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/white_banner": {
+    "criteria": {
+      "has_white_wool": "2023-05-03 21:11:10 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/daub": {
+    "criteria": {
+      "has_plank": "2023-05-03 21:53:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_stairs_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2023-05-03 20:27:06 +0000"
+    },
+    "done": true
+  },
   "floormats:recipes/connected/gilded/connected_gilded_acacia_log": {
     "criteria": {
       "has_connector": "2023-05-03 19:24:11 +0000"
@@ -1642,6 +2531,24 @@
   "minecraft:recipes/building_blocks/light_blue_concrete_powder": {
     "criteria": {
       "has_gravel": "2023-05-03 19:39:49 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/kinetics/purple_seat": {
+    "criteria": {
+      "has_wool": "2023-05-03 21:11:10 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/checker_slab": {
+    "criteria": {
+      "has_plank": "2023-05-03 20:27:05 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/kinetics/mechanical_saw": {
+    "criteria": {
+      "has_item": "2023-05-03 21:17:06 +0000"
     },
     "done": true
   },
@@ -1657,6 +2564,18 @@
     },
     "done": true
   },
+  "create:its_alive": {
+    "criteria": {
+      "0": "2023-05-03 21:23:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/bow": {
+    "criteria": {
+      "has_string": "2023-05-03 20:31:27 +0000"
+    },
+    "done": true
+  },
   "creategearaddon:recipes/large_umbran_cogwheel": {
     "criteria": {
       "has_item": "2023-05-03 19:28:57 +0000"
@@ -1669,9 +2588,9 @@
     },
     "done": true
   },
-  "mcwtrpdoors:recipes/bamboo/bamboo_ranch_trapdoor": {
+  "minecraft:recipes/redstone/tnt": {
     "criteria": {
-      "has_planks": "2023-05-03 19:44:35 +0000"
+      "has_gunpowder": "2023-05-03 20:38:53 +0000"
     },
     "done": true
   },
@@ -1681,15 +2600,45 @@
     },
     "done": true
   },
+  "mcwtrpdoors:recipes/bamboo/bamboo_ranch_trapdoor": {
+    "criteria": {
+      "has_planks": "2023-05-03 19:44:35 +0000"
+    },
+    "done": true
+  },
+  "embellishcraft:recipes/embellishcraft_group/white_table_lamp": {
+    "criteria": {
+      "has_white_wool": "2023-05-03 21:11:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/purple_concrete_powder": {
     "criteria": {
       "has_gravel": "2023-05-03 19:39:49 +0000"
     },
     "done": true
   },
+  "create:recipes/create.palettes/diorite_cobblestone_stairs": {
+    "criteria": {
+      "has_diorite_cobblestone": "2023-05-03 20:27:23 +0000"
+    },
+    "done": true
+  },
   "extendedmushrooms:recipes/decorations/mushroom_wood/honey_fungus/honey_fungus_ladder": {
     "criteria": {
       "has_stick": "2023-05-03 19:24:11 +0000"
+    },
+    "done": true
+  },
+  "creategearaddon:recipes/large_half_shaft_hellbark_cogwheel": {
+    "criteria": {
+      "has_large_cogwheels": "2023-05-03 21:22:12 +0000"
+    },
+    "done": true
+  },
+  "rats:rats/milk_cauldron": {
+    "criteria": {
+      "cauldron_milk": "2023-05-03 21:06:47 +0000"
     },
     "done": true
   },
@@ -1711,9 +2660,27 @@
     },
     "done": true
   },
+  "undergarden:recipes/undergarden_group/gloom_o_lantern": {
+    "criteria": {
+      "has_torch": "2023-05-03 20:34:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/mine_stone": {
     "criteria": {
       "get_stone": "2023-05-03 19:35:43 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/kinetics/depot": {
+    "criteria": {
+      "has_item": "2023-05-03 21:17:06 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/gabbro_cobblestone_slab": {
+    "criteria": {
+      "has_gabbro_cobblestone": "2023-05-03 20:27:20 +0000"
     },
     "done": true
   },
@@ -1741,9 +2708,21 @@
     },
     "done": true
   },
+  "bigreactors:recipes/bigreactors.turbine/turbine/basic/passivefluidport_forge": {
+    "criteria": {
+      "has_item2": "2023-05-03 21:58:37 +0000"
+    },
+    "done": true
+  },
   "woot:recipes/woot/orange_dyecasing": {
     "criteria": {
       "cobblestone": "2023-05-03 19:35:43 +0000"
+    },
+    "done": true
+  },
+  "create:andesite_casing": {
+    "criteria": {
+      "0": "2023-05-03 21:17:06 +0000"
     },
     "done": true
   },
@@ -1753,9 +2732,9 @@
     },
     "done": true
   },
-  "floormats:recipes/connected/wooden/connected_birch_log": {
+  "minecraft:recipes/building_blocks/andesite_stairs": {
     "criteria": {
-      "has_connector": "2023-05-03 19:24:11 +0000"
+      "has_andesite": "2023-05-03 21:17:21 +0000"
     },
     "done": true
   },
@@ -1765,15 +2744,21 @@
     },
     "done": true
   },
+  "floormats:recipes/connected/wooden/connected_birch_log": {
+    "criteria": {
+      "has_connector": "2023-05-03 19:24:11 +0000"
+    },
+    "done": true
+  },
   "creategearaddon:recipes/oak_cogwheel": {
     "criteria": {
       "has_item": "2023-05-03 19:28:57 +0000"
     },
     "done": true
   },
-  "decorative_blocks:recipes/decorations/spruce_palisade": {
+  "minecraft:recipes/building_blocks/orange_wool": {
     "criteria": {
-      "has_log": "2023-05-03 19:44:35 +0000"
+      "has_white_wool": "2023-05-03 21:11:09 +0000"
     },
     "done": true
   },
@@ -1783,15 +2768,45 @@
     },
     "done": true
   },
+  "decorative_blocks:recipes/decorations/spruce_palisade": {
+    "criteria": {
+      "has_log": "2023-05-03 19:44:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:husbandry/root": {
     "criteria": {
       "consumed_item": "2023-05-03 19:29:48 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/transportation/birch_boat": {
+    "criteria": {
+      "in_water": "2023-05-03 21:58:44 +0000"
+    },
+    "done": true
+  },
+  "creategears:recipes/creategears/large_half_shaft_gear": {
+    "criteria": {
+      "has_large_cogwheels": "2023-05-03 21:22:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/green_concrete_powder": {
     "criteria": {
       "has_gravel": "2023-05-03 19:39:49 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/andesite_cobblestone_slab": {
+    "criteria": {
+      "has_andesite_cobblestone": "2023-05-03 20:27:03 +0000"
+    },
+    "done": true
+  },
+  "embellishcraft:recipes/embellishcraft_group/andesite_rooftiles_from_andesite": {
+    "criteria": {
+      "has_andesite": "2023-05-03 21:17:21 +0000"
     },
     "done": true
   },
@@ -1807,6 +2822,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_andesite_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2023-05-03 21:17:21 +0000"
+    },
+    "done": true
+  },
   "mcwtrpdoors:recipes/spruce/spruce_four_panel_trapdoor": {
     "criteria": {
       "has_planks": "2023-05-03 19:44:35 +0000"
@@ -1816,6 +2837,12 @@
   "woot:recipes/woot/cap_c": {
     "criteria": {
       "cobblestone": "2023-05-03 19:35:43 +0000"
+    },
+    "done": true
+  },
+  "create:shifting_gears": {
+    "criteria": {
+      "0": "2023-05-03 21:43:28 +0000"
     },
     "done": true
   },
@@ -1849,15 +2876,27 @@
     },
     "done": true
   },
-  "embellishcraft:recipes/embellishcraft_group/magenta_oak_fancy_bed": {
+  "botania:recipes/botania/red_string_container": {
     "criteria": {
-      "has_oak_planks": "2023-05-03 19:37:54 +0000"
+      "has_base_block": "2023-05-03 21:52:19 +0000"
     },
     "done": true
   },
   "aquaculture:recipes/tools/stone_fillet_knife": {
     "criteria": {
       "has_items": "2023-05-03 19:35:43 +0000"
+    },
+    "done": true
+  },
+  "embellishcraft:recipes/embellishcraft_group/magenta_oak_fancy_bed": {
+    "criteria": {
+      "has_oak_planks": "2023-05-03 19:37:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone": {
+    "criteria": {
+      "has_blackstone": "2023-05-03 20:27:05 +0000"
     },
     "done": true
   },
@@ -1870,6 +2909,18 @@
   "mcwtrpdoors:recipes/oak/oak_barred_trapdoor": {
     "criteria": {
       "has_planks": "2023-05-03 19:24:02 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/blackboard": {
+    "criteria": {
+      "has_item": "2023-05-03 20:27:06 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/kinetics/brown_seat": {
+    "criteria": {
+      "has_wool": "2023-05-03 21:11:09 +0000"
     },
     "done": true
   },
@@ -1891,15 +2942,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/stone_hoe": {
+    "criteria": {
+      "has_cobblestone": "2023-05-03 19:35:43 +0000"
+    },
+    "done": true
+  },
   "decorative_blocks:recipes/decorations/oak_support": {
     "criteria": {
       "has_plank": "2023-05-03 19:37:54 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/tools/stone_hoe": {
+  "creategearaddon:recipes/large_half_shaft_cherry_cogwheel": {
     "criteria": {
-      "has_cobblestone": "2023-05-03 19:35:43 +0000"
+      "has_large_cogwheels": "2023-05-03 21:22:12 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/mossy_andesite_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2023-05-03 21:17:21 +0000"
     },
     "done": true
   },
@@ -1921,6 +2984,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/granite_cobblestone_slab": {
+    "criteria": {
+      "has_granite_cobblestone": "2023-05-03 20:27:10 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.base/crafting/kinetics/wooden_bracket": {
     "criteria": {
       "has_item": "2023-05-03 19:28:57 +0000"
@@ -1930,12 +2999,6 @@
   "mcwtrpdoors:recipes/spruce/spruce_tropical_trapdoor": {
     "criteria": {
       "has_planks": "2023-05-03 19:44:35 +0000"
-    },
-    "done": true
-  },
-  "amb:recipes/spruce_wood_slab": {
-    "criteria": {
-      "has_spruce_log": "2023-05-03 19:44:35 +0000"
     },
     "done": true
   },
@@ -1951,15 +3014,45 @@
     },
     "done": true
   },
+  "amb:recipes/spruce_wood_slab": {
+    "criteria": {
+      "has_spruce_log": "2023-05-03 19:44:35 +0000"
+    },
+    "done": true
+  },
   "creategearaddon:recipes/dark_oak_bracket": {
     "criteria": {
       "has_item": "2023-05-03 19:28:57 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/decorations/white_carpet": {
+    "criteria": {
+      "has_white_wool": "2023-05-03 21:11:10 +0000"
+    },
+    "done": true
+  },
+  "amb:recipes/flint_block": {
+    "criteria": {
+      "has_flint": "2023-05-03 20:55:10 +0000"
+    },
+    "done": true
+  },
   "woot:recipes/woot/xp_3": {
     "criteria": {
       "cobblestone": "2023-05-03 19:35:43 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/granite_cobblestone_wall_from_granite_cobblestone_stonecutting": {
+    "criteria": {
+      "has_granite_cobblestone": "2023-05-03 20:27:10 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/diorite_cobblestone_wall_from_diorite_cobblestone_stonecutting": {
+    "criteria": {
+      "has_diorite_cobblestone": "2023-05-03 20:27:23 +0000"
     },
     "done": true
   },
@@ -1980,6 +3073,12 @@
       "has_the_recipe": "2023-05-03 19:24:02 +0000"
     },
     "done": true
+  },
+  "morevillagers:all_workstations_get": {
+    "criteria": {
+      "cauldron": "2023-05-03 21:07:24 +0000"
+    },
+    "done": false
   },
   "create:root": {
     "criteria": {
@@ -2032,6 +3131,12 @@
   "exnihilosequentia:recipes/exnihilosequentia/ens_hammer_iron": {
     "criteria": {
       "has_stick": "2023-05-03 19:24:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_boat": {
+    "criteria": {
+      "in_water": "2023-05-03 21:58:44 +0000"
     },
     "done": true
   },
@@ -2089,15 +3194,51 @@
     },
     "done": true
   },
+  "undergarden:recipes/undergarden_group/wigglewood_boat": {
+    "criteria": {
+      "in_water": "2023-05-03 21:58:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/wooden_axe": {
     "criteria": {
       "has_stick": "2023-05-03 19:24:11 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/lime_wool": {
+    "criteria": {
+      "has_white_wool": "2023-05-03 21:11:10 +0000"
+    },
+    "done": true
+  },
+  "amb:recipes/andesite_pressure_plate": {
+    "criteria": {
+      "has_andesite": "2023-05-03 21:17:21 +0000"
+    },
+    "done": true
+  },
+  "embellishcraft:recipes/embellishcraft_group/smooth_andesite_from_smelting": {
+    "criteria": {
+      "has_andesite": "2023-05-03 21:17:21 +0000"
+    },
+    "done": true
+  },
   "exnihilosequentia:recipes/exnihilosequentia/ens_hammer_gold": {
     "criteria": {
       "has_stick": "2023-05-03 19:24:11 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/immersiveengineering/crafting/radiator": {
+    "criteria": {
+      "has_water_bucket": "2023-05-03 21:58:37 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/layered_limestone_from_limestone_stonecutting": {
+    "criteria": {
+      "has_limestone": "2023-05-03 21:33:43 +0000"
     },
     "done": true
   },
@@ -2131,6 +3272,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/loom": {
+    "criteria": {
+      "has_string": "2023-05-03 20:31:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/green_wool": {
+    "criteria": {
+      "has_white_wool": "2023-05-03 21:11:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/woot/fluid_conv_1": {
     "criteria": {
       "cobblestone": "2023-05-03 19:35:43 +0000"
@@ -2140,6 +3293,12 @@
   "mcwbridges:recipes/oak_log_bridge_middle": {
     "criteria": {
       "has_planks": "2023-05-03 19:37:54 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/granite": {
+    "criteria": {
+      "has_granite_cobblestone": "2023-05-03 20:27:10 +0000"
     },
     "done": true
   },
@@ -2155,6 +3314,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/brown_wool": {
+    "criteria": {
+      "has_white_wool": "2023-05-03 21:11:09 +0000"
+    },
+    "done": true
+  },
   "mcwfences:recipes/sandstone": {
     "criteria": {
       "has_sand": "2023-05-03 19:40:43 +0000"
@@ -2167,9 +3332,21 @@
     },
     "done": true
   },
+  "create:recipes/create.base/crafting/kinetics/light_blue_seat": {
+    "criteria": {
+      "has_wool": "2023-05-03 21:11:09 +0000"
+    },
+    "done": true
+  },
   "floormats:recipes/connected/connected_stone": {
     "criteria": {
       "has_connector": "2023-05-03 19:24:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/painting": {
+    "criteria": {
+      "has_wool": "2023-05-03 21:11:10 +0000"
     },
     "done": true
   },
@@ -2185,15 +3362,21 @@
     },
     "done": true
   },
+  "mcwtrpdoors:recipes/oak/oak_four_panel_trapdoor": {
+    "criteria": {
+      "has_planks": "2023-05-03 19:24:02 +0000"
+    },
+    "done": true
+  },
   "woot:recipes/woot/looting_1": {
     "criteria": {
       "cobblestone": "2023-05-03 19:35:43 +0000"
     },
     "done": true
   },
-  "mcwtrpdoors:recipes/oak/oak_four_panel_trapdoor": {
+  "create:recipes/create.base/crafting/kinetics/orange_seat": {
     "criteria": {
-      "has_planks": "2023-05-03 19:24:02 +0000"
+      "has_wool": "2023-05-03 21:11:10 +0000"
     },
     "done": true
   },
@@ -2222,6 +3405,24 @@
     },
     "done": true
   },
+  "extendedmushrooms:recipes/transportation/mushroom_wood/colorless/mushroom_boat": {
+    "criteria": {
+      "in_water": "2023-05-03 21:58:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite_slab_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2023-05-03 21:17:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/arrow": {
+    "criteria": {
+      "has_flint": "2023-05-03 20:55:10 +0000"
+    },
+    "done": true
+  },
   "creategearaddon:recipes/oak_bracket": {
     "criteria": {
       "has_item": "2023-05-03 19:28:57 +0000"
@@ -2240,9 +3441,9 @@
     },
     "done": true
   },
-  "woot:recipes/woot/looting_2": {
+  "create:recipes/create.base/crafting/kinetics/gray_seat": {
     "criteria": {
-      "cobblestone": "2023-05-03 19:35:43 +0000"
+      "has_wool": "2023-05-03 21:11:10 +0000"
     },
     "done": true
   },
@@ -2252,9 +3453,33 @@
     },
     "done": true
   },
+  "woot:recipes/woot/looting_2": {
+    "criteria": {
+      "cobblestone": "2023-05-03 19:35:43 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/kinetics/magenta_seat": {
+    "criteria": {
+      "has_wool": "2023-05-03 21:11:09 +0000"
+    },
+    "done": true
+  },
+  "creategearaddon:recipes/large_half_shaft_warped_cogwheel": {
+    "criteria": {
+      "has_large_cogwheels": "2023-05-03 21:22:12 +0000"
+    },
+    "done": true
+  },
   "woot:recipes/woot/looting_3": {
     "criteria": {
       "cobblestone": "2023-05-03 19:35:43 +0000"
+    },
+    "done": true
+  },
+  "storagedrawers:recipes/storagedrawers/spruce_drawers": {
+    "criteria": {
+      "has_chest": "2023-05-03 21:52:19 +0000"
     },
     "done": true
   },
@@ -2270,9 +3495,21 @@
     },
     "done": true
   },
+  "creategearaddon:recipes/large_half_shaft_dead_cogwheel": {
+    "criteria": {
+      "has_large_cogwheels": "2023-05-03 21:22:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/blue_concrete_powder": {
     "criteria": {
       "has_gravel": "2023-05-03 19:39:49 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/diorite_cobblestone_stairs_from_diorite_cobblestone_stonecutting": {
+    "criteria": {
+      "has_diorite_cobblestone": "2023-05-03 20:27:23 +0000"
     },
     "done": true
   },
@@ -2294,6 +3531,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/polished_blackstone_wall_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2023-05-03 20:27:05 +0000"
+    },
+    "done": true
+  },
   "mcwtrpdoors:recipes/oak/oak_ranch_trapdoor": {
     "criteria": {
       "has_planks": "2023-05-03 19:24:02 +0000"
@@ -2312,9 +3555,21 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/fancy_limestone_bricks_from_limestone_stonecutting": {
+    "criteria": {
+      "has_limestone": "2023-05-03 21:33:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/oak_pressure_plate": {
     "criteria": {
       "has_planks": "2023-05-03 19:37:54 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/granite_cobblestone_wall": {
+    "criteria": {
+      "has_granite_cobblestone": "2023-05-03 20:27:10 +0000"
     },
     "done": true
   },
@@ -2330,12 +3585,6 @@
     },
     "done": true
   },
-  "mcwbridges:recipes/rope_oak_bridge": {
-    "criteria": {
-      "has_planks": "2023-05-03 19:37:54 +0000"
-    },
-    "done": true
-  },
   "creategearaddon:recipes/large_mahogany_cogwheel": {
     "criteria": {
       "has_item": "2023-05-03 19:28:57 +0000"
@@ -2345,6 +3594,24 @@
   "woot:recipes/woot/tier_shard_3": {
     "criteria": {
       "cobblestone": "2023-05-03 19:35:43 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/rope_oak_bridge": {
+    "criteria": {
+      "has_planks": "2023-05-03 19:37:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blackstone_wall": {
+    "criteria": {
+      "has_blackstone": "2023-05-03 20:27:05 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/kinetics/encased_chain_drive": {
+    "criteria": {
+      "has_item": "2023-05-03 21:17:06 +0000"
     },
     "done": true
   },
@@ -2366,6 +3633,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_basalt": {
+    "criteria": {
+      "has_basalt": "2023-05-03 20:27:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_wood": {
     "criteria": {
       "has_log": "2023-05-03 19:24:02 +0000"
@@ -2378,9 +3651,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/blackstone_slab": {
+    "criteria": {
+      "has_blackstone": "2023-05-03 20:27:05 +0000"
+    },
+    "done": true
+  },
   "exnihilosequentia:recipes/exnihilosequentia/ens_hammer_diamond": {
     "criteria": {
       "has_stick": "2023-05-03 19:24:11 +0000"
+    },
+    "done": true
+  },
+  "creategearaddon:recipes/large_half_shaft_acacia_cogwheel": {
+    "criteria": {
+      "has_large_cogwheels": "2023-05-03 21:22:12 +0000"
+    },
+    "done": true
+  },
+  "embellishcraft:recipes/embellishcraft_group/andesite_button": {
+    "criteria": {
+      "has_andesite": "2023-05-03 21:17:21 +0000"
     },
     "done": true
   },
@@ -2402,6 +3693,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/gabbro": {
+    "criteria": {
+      "has_gabbro_cobblestone": "2023-05-03 20:27:20 +0000"
+    },
+    "done": true
+  },
   "creategearaddon:recipes/warped_cogwheel": {
     "criteria": {
       "has_item": "2023-05-03 19:28:57 +0000"
@@ -2417,6 +3714,12 @@
   "create:recipes/create.base/crafting/kinetics/sticker": {
     "criteria": {
       "has_item": "2023-05-03 19:28:57 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/limestone_bricks_from_limestone_stonecutting": {
+    "criteria": {
+      "has_limestone": "2023-05-03 21:33:43 +0000"
     },
     "done": true
   },
@@ -2456,9 +3759,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_andesite": {
+    "criteria": {
+      "has_stone": "2023-05-03 21:17:21 +0000"
+    },
+    "done": true
+  },
   "creategearaddon:recipes/large_jungle_cogwheel": {
     "criteria": {
       "has_item": "2023-05-03 19:28:57 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:main/root": {
+    "criteria": {
+      "manual": "2023-05-03 20:24:25 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/gabbro_cobblestone_wall_from_gabbro_cobblestone_stonecutting": {
+    "criteria": {
+      "has_gabbro_cobblestone": "2023-05-03 20:27:20 +0000"
     },
     "done": true
   },
@@ -2474,15 +3795,45 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/andesite_cobblestone_wall_from_andesite_cobblestone_stonecutting": {
+    "criteria": {
+      "has_andesite_cobblestone": "2023-05-03 20:27:03 +0000"
+    },
+    "done": true
+  },
+  "storagedrawers:recipes/storagedrawers/acacia_drawers": {
+    "criteria": {
+      "has_chest": "2023-05-03 21:52:19 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/kinetics/mechanical_harvester": {
+    "criteria": {
+      "has_item": "2023-05-03 21:17:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/composter": {
     "criteria": {
       "has_wood_slab": "2023-05-03 19:37:53 +0000"
     },
     "done": true
   },
+  "create:recipes/building_blocks/andesite": {
+    "criteria": {
+      "has_andesite_cobblestone": "2023-05-03 20:27:03 +0000"
+    },
+    "done": true
+  },
   "mcwbridges:recipes/oak_rail_bridge": {
     "criteria": {
       "has_planks": "2023-05-03 19:37:54 +0000"
+    },
+    "done": true
+  },
+  "psi:main/encyclopaedia_psionica": {
+    "criteria": {
+      "flower": "2023-05-03 20:25:21 +0000"
     },
     "done": true
   },
@@ -2516,9 +3867,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/chiseled_polished_blackstone_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2023-05-03 20:27:05 +0000"
+    },
+    "done": true
+  },
+  "trashcans:recipes/search/liquid_trash_can": {
+    "criteria": {
+      "bucket": "2023-05-03 21:58:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/woot/infuser_1": {
     "criteria": {
       "cobblestone": "2023-05-03 19:35:43 +0000"
+    },
+    "done": true
+  },
+  "creategearaddon:recipes/large_half_shaft_palm_cogwheel": {
+    "criteria": {
+      "has_large_cogwheels": "2023-05-03 21:22:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blackstone_stairs_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2023-05-03 20:27:05 +0000"
     },
     "done": true
   },
@@ -2528,15 +3903,45 @@
     },
     "done": true
   },
+  "minecraft:recipes/embellishcraft_group/andesite_rooftiles_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2023-05-03 21:17:21 +0000"
+    },
+    "done": true
+  },
   "embellishcraft:recipes/embellishcraft_group/oak_fancy_door": {
     "criteria": {
       "has_oak_planks": "2023-05-03 19:37:54 +0000"
     },
     "done": true
   },
+  "creategearaddon:recipes/large_half_shaft_umbran_cogwheel": {
+    "criteria": {
+      "has_large_cogwheels": "2023-05-03 21:22:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/jungle_boat": {
+    "criteria": {
+      "in_water": "2023-05-03 21:58:44 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/kinetics/linear_chassisfrom_conversion": {
+    "criteria": {
+      "has_item": "2023-05-03 21:40:39 +0000"
+    },
+    "done": true
+  },
   "creategearaddon:recipes/acacia_cogwheel": {
     "criteria": {
       "has_item": "2023-05-03 19:28:57 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/kinetics/green_seat": {
+    "criteria": {
+      "has_wool": "2023-05-03 21:11:09 +0000"
     },
     "done": true
   },
@@ -2552,9 +3957,81 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/dark_oak_boat": {
+    "criteria": {
+      "in_water": "2023-05-03 21:58:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/pink_wool": {
+    "criteria": {
+      "has_white_wool": "2023-05-03 21:11:09 +0000"
+    },
+    "done": true
+  },
+  "amb:recipes/basalt_slab": {
+    "criteria": {
+      "has_basalt": "2023-05-03 20:27:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/andesite_wall_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2023-05-03 21:17:21 +0000"
+    },
+    "done": true
+  },
+  "mcwroofs:recipes/andesite": {
+    "criteria": {
+      "has_planks": "2023-05-03 21:17:21 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/sophisticatedbackpacks/auto_smoking_upgrade_from_auto_smelting_upgrade": {
     "criteria": {
       "has_auto_smelting_upgrade": "2023-05-03 18:07:51 +0000"
+    },
+    "done": true
+  },
+  "amb:recipes/white_wool_stairs": {
+    "criteria": {
+      "has_white_wool": "2023-05-03 21:11:09 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/limestone_cobblestone_from_limestone_stonecutting": {
+    "criteria": {
+      "has_limestone": "2023-05-03 21:33:43 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/polished_limestone_from_limestone_stonecutting": {
+    "criteria": {
+      "has_limestone": "2023-05-03 21:33:43 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/kinetics/pink_seat": {
+    "criteria": {
+      "has_wool": "2023-05-03 21:11:09 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/layered_andesite_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2023-05-03 21:17:21 +0000"
+    },
+    "done": true
+  },
+  "creategearaddon:recipes/large_half_shaft_jacaranda_cogwheel": {
+    "criteria": {
+      "has_large_cogwheels": "2023-05-03 21:22:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2023-05-03 20:27:05 +0000"
     },
     "done": true
   },
@@ -2579,6 +4056,18 @@
   "mcwtrpdoors:recipes/oak/oak_paper_trapdoor": {
     "criteria": {
       "has_planks": "2023-05-03 19:24:02 +0000"
+    },
+    "done": true
+  },
+  "mcwroofs:recipes/awning": {
+    "criteria": {
+      "has_planks": "2023-05-03 21:11:09 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/checker_block": {
+    "criteria": {
+      "has_plank": "2023-05-03 20:27:05 +0000"
     },
     "done": true
   },
@@ -2612,6 +4101,24 @@
     },
     "done": true
   },
+  "morevillagers:first_workstation_get": {
+    "criteria": {
+      "cauldron": "2023-05-03 21:07:24 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/kinetics/light_gray_seat": {
+    "criteria": {
+      "has_wool": "2023-05-03 21:11:10 +0000"
+    },
+    "done": true
+  },
+  "creategears:recipes/creategears/fully_encased_chain_drive_vertical": {
+    "criteria": {
+      "has_shaft": "2023-05-03 21:17:06 +0000"
+    },
+    "done": true
+  },
   "creategearaddon:recipes/large_birch_cogwheel": {
     "criteria": {
       "has_item": "2023-05-03 19:28:57 +0000"
@@ -2624,9 +4131,21 @@
     },
     "done": true
   },
+  "creategearaddon:recipes/large_half_shaft_dark_oak_cogwheel": {
+    "criteria": {
+      "has_large_cogwheels": "2023-05-03 21:22:12 +0000"
+    },
+    "done": true
+  },
   "mcwtrpdoors:recipes/oak/oak_mystic_trapdoor": {
     "criteria": {
       "has_planks": "2023-05-03 19:24:02 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/kinetics/linear_chassis": {
+    "criteria": {
+      "has_item": "2023-05-03 19:28:57 +0000"
     },
     "done": true
   },
@@ -2636,9 +4155,15 @@
     },
     "done": true
   },
-  "create:recipes/create.base/crafting/kinetics/linear_chassis": {
+  "minecraft:recipes/building_blocks/bone_block": {
     "criteria": {
-      "has_item": "2023-05-03 19:28:57 +0000"
+      "has_bonemeal": "2023-05-03 20:48:38 +0000"
+    },
+    "done": true
+  },
+  "extendedmushrooms:recipes/transportation/mushroom_wood/poisonous_mushroom/poisonous_mushroom_boat": {
+    "criteria": {
+      "in_water": "2023-05-03 21:58:44 +0000"
     },
     "done": true
   },

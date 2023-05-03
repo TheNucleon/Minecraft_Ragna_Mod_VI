@@ -1,0 +1,34 @@
+{
+	id: "e7af3bd0-5865-4260-88dc-6f88e6de4e91"
+	type: "party"
+	owner: "34808b76-cda2-4493-bfc3-8a4cab7f56e7"
+	ranks: { }
+	properties: {
+		"ftbchunks:allow_explosions": 0b
+		"ftbteams:display_name": "Les PD's"
+		"ftbteams:color": "#FFFF59"
+		"ftbchunks:block_edit_mode": "allies"
+		"ftbchunks:block_interact_mode": "allies"
+		"ftbteams:description": ""
+		"ftbteams:free_to_join": 0b
+		"ftbchunks:allow_fake_players": 1b
+	}
+	message_history: [
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1683142661723L, text: "{\"color\":\"yellow\",\"extra\":[{\"text\":\"TheNukleon\"},{\"text\":\" joined your party!\"}],\"text\":\"\"}" }
+		{ from: "a42be00a-a5f4-47b0-8013-50d3b1c3c169", date: 1683142661761L, text: "{\"color\":\"green\",\"text\":\"Invited Boryke\"}" }
+		{ from: "a42be00a-a5f4-47b0-8013-50d3b1c3c169", date: 1683142661762L, text: "{\"color\":\"green\",\"text\":\"Invited Three_Dogs\"}" }
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1683142669188L, text: "{\"color\":\"green\",\"extra\":[{\"text\":\"Three_Dogs\"},{\"text\":\" joined your party!\"}],\"text\":\"\"}" }
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1683143257618L, text: "{\"color\":\"green\",\"extra\":[{\"text\":\"Boryke\"},{\"text\":\" joined your party!\"}],\"text\":\"\"}" }
+		{ from: "a42be00a-a5f4-47b0-8013-50d3b1c3c169", date: 1683145306959L, text: "{\"text\":\"exit\"}" }
+		{ from: "a42be00a-a5f4-47b0-8013-50d3b1c3c169", date: 1683145313717L, text: "{\"text\":\"quit\"}" }
+		{ from: "a42be00a-a5f4-47b0-8013-50d3b1c3c169", date: 1683145333322L, text: "{\"text\":\"/ftbteams\"}" }
+		{ from: "a42be00a-a5f4-47b0-8013-50d3b1c3c169", date: 1683145406544L, text: "{\"color\":\"red\",\"extra\":[{\"insertion\":\"Boryke\",\"clickEvent\":{\"action\":\"suggest_command\",\"value\":\"/tell Boryke \"},\"hoverEvent\":{\"action\":\"show_entity\",\"contents\":{\"type\":\"minecraft:player\",\"id\":\"34808b76-cda2-4493-bfc3-8a4cab7f56e7\",\"name\":{\"text\":\"Boryke\"}}},\"extra\":[{\"text\":\"Boryke\"}],\"text\":\"\"}],\"text\":\"Transferred ownership to \"}" }
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1683145422467L, text: "{\"color\":\"yellow\",\"extra\":[{\"text\":\"TheNukleon\"},{\"text\":\" left your party!\"}],\"text\":\"\"}" }
+		{ from: "492f5c7e-4236-4311-a63f-bef12f4ecabd", date: 1683145465270L, text: "{\"text\":\"quit\"}" }
+		{ from: "34808b76-cda2-4493-bfc3-8a4cab7f56e7", date: 1683145474662L, text: "{\"text\":\"quit\"}" }
+		{ from: "492f5c7e-4236-4311-a63f-bef12f4ecabd", date: 1683145495122L, text: "{\"text\":\"/ftbteams\"}" }
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1683145509538L, text: "{\"color\":\"yellow\",\"extra\":[{\"text\":\"Three_Dogs\"},{\"text\":\" left your party!\"}],\"text\":\"\"}" }
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1683145755124L, text: "{\"color\":\"yellow\",\"extra\":[{\"text\":\"Boryke\"},{\"text\":\" left your party!\"}],\"text\":\"\"}" }
+	]
+	extra: { }
+}

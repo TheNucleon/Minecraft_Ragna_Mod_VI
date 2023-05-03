@@ -3714,3 +3714,53 @@ Caused by: java.io.FileNotFoundException: https://refinedmods.com/refined-storag
 [03May2023 20:19:22.350] [Netty Epoll Server IO #10/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize dev.maxneedssnacks.interactio.command.RegistryArgument@f104aa5 (class dev.maxneedssnacks.interactio.command.RegistryArgument) - will not be sent to client!
 [03May2023 20:19:50.639] [Server thread/INFO] [mixin/]: Mixing MixinPiglinTasks from assets/enigmaticlegacy/enigmaticlegacy.mixins.json into net.minecraft.entity.monster.piglin.PiglinTasks
 [03May2023 20:19:50.640] [Server thread/INFO] [mixin/]: Renaming synthetic method lambda$onPiglinBarter$0(Ljava/util/List;Lnet/minecraft/item/ItemStack;)V to mdba9c2f$lambda$onPiglinBarter$0$1 in assets/enigmaticlegacy/enigmaticlegacy.mixins.json:MixinPiglinTasks
+[03May2023 20:20:43.417] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Boryke has made the advancement [Buzzy Box]
+[03May2023 20:21:29.375] [Server thread/ERROR] [net.minecraft.village.PointOfInterestData/]: POI data mismatch: never registered at BlockPos{x=4, y=64, z=8}
+[03May2023 20:21:59.583] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Boryke: Successfully created team Tigvaroid.]
+[03May2023 20:22:09.951] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Boryke: Home sweet home]
+[03May2023 20:22:53.844] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Boryke: Home sweet home]
+[03May2023 20:23:25.421] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Boryke moved too quickly! -8192.0,0.20000000000000284,0.0
+[03May2023 20:23:26.586] [Netty Epoll Server IO #5/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize dev.maxneedssnacks.interactio.command.RegistryArgument@f104aa5 (class dev.maxneedssnacks.interactio.command.RegistryArgument) - will not be sent to client!
+[03May2023 20:23:26.592] [Netty Epoll Server IO #10/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize dev.maxneedssnacks.interactio.command.RegistryArgument@f104aa5 (class dev.maxneedssnacks.interactio.command.RegistryArgument) - will not be sent to client!
+[03May2023 20:23:26.609] [Netty Epoll Server IO #5/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize dev.maxneedssnacks.interactio.command.RegistryArgument@f104aa5 (class dev.maxneedssnacks.interactio.command.RegistryArgument) - will not be sent to client!
+[03May2023 20:23:26.611] [Netty Epoll Server IO #3/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize dev.maxneedssnacks.interactio.command.RegistryArgument@f104aa5 (class dev.maxneedssnacks.interactio.command.RegistryArgument) - will not be sent to client!
+[03May2023 20:23:26.637] [Netty Epoll Server IO #10/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize dev.maxneedssnacks.interactio.command.RegistryArgument@f104aa5 (class dev.maxneedssnacks.interactio.command.RegistryArgument) - will not be sent to client!
+[03May2023 20:23:42.471] [Netty Epoll Server IO #3/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize dev.maxneedssnacks.interactio.command.RegistryArgument@f104aa5 (class dev.maxneedssnacks.interactio.command.RegistryArgument) - will not be sent to client!
+[03May2023 20:23:42.473] [Netty Epoll Server IO #5/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize dev.maxneedssnacks.interactio.command.RegistryArgument@f104aa5 (class dev.maxneedssnacks.interactio.command.RegistryArgument) - will not be sent to client!
+[03May2023 20:23:42.488] [Netty Epoll Server IO #10/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize dev.maxneedssnacks.interactio.command.RegistryArgument@f104aa5 (class dev.maxneedssnacks.interactio.command.RegistryArgument) - will not be sent to client!
+[03May2023 20:23:42.518] [Netty Epoll Server IO #10/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize dev.maxneedssnacks.interactio.command.RegistryArgument@f104aa5 (class dev.maxneedssnacks.interactio.command.RegistryArgument) - will not be sent to client!
+[03May2023 20:24:25.268] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: TheNukleon has made the advancement [Immersive Engineering]
+[03May2023 20:24:48.699] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <TheNukleon> ./ftbteams party leave
+[03May2023 20:24:55.027] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: TheNukleon has made the advancement [Stinging Reviews]
+[03May2023 20:25:09.545] [Netty Epoll Server IO #3/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize dev.maxneedssnacks.interactio.command.RegistryArgument@f104aa5 (class dev.maxneedssnacks.interactio.command.RegistryArgument) - will not be sent to client!
+[03May2023 20:25:09.548] [Netty Epoll Server IO #5/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize dev.maxneedssnacks.interactio.command.RegistryArgument@f104aa5 (class dev.maxneedssnacks.interactio.command.RegistryArgument) - will not be sent to client!
+[03May2023 20:25:09.567] [Netty Epoll Server IO #3/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize dev.maxneedssnacks.interactio.command.RegistryArgument@f104aa5 (class dev.maxneedssnacks.interactio.command.RegistryArgument) - will not be sent to client!
+[03May2023 20:25:09.576] [Netty Epoll Server IO #10/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize dev.maxneedssnacks.interactio.command.RegistryArgument@f104aa5 (class dev.maxneedssnacks.interactio.command.RegistryArgument) - will not be sent to client!
+[03May2023 20:25:21.898] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: TheNukleon has made the advancement [Put It On My Tablet]
+[03May2023 20:29:02.180] [Server thread/INFO] [STDOUT/]: [net.minecraft.tileentity.AbstractFurnaceTileEntity:getRecipe:597]: net.minecraft.item.crafting.FurnaceRecipe@2a7161ba
+[03May2023 20:29:15.138] [Netty Epoll Server IO #3/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize dev.maxneedssnacks.interactio.command.RegistryArgument@f104aa5 (class dev.maxneedssnacks.interactio.command.RegistryArgument) - will not be sent to client!
+[03May2023 20:29:15.140] [Netty Epoll Server IO #5/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize dev.maxneedssnacks.interactio.command.RegistryArgument@f104aa5 (class dev.maxneedssnacks.interactio.command.RegistryArgument) - will not be sent to client!
+[03May2023 20:29:15.149] [Netty Epoll Server IO #5/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize dev.maxneedssnacks.interactio.command.RegistryArgument@f104aa5 (class dev.maxneedssnacks.interactio.command.RegistryArgument) - will not be sent to client!
+[03May2023 20:29:15.151] [Netty Epoll Server IO #10/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize dev.maxneedssnacks.interactio.command.RegistryArgument@f104aa5 (class dev.maxneedssnacks.interactio.command.RegistryArgument) - will not be sent to client!
+[03May2023 20:38:42.892] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Three_Dogs lost connection: Disconnected
+[03May2023 20:38:42.893] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Three_Dogs left the game
+[03May2023 20:46:45.364] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Boryke has made the advancement [Immersive Engineering]
+[03May2023 20:52:24.116] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Boryke fell out of the world
+[03May2023 20:52:25.395] [Netty Epoll Server IO #5/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize dev.maxneedssnacks.interactio.command.RegistryArgument@f104aa5 (class dev.maxneedssnacks.interactio.command.RegistryArgument) - will not be sent to client!
+[03May2023 20:57:16.112] [Server thread/INFO] [net.minecraftforge.coremod.CoreMod.apotheosis/COREMODLOG]: Patching CombatRules#getDamageAfterMagicAbsorb
+[03May2023 21:06:47.298] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: TheNukleon has made the advancement [Curdling Time]
+[03May2023 21:07:24.839] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: TheNukleon has made the advancement [Let's Get To Work]
+[03May2023 21:15:37.424] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Boryke has reached the goal [The Andesite Age]
+[03May2023 21:17:06.345] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: TheNukleon has reached the goal [The Andesite Age]
+[03May2023 21:29:00.336] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: TheNukleon has reached the goal [Overstressed]
+[03May2023 21:29:00.337] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Boryke has reached the goal [Overstressed]
+[03May2023 21:34:15.249] [Server thread/INFO] [STDOUT/]: [net.minecraft.tileentity.AbstractFurnaceTileEntity:getRecipe:597]: net.minecraft.item.crafting.FurnaceRecipe@15c7227
+[03May2023 21:34:16.904] [Server thread/INFO] [STDOUT/]: [net.minecraft.tileentity.AbstractFurnaceTileEntity:getRecipe:597]: net.minecraft.item.crafting.FurnaceRecipe@15c7227
+[03May2023 21:34:18.920] [Server thread/INFO] [STDOUT/]: [net.minecraft.tileentity.AbstractFurnaceTileEntity:getRecipe:597]: net.minecraft.item.crafting.FurnaceRecipe@15c7227
+[03May2023 21:52:15.105] [Server thread/INFO] [STDOUT/]: [net.minecraft.tileentity.AbstractFurnaceTileEntity:getRecipe:597]: net.minecraft.item.crafting.FurnaceRecipe@392d2188
+[03May2023 21:52:48.927] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Boryke has made the advancement [Acquire Hardware]
+[03May2023 22:00:57.961] [Server thread/INFO] [STDOUT/]: [net.minecraft.tileentity.AbstractFurnaceTileEntity:getRecipe:597]: net.minecraft.item.crafting.FurnaceRecipe@5fcc8f79
+[03May2023 22:06:31.686] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: TheNukleon lost connection: Disconnected
+[03May2023 22:06:31.687] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: TheNukleon left the game
+[03May2023 22:06:33.392] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Boryke lost connection: Disconnected
+[03May2023 22:06:33.392] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Boryke left the game

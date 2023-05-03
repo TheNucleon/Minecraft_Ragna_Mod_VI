@@ -2,7 +2,9 @@
 	id: "492f5c7e-4236-4311-a63f-bef12f4ecabd"
 	type: "player"
 	player_name: "Three_Dogs"
-	ranks: { }
+	ranks: {
+		492f5c7e-4236-4311-a63f-bef12f4ecabd: "owner"
+	}
 	properties: {
 		"ftbchunks:allow_explosions": 0b
 		"ftbteams:display_name": "Three_Dogs"

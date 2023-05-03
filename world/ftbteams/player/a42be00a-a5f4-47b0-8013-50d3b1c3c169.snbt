@@ -2,7 +2,9 @@
 	id: "a42be00a-a5f4-47b0-8013-50d3b1c3c169"
 	type: "player"
 	player_name: "TheNukleon"
-	ranks: { }
+	ranks: {
+		a42be00a-a5f4-47b0-8013-50d3b1c3c169: "owner"
+	}
 	properties: {
 		"ftbchunks:allow_explosions": 0b
 		"ftbteams:display_name": "TheNukleon"
