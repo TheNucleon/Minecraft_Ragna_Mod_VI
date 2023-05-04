@@ -1,1 +1,91 @@
-[04May2023 02:58:33.585] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3203ms or 64 ticks behind
+[04May2023 18:24:36.835] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--gameDir, ., --launchTarget, fmlserver, --fml.forgeVersion, 36.2.39, --fml.mcpVersion, 20210115.111550, --fml.mcVersion, 1.16.5, --fml.forgeGroup, net.minecraftforge, nogui]
+[04May2023 18:24:36.838] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 8.1.3+8.1.3+main-8.1.x.c94d18ec starting: java version 1.8.0_362 by Private Build
+[04May2023 18:24:37.853] [main/INFO] [net.minecraftforge.fml.loading.FixSSL/CORE]: Added Lets Encrypt root certificates as additional trust
+[04May2023 18:24:37.916] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.4 Source=file:/root/minecraft/Minecraft_Ragna_Mod_VI/libraries/org/spongepowered/mixin/0.8.4/mixin-0.8.4.jar Service=ModLauncher Env=SERVER
+[04May2023 18:24:40.269] [main/INFO] [STDERR/]: [org.antlr.v4.runtime.ConsoleErrorListener:syntaxError:38]: line 13:0 token recognition error at: '`'
+[04May2023 18:24:40.330] [main/INFO] [STDERR/]: [org.antlr.v4.runtime.ConsoleErrorListener:syntaxError:38]: line 1:0 token recognition error at: '/'
+[04May2023 18:24:40.330] [main/INFO] [STDERR/]: [org.antlr.v4.runtime.ConsoleErrorListener:syntaxError:38]: line 1:1 token recognition error at: '/'
+[04May2023 18:24:40.390] [main/INFO] [STDERR/]: [org.antlr.v4.runtime.ConsoleErrorListener:syntaxError:38]: line 1:0 token recognition error at: '~'
+[04May2023 18:24:41.532] [main/ERROR] [mixin/]: Mixin config moreoverlays.mixin.json does not specify "minVersion" property
+[04May2023 18:24:41.730] [main/INFO] [mixin/]: Successfully loaded Mixin Connector [shetiphian.core.mixins.MixinConnector]
+[04May2023 18:24:41.735] [main/INFO] [mixin/]: Successfully loaded Mixin Connector [vazkii.botania.common.MixinConnector]
+[04May2023 18:24:41.738] [main/INFO] [mixin/]: Successfully loaded Mixin Connector [ca.spottedleaf.starlight.mixin.MixinConnector]
+[04May2023 18:24:41.740] [main/INFO] [mixin/]: Successfully loaded Mixin Connector [com.leobeliik.extremesoundmuffler.MixinConnector]
+[04May2023 18:24:41.742] [main/INFO] [mixin/]: Successfully loaded Mixin Connector [hellfirepvp.astralsorcery.MixinConnector]
+[04May2023 18:24:41.744] [main/INFO] [mixin/]: Successfully loaded Mixin Connector [vazkii.patchouli.common.MixinConnector]
+[04May2023 18:24:41.748] [main/INFO] [mixin/]: Successfully loaded Mixin Connector [com.integral.enigmaticlegacy.MixinConnector]
+[04May2023 18:24:41.751] [main/INFO] [mixin/]: Successfully loaded Mixin Connector [eutros.framedcompactdrawers.MixinConnector]
+[04May2023 18:24:41.765] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'fmlserver' with arguments [--gameDir, ., nogui]
+[04May2023 18:24:41.937] [main/WARN] [mixin/]: Reference map 'outer_end.refmap.json' for jellyfishing.mixins.json could not be read. If this is a development environment you can ignore this message
+[04May2023 18:24:41.973] [main/WARN] [mixin/]: Reference map 'modid.refmap.json' for rsinfinitybooster.mixins.json could not be read. If this is a development environment you can ignore this message
+[04May2023 18:24:42.007] [main/WARN] [mixin/]: Reference map 'rhino-forge-refmap.json' for rhino.mixins.json could not be read. If this is a development environment you can ignore this message
+[04May2023 18:24:42.025] [main/WARN] [mixin/]: Reference map 'brazier-forge-refmap.json' for brazier-forge.mixins.json could not be read. If this is a development environment you can ignore this message
+[04May2023 18:24:42.043] [main/WARN] [mixin/]: Reference map 'hackforge.refmap.json' for creategears.mixins.json could not be read. If this is a development environment you can ignore this message
+[04May2023 18:24:42.045] [main/WARN] [mixin/]: Reference map 'creategearaddon.refmap.json' for creategearaddon.mixins.json could not be read. If this is a development environment you can ignore this message
+[04May2023 18:24:42.470] [main/INFO] [net.minecraftforge.coremod.CoreMod.astralsorcery/COREMODLOG]: Adding 'reach_set_server_entity_interact' ASM patch...
+[04May2023 18:24:42.800] [main/INFO] [net.minecraftforge.coremod.CoreMod.astralsorcery/COREMODLOG]: Added 'reach_set_server_entity_interact' ASM patch!
+[04May2023 18:24:43.177] [main/INFO] [net.minecraftforge.coremod.CoreMod.apotheosis/COREMODLOG]: Patching CrossbowItem#onItemRightClick
+[04May2023 18:24:43.195] [main/INFO] [net.minecraftforge.coremod.CoreMod.apotheosis/COREMODLOG]: Patching CrossbowItem#fireProjectile
+[04May2023 18:24:43.300] [main/INFO] [net.minecraftforge.coremod.CoreMod.placebo/COREMODLOG]: Patching LivingEntity#attackEntityFrom
+[04May2023 18:24:43.329] [main/INFO] [net.minecraftforge.coremod.CoreMod.apotheosis/COREMODLOG]: Patching LivingEntity#blockUsingShield
+[04May2023 18:24:43.335] [main/INFO] [net.minecraftforge.coremod.CoreMod.apotheosis/COREMODLOG]: Patching LivingEntity#applyPotionDamageCalculations
+[04May2023 18:24:43.478] [main/INFO] [net.minecraftforge.coremod.CoreMod.apotheosis/COREMODLOG]: Patching RepairContainer#updateRepairOutput
+[04May2023 18:24:43.497] [main/INFO] [net.minecraftforge.coremod.CoreMod.apotheosis/COREMODLOG]: Successfully removed the anvil level cap.
+[04May2023 18:24:43.503] [main/INFO] [net.minecraftforge.coremod.CoreMod.apotheosis/COREMODLOG]: Patching RepairContainer#updateRepairOutput
+[04May2023 18:24:43.519] [main/INFO] [net.minecraftforge.coremod.CoreMod.apotheosis/COREMODLOG]: Successfully allowed nbt-unbreakable items in the anvil.
+[04May2023 18:24:43.526] [main/INFO] [net.minecraftforge.coremod.CoreMod.apotheosis/COREMODLOG]: Patching net/minecraft/inventory/container/RepairContainer
+[04May2023 18:24:43.710] [main/INFO] [net.minecraftforge.coremod.CoreMod.observerlib/COREMODLOG]: Adding 'on_block_change' ASM patch...
+[04May2023 18:24:43.715] [main/INFO] [net.minecraftforge.coremod.CoreMod.observerlib/COREMODLOG]: Added 'on_block_change' ASM patch!
+[04May2023 18:24:43.864] [main/FATAL] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/gui/screen/CreateWorldScreen for invalid dist DEDICATED_SERVER
+[04May2023 18:24:43.866] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/gui/screen/CreateWorldScreen (java.lang.RuntimeException: Attempted to load class net/minecraft/client/gui/screen/CreateWorldScreen for invalid dist DEDICATED_SERVER)
+[04May2023 18:24:43.868] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.gui.screen.CreateWorldScreen was not found mixins.defaultoptions.json:CreateWorldScreenAccessor
+[04May2023 18:24:43.872] [main/FATAL] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/GameSettings for invalid dist DEDICATED_SERVER
+[04May2023 18:24:43.873] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/GameSettings (java.lang.RuntimeException: Attempted to load class net/minecraft/client/GameSettings for invalid dist DEDICATED_SERVER)
+[04May2023 18:24:43.873] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.GameSettings was not found mixins.defaultoptions.json:GameSettingsMixin
+[04May2023 18:24:44.079] [main/FATAL] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/entity/player/ClientPlayerEntity for invalid dist DEDICATED_SERVER
+[04May2023 18:24:44.080] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/entity/player/ClientPlayerEntity (java.lang.RuntimeException: Attempted to load class net/minecraft/client/entity/player/ClientPlayerEntity for invalid dist DEDICATED_SERVER)
+[04May2023 18:24:44.080] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.entity.player.ClientPlayerEntity was not found ars_nouveau.mixins.json:ClientElytraMixin
+[04May2023 18:24:44.203] [main/INFO] [net.minecraftforge.coremod.CoreMod.placebo/COREMODLOG]: Patching ItemStack#onItemUse
+[04May2023 18:24:44.411] [main/FATAL] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/renderer/entity/layers/BipedArmorLayer for invalid dist DEDICATED_SERVER
+[04May2023 18:24:44.411] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/renderer/entity/layers/BipedArmorLayer (java.lang.RuntimeException: Attempted to load class net/minecraft/client/renderer/entity/layers/BipedArmorLayer for invalid dist DEDICATED_SERVER)
+[04May2023 18:24:44.411] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.renderer.entity.layers.BipedArmorLayer was not found neapolitan.mixins.json:BipedArmorLayerMixin
+[04May2023 18:24:44.705] [main/INFO] [net.minecraftforge.coremod.CoreMod.placebo/COREMODLOG]: Patching DataPackRegistries#<init>
+[04May2023 18:24:44.719] [main/INFO] [net.minecraftforge.coremod.CoreMod.placebo/COREMODLOG]: Patching LootTableManager#apply
+[04May2023 18:24:44.822] [main/INFO] [net.minecraftforge.coremod.CoreMod.apotheosis/COREMODLOG]: Patching EnchantmentHelper#getEnchantmentModifierDamage
+[04May2023 18:24:44.829] [main/INFO] [net.minecraftforge.coremod.CoreMod.apotheosis/COREMODLOG]: Patching EnchantmentHelper#getModifierForCreature
+[04May2023 18:24:44.841] [main/INFO] [net.minecraftforge.coremod.CoreMod.apotheosis/COREMODLOG]: Patching EnchantmentHelper#applyThornEnchantments
+[04May2023 18:24:44.851] [main/INFO] [net.minecraftforge.coremod.CoreMod.apotheosis/COREMODLOG]: Patching EnchantmentHelper#applyArthropodEnchantments
+[04May2023 18:24:44.861] [main/INFO] [net.minecraftforge.coremod.CoreMod.apotheosis/COREMODLOG]: Patching buildEnchantmentList for the Enchantability affix.
+[04May2023 18:24:44.867] [main/INFO] [net.minecraftforge.coremod.CoreMod.apotheosis/COREMODLOG]: Patching EnchantmentHelper#getEnchantmentDatas
+[04May2023 18:24:44.888] [main/INFO] [net.minecraftforge.coremod.CoreMod.apotheosis/COREMODLOG]: Patching TemptGoal#isTempting
+[04May2023 18:24:45.148] [main/WARN] [mixin/]: Error loading class: com/brandon3055/csg/ModEventHandler (java.lang.ClassNotFoundException: null)
+[04May2023 18:24:46.509] [main/INFO] [mixin/]: Mixing MixinEnchantment from assets/enigmaticlegacy/enigmaticlegacy.mixins.json into net.minecraft.enchantment.Enchantment
+[04May2023 18:24:48.508] [main/INFO] [net.minecraftforge.coremod.CoreMod.placebo/COREMODLOG]: Patching LivingEntity#attackEntityFrom
+[04May2023 18:24:48.516] [main/INFO] [net.minecraftforge.coremod.CoreMod.apotheosis/COREMODLOG]: Patching LivingEntity#blockUsingShield
+[04May2023 18:24:48.517] [main/INFO] [net.minecraftforge.coremod.CoreMod.apotheosis/COREMODLOG]: Patching LivingEntity#applyPotionDamageCalculations
+[04May2023 18:24:48.700] [main/INFO] [net.minecraftforge.coremod.CoreMod.observerlib/COREMODLOG]: Adding 'on_block_change' ASM patch...
+[04May2023 18:24:48.704] [main/INFO] [net.minecraftforge.coremod.CoreMod.observerlib/COREMODLOG]: Added 'on_block_change' ASM patch!
+[04May2023 18:24:49.114] [main/INFO] [mixin/]: Mixing MixinForgeHooks from assets/enigmaticlegacy/enigmaticlegacy.mixins.json into net.minecraftforge.common.ForgeHooks
+[04May2023 18:24:49.632] [main/INFO] [FerriteCore - class definer/]: Using Java 8 class definer
+[04May2023 18:24:50.202] [main/INFO] [net.minecraftforge.coremod.CoreMod.apotheosis/COREMODLOG]: Patching SharedMonsterAttributes#readAttributeModifier
+[04May2023 18:24:50.600] [main/INFO] [mixin/]: Mixing MixinEnchantmentContainer from assets/enigmaticlegacy/enigmaticlegacy.mixins.json into net.minecraft.inventory.container.EnchantmentContainer
+[04May2023 18:24:50.601] [main/INFO] [mixin/]: Renaming synthetic method lambda$onEnchantedItem$0(Lnet/minecraft/item/ItemStack;Lnet/minecraft/inventory/container/EnchantmentContainer;ILnet/minecraft/entity/player/PlayerEntity;ILnet/minecraft/world/World;Lnet/minecraft/util/math/BlockPos;)V to mdc189bc$lambda$onEnchantedItem$0$0 in assets/enigmaticlegacy/enigmaticlegacy.mixins.json:MixinEnchantmentContainer
+[04May2023 18:24:50.610] [main/INFO] [net.minecraftforge.coremod.CoreMod.apotheosis/COREMODLOG]: Patching net/minecraft/item/EnchantedBookItem
+[04May2023 18:24:50.734] [main/INFO] [net.minecraftforge.coremod.CoreMod.apotheosis/COREMODLOG]: Patching RepairContainer#updateRepairOutput
+[04May2023 18:24:50.738] [main/INFO] [net.minecraftforge.coremod.CoreMod.apotheosis/COREMODLOG]: Successfully removed the anvil level cap.
+[04May2023 18:24:50.739] [main/INFO] [net.minecraftforge.coremod.CoreMod.apotheosis/COREMODLOG]: Patching RepairContainer#updateRepairOutput
+[04May2023 18:24:50.745] [main/INFO] [net.minecraftforge.coremod.CoreMod.apotheosis/COREMODLOG]: Successfully allowed nbt-unbreakable items in the anvil.
+[04May2023 18:24:50.746] [main/INFO] [net.minecraftforge.coremod.CoreMod.apotheosis/COREMODLOG]: Patching net/minecraft/inventory/container/RepairContainer
+[04May2023 18:24:51.144] [main/INFO] [net.minecraftforge.coremod.CoreMod.apotheosis/COREMODLOG]: Patching CampfireTileEntity#findMatchingRecipe
+[04May2023 18:24:52.989] [main/INFO] [mixin/]: Mixing AccessorAbstractArrowEntity from assets/enigmaticlegacy/enigmaticlegacy.mixins.json into net.minecraft.entity.projectile.AbstractArrowEntity
+[04May2023 18:24:53.119] [main/INFO] [net.minecraftforge.coremod.CoreMod.apotheosis/COREMODLOG]: Patching TemptGoal#isTempting
+[04May2023 18:24:54.141] [main/INFO] [net.minecraftforge.coremod.CoreMod.placebo/COREMODLOG]: Patching ItemStack#onItemUse
+[04May2023 18:24:55.201] [main/INFO] [mixin/]: Mixing MixinVillagerEntity from assets/enigmaticlegacy/enigmaticlegacy.mixins.json into net.minecraft.entity.merchant.villager.VillagerEntity
+[04May2023 18:25:00.378] [main/INFO] [net.minecraftforge.coremod.CoreMod.apotheosis/COREMODLOG]: Patching ItemArrow#isInfinite
+[04May2023 18:25:04.249] [main/INFO] [net.minecraftforge.coremod.CoreMod.apotheosis/COREMODLOG]: Patching net/minecraft/item/EnchantedBookItem
+[04May2023 18:25:04.403] [main/INFO] [net.minecraftforge.coremod.CoreMod.apotheosis/COREMODLOG]: Patching CrossbowItem#onItemRightClick
+[04May2023 18:25:04.414] [main/INFO] [net.minecraftforge.coremod.CoreMod.apotheosis/COREMODLOG]: Patching CrossbowItem#fireProjectile
+[04May2023 18:25:07.190] [main/INFO] [net.minecraftforge.coremod.CoreMod.apotheosis/COREMODLOG]: Patching FishingBobberEntity#catchingFish
+[04May2023 18:25:10.202] [main/INFO] [mixin/]: Mixing MixinPiglinMobsSensor from assets/enigmaticlegacy/enigmaticlegacy.mixins.json into net.minecraft.entity.ai.brain.sensor.PiglinMobsSensor
+[04May2023 18:25:10.420] [main/INFO] [net.minecraftforge.coremod.CoreMod.apotheosis/COREMODLOG]: Patching net/minecraft/loot/functions/EnchantRandomly
+[04May2023 18:25:14.774] [main/WARN] [mixin/]: @ModifyConstant conflict. Skipping xlpackets.mixins.json:PacketBufferMixin->@ModifyConstant::xlPackets(J)J with priority 1000, already redirected by randompatches.mixins.json:packetsizelimits.PacketBufferMixin->@ModifyConstant::getMaxNBTCompoundTagPacketSize(J)J with priority 1000
