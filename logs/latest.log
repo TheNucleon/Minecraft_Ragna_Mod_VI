@@ -3764,3 +3764,10 @@ Caused by: java.io.FileNotFoundException: https://refinedmods.com/refined-storag
 [03May2023 22:06:31.687] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: TheNukleon left the game
 [03May2023 22:06:33.392] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Boryke lost connection: Disconnected
 [03May2023 22:06:33.392] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Boryke left the game
+[03May2023 22:18:27.235] [Server thread/INFO] [FTB Utilities Backups/]: Server Backup started!
+[03May2023 22:18:27.237] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Server Backup started!
+[03May2023 22:18:27.259] [Thread-155/INFO] [FTB Utilities Backups/]: Backing up 219 files...
+[03May2023 22:18:27.272] [Thread-155/INFO] [FTB Utilities Backups/]: Compressing 219 files...
+[03May2023 22:18:27.654] [Thread-155/INFO] [FTB Utilities Backups/]: Done compressing in 393ms seconds (4.6MB)!
+[03May2023 22:18:27.654] [Thread-155/INFO] [FTB Utilities Backups/]: Created /root/minecraft/Minecraft_Ragna_Mod_VI/backups/2023-05-03-22-18-27.zip from /root/minecraft/Minecraft_Ragna_Mod_VI/world
+[03May2023 22:18:27.665] [Thread-155/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Server backup done in 420ms! (4.6MB)
