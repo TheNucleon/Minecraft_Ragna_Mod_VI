@@ -1,431 +1,431 @@
-[20:16:00] [INFO ] Loaded script server_scripts:unify.js in 0.07 s
-[20:16:00] [INFO ] Loaded script server_scripts:settings.js in 0.001 s
-[20:16:00] [INFO ] Loaded script server_scripts:industrialforegoing.js in 0.002 s
-[20:16:00] [INFO ] Loaded script server_scripts:stonecutter.js in 0.003 s
-[20:16:00] [INFO ] Loaded script server_scripts:remove.js in 0.005 s
-[20:16:00] [INFO ] Loaded script server_scripts:woot.js in 0.002 s
-[20:16:00] [INFO ] Loaded script server_scripts:masterful_machinery/emcmaker.js in 0.001 s
-[20:16:00] [INFO ] Loaded script server_scripts:masterful_machinery/smithingmachine.js in 0.001 s
-[20:16:00] [INFO ] Loaded script server_scripts:masterful_machinery/autoastral.js in 0.006 s
-[20:16:00] [INFO ] Loaded script server_scripts:masterful_machinery/ringmaker.js in 0.001 s
-[20:16:00] [INFO ] Loaded script server_scripts:masterful_machinery/quarkotron.js in 0.001 s
-[20:16:00] [INFO ] Loaded script server_scripts:masterful_machinery/autopsi.js in 0.002 s
-[20:16:00] [INFO ] Loaded script server_scripts:tag.js in 0.039 s
-[20:16:00] [INFO ] Loaded script server_scripts:solarflux.js in 0.001 s
-[20:16:00] [INFO ] Loaded script server_scripts:gardencloche.js in 0.005 s
-[20:16:00] [INFO ] Loaded script server_scripts:exnihilo.js in 0.003 s
-[20:16:00] [INFO ] Loaded script server_scripts:mystical.js in 0.006 s
-[20:16:00] [INFO ] Loaded script server_scripts:thermal.js in 0.002 s
-[20:16:00] [INFO ] Loaded script server_scripts:tinker.js in 0.002 s
-[20:16:00] [INFO ] Loaded script server_scripts:kubejs_craft.js in 0.002 s
-[20:16:00] [INFO ] Loaded script server_scripts:botanypots.js in 0.001 s
-[20:16:00] [INFO ] Loaded script server_scripts:botanytrees/integrateddynamics.js in 0.001 s
-[20:16:00] [INFO ] Loaded script server_scripts:botanytrees/byg.js in 0.003 s
-[20:16:00] [INFO ] Loaded script server_scripts:botanytrees/upgrade_aquatic.js in 0.0 s
-[20:16:00] [INFO ] Loaded script server_scripts:botanytrees/tconstruct.js in 0.002 s
-[20:16:00] [INFO ] Loaded script server_scripts:botanytrees/vanilla.js in 0.001 s
-[20:16:00] [INFO ] Loaded script server_scripts:botanytrees/undergarden.js in 0.001 s
-[20:16:00] [INFO ] Loaded script server_scripts:botanytrees/architects_palette.js in 0.0 s
-[20:16:00] [INFO ] Loaded script server_scripts:botanytrees/twilight_forest.js in 0.001 s
-[20:16:00] [INFO ] Loaded script server_scripts:botanytrees/pams.js in 0.001 s
-[20:16:00] [INFO ] Loaded script server_scripts:botanytrees/forbidden_arcanus.js in 0.001 s
-[20:16:00] [INFO ] Loaded script server_scripts:botanytrees/ars_nouveau.js in 0.0 s
-[20:16:00] [INFO ] Loaded script server_scripts:botanytrees/sonicraft.js in 0.0 s
-[20:16:00] [INFO ] Loaded script server_scripts:botanytrees/quark.js in 0.0 s
-[20:16:00] [INFO ] Loaded script server_scripts:botanytrees/betterend.js in 0.001 s
-[20:16:00] [INFO ] Loaded script server_scripts:resourcefulbees.js in 0.001 s
-[20:16:00] [INFO ] Loaded script server_scripts:creative.js in 0.003 s
-[20:16:00] [INFO ] Loaded script server_scripts:craft.js in 0.0 s
-[20:16:00] [INFO ] Loaded 38/38 KubeJS server scripts in 0.211 s
-[20:16:00] [INFO ] Scripts loaded
-[20:16:00] [INFO ] Scanning recipes...
-[20:16:14] [INFO ] [blocks] Found 1351 tags, added 10 objects, removed 27 objects
-[20:16:14] [INFO ] [blocks] Found 1351 tags, added 0 objects, removed 0 objects
-[20:16:14] [INFO ] [items] Found 3039 tags, added 538 objects, removed 140 objects
-[20:16:14] [INFO ] [items] Found 3039 tags, added 0 objects, removed 0 objects
-[20:16:14] [INFO ] [fluids] Found 219 tags, added 0 objects, removed 0 objects
-[20:16:14] [INFO ] [fluids] Found 219 tags, added 0 objects, removed 0 objects
-[20:16:14] [INFO ] [entity_types] Found 67 tags, added 0 objects, removed 0 objects
-[20:16:14] [INFO ] [entity_types] Found 67 tags, added 0 objects, removed 0 objects
-[20:16:14] [INFO ] [tunnel_types] Found 0 tags, added 0 objects, removed 0 objects
-[20:16:14] [INFO ] [tunnel_types] Found 0 tags, added 0 objects, removed 0 objects
-[20:16:14] [INFO ] [recipe_components] Found 0 tags, added 0 objects, removed 0 objects
-[20:16:14] [INFO ] [recipe_components] Found 0 tags, added 0 objects, removed 0 objects
-[20:16:14] [INFO ] [potions] Found 0 tags, added 0 objects, removed 0 objects
-[20:16:14] [INFO ] [potions] Found 0 tags, added 0 objects, removed 0 objects
-[20:16:14] [INFO ] [catalyst_types] Found 0 tags, added 0 objects, removed 0 objects
-[20:16:14] [INFO ] [catalyst_types] Found 0 tags, added 0 objects, removed 0 objects
-[20:16:14] [INFO ] [pigments] Found 0 tags, added 0 objects, removed 0 objects
-[20:16:14] [INFO ] [pigments] Found 0 tags, added 0 objects, removed 0 objects
-[20:16:14] [INFO ] [enchantments] Found 1 tags, added 0 objects, removed 0 objects
-[20:16:14] [INFO ] [enchantments] Found 1 tags, added 0 objects, removed 0 objects
-[20:16:14] [INFO ] [tile_entity_types] Found 5 tags, added 0 objects, removed 0 objects
-[20:16:14] [INFO ] [tile_entity_types] Found 5 tags, added 0 objects, removed 0 objects
-[20:16:14] [INFO ] [slurries] Found 2 tags, added 0 objects, removed 0 objects
-[20:16:14] [INFO ] [slurries] Found 2 tags, added 0 objects, removed 0 objects
-[20:16:14] [INFO ] [infuse_types] Found 8 tags, added 0 objects, removed 0 objects
-[20:16:14] [INFO ] [infuse_types] Found 8 tags, added 0 objects, removed 0 objects
-[20:16:14] [INFO ] [recipe_layers] Found 0 tags, added 0 objects, removed 0 objects
-[20:16:14] [INFO ] [recipe_layers] Found 0 tags, added 0 objects, removed 0 objects
-[20:16:14] [INFO ] [gases] Found 5 tags, added 0 objects, removed 0 objects
-[20:16:14] [INFO ] [gases] Found 5 tags, added 0 objects, removed 0 objects
-[20:16:15] [WARN ] Failed to parse recipe 'thermal:compat/mysticalagriculture/insolator_mysticalag_zombie_pigman_seeds[thermal:insolator]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Invalid Thermal Series recipe: thermal:compat/mysticalagriculture/insolator_mysticalag_zombie_pigman_seeds
+[18:43:15] [INFO ] Loaded script server_scripts:unify.js in 0.068 s
+[18:43:15] [INFO ] Loaded script server_scripts:settings.js in 0.001 s
+[18:43:15] [INFO ] Loaded script server_scripts:industrialforegoing.js in 0.003 s
+[18:43:15] [INFO ] Loaded script server_scripts:stonecutter.js in 0.002 s
+[18:43:15] [INFO ] Loaded script server_scripts:remove.js in 0.005 s
+[18:43:15] [INFO ] Loaded script server_scripts:woot.js in 0.002 s
+[18:43:15] [INFO ] Loaded script server_scripts:masterful_machinery/emcmaker.js in 0.002 s
+[18:43:15] [INFO ] Loaded script server_scripts:masterful_machinery/smithingmachine.js in 0.001 s
+[18:43:15] [INFO ] Loaded script server_scripts:masterful_machinery/autoastral.js in 0.008 s
+[18:43:15] [INFO ] Loaded script server_scripts:masterful_machinery/ringmaker.js in 0.001 s
+[18:43:15] [INFO ] Loaded script server_scripts:masterful_machinery/quarkotron.js in 0.003 s
+[18:43:15] [INFO ] Loaded script server_scripts:masterful_machinery/autopsi.js in 0.002 s
+[18:43:16] [INFO ] Loaded script server_scripts:tag.js in 0.028 s
+[18:43:16] [INFO ] Loaded script server_scripts:solarflux.js in 0.001 s
+[18:43:16] [INFO ] Loaded script server_scripts:gardencloche.js in 0.007 s
+[18:43:16] [INFO ] Loaded script server_scripts:exnihilo.js in 0.004 s
+[18:43:16] [INFO ] Loaded script server_scripts:mystical.js in 0.009 s
+[18:43:16] [INFO ] Loaded script server_scripts:thermal.js in 0.002 s
+[18:43:16] [INFO ] Loaded script server_scripts:tinker.js in 0.001 s
+[18:43:16] [INFO ] Loaded script server_scripts:kubejs_craft.js in 0.003 s
+[18:43:16] [INFO ] Loaded script server_scripts:botanypots.js in 0.002 s
+[18:43:16] [INFO ] Loaded script server_scripts:botanytrees/integrateddynamics.js in 0.001 s
+[18:43:16] [INFO ] Loaded script server_scripts:botanytrees/byg.js in 0.004 s
+[18:43:16] [INFO ] Loaded script server_scripts:botanytrees/upgrade_aquatic.js in 0.0 s
+[18:43:16] [INFO ] Loaded script server_scripts:botanytrees/tconstruct.js in 0.001 s
+[18:43:16] [INFO ] Loaded script server_scripts:botanytrees/vanilla.js in 0.001 s
+[18:43:16] [INFO ] Loaded script server_scripts:botanytrees/undergarden.js in 0.0 s
+[18:43:16] [INFO ] Loaded script server_scripts:botanytrees/architects_palette.js in 0.001 s
+[18:43:16] [INFO ] Loaded script server_scripts:botanytrees/twilight_forest.js in 0.0 s
+[18:43:16] [INFO ] Loaded script server_scripts:botanytrees/pams.js in 0.002 s
+[18:43:16] [INFO ] Loaded script server_scripts:botanytrees/forbidden_arcanus.js in 0.0 s
+[18:43:16] [INFO ] Loaded script server_scripts:botanytrees/ars_nouveau.js in 0.001 s
+[18:43:16] [INFO ] Loaded script server_scripts:botanytrees/sonicraft.js in 0.0 s
+[18:43:16] [INFO ] Loaded script server_scripts:botanytrees/quark.js in 0.001 s
+[18:43:16] [INFO ] Loaded script server_scripts:botanytrees/betterend.js in 0.001 s
+[18:43:16] [INFO ] Loaded script server_scripts:resourcefulbees.js in 0.002 s
+[18:43:16] [INFO ] Loaded script server_scripts:creative.js in 0.002 s
+[18:43:16] [INFO ] Loaded script server_scripts:craft.js in 0.001 s
+[18:43:16] [INFO ] Loaded 38/38 KubeJS server scripts in 0.191 s
+[18:43:16] [INFO ] Scripts loaded
+[18:43:16] [INFO ] Scanning recipes...
+[18:43:27] [INFO ] [blocks] Found 1351 tags, added 10 objects, removed 27 objects
+[18:43:27] [INFO ] [blocks] Found 1351 tags, added 0 objects, removed 0 objects
+[18:43:27] [INFO ] [items] Found 3039 tags, added 538 objects, removed 140 objects
+[18:43:27] [INFO ] [items] Found 3039 tags, added 0 objects, removed 0 objects
+[18:43:27] [INFO ] [fluids] Found 219 tags, added 0 objects, removed 0 objects
+[18:43:27] [INFO ] [fluids] Found 219 tags, added 0 objects, removed 0 objects
+[18:43:27] [INFO ] [entity_types] Found 67 tags, added 0 objects, removed 0 objects
+[18:43:27] [INFO ] [entity_types] Found 67 tags, added 0 objects, removed 0 objects
+[18:43:27] [INFO ] [tunnel_types] Found 0 tags, added 0 objects, removed 0 objects
+[18:43:27] [INFO ] [tunnel_types] Found 0 tags, added 0 objects, removed 0 objects
+[18:43:27] [INFO ] [recipe_components] Found 0 tags, added 0 objects, removed 0 objects
+[18:43:27] [INFO ] [recipe_components] Found 0 tags, added 0 objects, removed 0 objects
+[18:43:27] [INFO ] [potions] Found 0 tags, added 0 objects, removed 0 objects
+[18:43:27] [INFO ] [potions] Found 0 tags, added 0 objects, removed 0 objects
+[18:43:27] [INFO ] [catalyst_types] Found 0 tags, added 0 objects, removed 0 objects
+[18:43:27] [INFO ] [catalyst_types] Found 0 tags, added 0 objects, removed 0 objects
+[18:43:27] [INFO ] [pigments] Found 0 tags, added 0 objects, removed 0 objects
+[18:43:27] [INFO ] [pigments] Found 0 tags, added 0 objects, removed 0 objects
+[18:43:27] [INFO ] [enchantments] Found 1 tags, added 0 objects, removed 0 objects
+[18:43:27] [INFO ] [enchantments] Found 1 tags, added 0 objects, removed 0 objects
+[18:43:27] [INFO ] [tile_entity_types] Found 5 tags, added 0 objects, removed 0 objects
+[18:43:27] [INFO ] [tile_entity_types] Found 5 tags, added 0 objects, removed 0 objects
+[18:43:27] [INFO ] [slurries] Found 2 tags, added 0 objects, removed 0 objects
+[18:43:27] [INFO ] [slurries] Found 2 tags, added 0 objects, removed 0 objects
+[18:43:27] [INFO ] [infuse_types] Found 8 tags, added 0 objects, removed 0 objects
+[18:43:27] [INFO ] [infuse_types] Found 8 tags, added 0 objects, removed 0 objects
+[18:43:27] [INFO ] [recipe_layers] Found 0 tags, added 0 objects, removed 0 objects
+[18:43:27] [INFO ] [recipe_layers] Found 0 tags, added 0 objects, removed 0 objects
+[18:43:27] [INFO ] [gases] Found 5 tags, added 0 objects, removed 0 objects
+[18:43:27] [INFO ] [gases] Found 5 tags, added 0 objects, removed 0 objects
+[18:43:28] [WARN ] Failed to parse recipe 'thermal:compat/mysticalagriculture/insolator_mysticalag_zombie_pigman_seeds[thermal:insolator]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Invalid Thermal Series recipe: thermal:compat/mysticalagriculture/insolator_mysticalag_zombie_pigman_seeds
 Refer to the recipe's ResourceLocation to find the mod responsible and let them know!
-[20:16:15] [WARN ] Failed to parse recipe thermal:compat/mysticalagriculture/insolator_mysticalag_zombie_pigman_seeds[thermal:insolator]: com.google.gson.JsonSyntaxException: Invalid Thermal Series recipe: thermal:compat/mysticalagriculture/insolator_mysticalag_zombie_pigman_seeds
+[18:43:28] [WARN ] Failed to parse recipe thermal:compat/mysticalagriculture/insolator_mysticalag_zombie_pigman_seeds[thermal:insolator]: com.google.gson.JsonSyntaxException: Invalid Thermal Series recipe: thermal:compat/mysticalagriculture/insolator_mysticalag_zombie_pigman_seeds
 Refer to the recipe's ResourceLocation to find the mod responsible and let them know!
-[20:16:15] [WARN ] Failed to parse recipe 'creategearaddon:crafting/kinetics/large_redwood_cogwheel[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:redwood_button'
-[20:16:15] [WARN ] Failed to parse recipe creategearaddon:crafting/kinetics/large_redwood_cogwheel[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:redwood_button'
-[20:16:15] [WARN ] Failed to parse recipe 'creategearaddon:crafting/kinetics/jacaranda_bracket[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:jacaranda_planks'
-[20:16:15] [WARN ] Failed to parse recipe creategearaddon:crafting/kinetics/jacaranda_bracket[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:jacaranda_planks'
-[20:16:15] [WARN ] Failed to parse recipe 'creategearaddon:crafting/kinetics/large_shaftless_redwood_cogwheel[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:redwood_button'
-[20:16:15] [WARN ] Failed to parse recipe creategearaddon:crafting/kinetics/large_shaftless_redwood_cogwheel[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:redwood_button'
-[20:16:15] [WARN ] Failed to parse recipe 'creategearaddon:sequenced_assembly/half_shaft_dead_cogwheel[create:sequenced_assembly]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:dead_button'
-[20:16:15] [WARN ] Failed to parse recipe creategearaddon:sequenced_assembly/half_shaft_dead_cogwheel[create:sequenced_assembly]: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:dead_button'
-[20:16:15] [WARN ] Failed to parse recipe 'creategearaddon:crafting/kinetics/shaftless_jacaranda_cogwheel[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:jacaranda_button'
-[20:16:15] [WARN ] Failed to parse recipe creategearaddon:crafting/kinetics/shaftless_jacaranda_cogwheel[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:jacaranda_button'
-[20:16:15] [WARN ] Failed to parse recipe 'creategearaddon:crafting/kinetics/willow_bracket[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:willow_planks'
-[20:16:15] [WARN ] Failed to parse recipe creategearaddon:crafting/kinetics/willow_bracket[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:willow_planks'
-[20:16:15] [WARN ] Failed to parse recipe 'creategearaddon:crafting/kinetics/palm_cogwheel[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:palm_button'
-[20:16:15] [WARN ] Failed to parse recipe creategearaddon:crafting/kinetics/palm_cogwheel[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:palm_button'
-[20:16:15] [WARN ] Failed to parse recipe 'creategearaddon:crafting/kinetics/large_hellbark_cogwheel[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:hellbark_button'
-[20:16:15] [WARN ] Failed to parse recipe creategearaddon:crafting/kinetics/large_hellbark_cogwheel[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:hellbark_button'
-[20:16:15] [WARN ] Failed to parse recipe 'creategearaddon:crafting/kinetics/large_jacaranda_cogwheel[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:jacaranda_button'
-[20:16:15] [WARN ] Failed to parse recipe creategearaddon:crafting/kinetics/large_jacaranda_cogwheel[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:jacaranda_button'
-[20:16:15] [WARN ] Failed to parse recipe 'creategearaddon:crafting/kinetics/large_shaftless_umbran_cogwheel[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:umbran_button'
-[20:16:15] [WARN ] Failed to parse recipe creategearaddon:crafting/kinetics/large_shaftless_umbran_cogwheel[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:umbran_button'
-[20:16:15] [WARN ] Failed to parse recipe 'creategearaddon:sequenced_assembly/half_shaft_redwood_cogwheel[create:sequenced_assembly]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:redwood_button'
-[20:16:15] [WARN ] Failed to parse recipe creategearaddon:sequenced_assembly/half_shaft_redwood_cogwheel[create:sequenced_assembly]: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:redwood_button'
-[20:16:15] [WARN ] Failed to parse recipe 'creategearaddon:crafting/kinetics/large_shaftless_mahogany_cogwheel[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:mahogany_button'
-[20:16:15] [WARN ] Failed to parse recipe creategearaddon:crafting/kinetics/large_shaftless_mahogany_cogwheel[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:mahogany_button'
-[20:16:15] [WARN ] Failed to parse recipe 'creategearaddon:crafting/kinetics/shaftless_magic_cogwheel[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:magic_button'
-[20:16:15] [WARN ] Failed to parse recipe creategearaddon:crafting/kinetics/shaftless_magic_cogwheel[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:magic_button'
-[20:16:15] [WARN ] Failed to parse recipe 'creategearaddon:crafting/kinetics/large_fir_cogwheel[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:fir_button'
-[20:16:15] [WARN ] Failed to parse recipe creategearaddon:crafting/kinetics/large_fir_cogwheel[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:fir_button'
-[20:16:16] [WARN ] Failed to parse recipe 'creategearaddon:crafting/kinetics/large_dead_cogwheel[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:dead_button'
-[20:16:16] [WARN ] Failed to parse recipe creategearaddon:crafting/kinetics/large_dead_cogwheel[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:dead_button'
-[20:16:16] [WARN ] Failed to parse recipe 'thermal:compat/mysticalagriculture/insolator_mysticalag_villager_seeds[thermal:insolator]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Invalid Thermal Series recipe: thermal:compat/mysticalagriculture/insolator_mysticalag_villager_seeds
+[18:43:28] [WARN ] Failed to parse recipe 'creategearaddon:crafting/kinetics/large_redwood_cogwheel[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:redwood_button'
+[18:43:28] [WARN ] Failed to parse recipe creategearaddon:crafting/kinetics/large_redwood_cogwheel[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:redwood_button'
+[18:43:28] [WARN ] Failed to parse recipe 'creategearaddon:crafting/kinetics/jacaranda_bracket[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:jacaranda_planks'
+[18:43:28] [WARN ] Failed to parse recipe creategearaddon:crafting/kinetics/jacaranda_bracket[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:jacaranda_planks'
+[18:43:28] [WARN ] Failed to parse recipe 'creategearaddon:crafting/kinetics/large_shaftless_redwood_cogwheel[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:redwood_button'
+[18:43:28] [WARN ] Failed to parse recipe creategearaddon:crafting/kinetics/large_shaftless_redwood_cogwheel[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:redwood_button'
+[18:43:28] [WARN ] Failed to parse recipe 'creategearaddon:sequenced_assembly/half_shaft_dead_cogwheel[create:sequenced_assembly]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:dead_button'
+[18:43:28] [WARN ] Failed to parse recipe creategearaddon:sequenced_assembly/half_shaft_dead_cogwheel[create:sequenced_assembly]: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:dead_button'
+[18:43:28] [WARN ] Failed to parse recipe 'creategearaddon:crafting/kinetics/shaftless_jacaranda_cogwheel[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:jacaranda_button'
+[18:43:28] [WARN ] Failed to parse recipe creategearaddon:crafting/kinetics/shaftless_jacaranda_cogwheel[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:jacaranda_button'
+[18:43:28] [WARN ] Failed to parse recipe 'creategearaddon:crafting/kinetics/willow_bracket[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:willow_planks'
+[18:43:28] [WARN ] Failed to parse recipe creategearaddon:crafting/kinetics/willow_bracket[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:willow_planks'
+[18:43:28] [WARN ] Failed to parse recipe 'creategearaddon:crafting/kinetics/palm_cogwheel[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:palm_button'
+[18:43:28] [WARN ] Failed to parse recipe creategearaddon:crafting/kinetics/palm_cogwheel[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:palm_button'
+[18:43:28] [WARN ] Failed to parse recipe 'creategearaddon:crafting/kinetics/large_hellbark_cogwheel[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:hellbark_button'
+[18:43:28] [WARN ] Failed to parse recipe creategearaddon:crafting/kinetics/large_hellbark_cogwheel[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:hellbark_button'
+[18:43:28] [WARN ] Failed to parse recipe 'creategearaddon:crafting/kinetics/large_jacaranda_cogwheel[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:jacaranda_button'
+[18:43:28] [WARN ] Failed to parse recipe creategearaddon:crafting/kinetics/large_jacaranda_cogwheel[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:jacaranda_button'
+[18:43:28] [WARN ] Failed to parse recipe 'creategearaddon:crafting/kinetics/large_shaftless_umbran_cogwheel[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:umbran_button'
+[18:43:28] [WARN ] Failed to parse recipe creategearaddon:crafting/kinetics/large_shaftless_umbran_cogwheel[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:umbran_button'
+[18:43:28] [WARN ] Failed to parse recipe 'creategearaddon:sequenced_assembly/half_shaft_redwood_cogwheel[create:sequenced_assembly]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:redwood_button'
+[18:43:28] [WARN ] Failed to parse recipe creategearaddon:sequenced_assembly/half_shaft_redwood_cogwheel[create:sequenced_assembly]: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:redwood_button'
+[18:43:28] [WARN ] Failed to parse recipe 'creategearaddon:crafting/kinetics/large_shaftless_mahogany_cogwheel[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:mahogany_button'
+[18:43:28] [WARN ] Failed to parse recipe creategearaddon:crafting/kinetics/large_shaftless_mahogany_cogwheel[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:mahogany_button'
+[18:43:28] [WARN ] Failed to parse recipe 'creategearaddon:crafting/kinetics/shaftless_magic_cogwheel[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:magic_button'
+[18:43:28] [WARN ] Failed to parse recipe creategearaddon:crafting/kinetics/shaftless_magic_cogwheel[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:magic_button'
+[18:43:28] [WARN ] Failed to parse recipe 'creategearaddon:crafting/kinetics/large_fir_cogwheel[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:fir_button'
+[18:43:28] [WARN ] Failed to parse recipe creategearaddon:crafting/kinetics/large_fir_cogwheel[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:fir_button'
+[18:43:28] [WARN ] Failed to parse recipe 'creategearaddon:crafting/kinetics/large_dead_cogwheel[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:dead_button'
+[18:43:28] [WARN ] Failed to parse recipe creategearaddon:crafting/kinetics/large_dead_cogwheel[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:dead_button'
+[18:43:28] [WARN ] Failed to parse recipe 'thermal:compat/mysticalagriculture/insolator_mysticalag_villager_seeds[thermal:insolator]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Invalid Thermal Series recipe: thermal:compat/mysticalagriculture/insolator_mysticalag_villager_seeds
 Refer to the recipe's ResourceLocation to find the mod responsible and let them know!
-[20:16:16] [WARN ] Failed to parse recipe thermal:compat/mysticalagriculture/insolator_mysticalag_villager_seeds[thermal:insolator]: com.google.gson.JsonSyntaxException: Invalid Thermal Series recipe: thermal:compat/mysticalagriculture/insolator_mysticalag_villager_seeds
+[18:43:28] [WARN ] Failed to parse recipe thermal:compat/mysticalagriculture/insolator_mysticalag_villager_seeds[thermal:insolator]: com.google.gson.JsonSyntaxException: Invalid Thermal Series recipe: thermal:compat/mysticalagriculture/insolator_mysticalag_villager_seeds
 Refer to the recipe's ResourceLocation to find the mod responsible and let them know!
-[20:16:16] [WARN ] Failed to parse recipe 'creategearaddon:sequenced_assembly/large_half_shaft_willow_cogwheel[create:sequenced_assembly]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:willow_planks'
-[20:16:16] [WARN ] Failed to parse recipe creategearaddon:sequenced_assembly/large_half_shaft_willow_cogwheel[create:sequenced_assembly]: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:willow_planks'
-[20:16:16] [WARN ] Failed to parse recipe 'creategearaddon:crafting/kinetics/large_shaftless_cherry_cogwheel[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:cherry_button'
-[20:16:16] [WARN ] Failed to parse recipe creategearaddon:crafting/kinetics/large_shaftless_cherry_cogwheel[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:cherry_button'
-[20:16:16] [WARN ] Failed to parse recipe 'creategearaddon:sequenced_assembly/large_half_shaft_jacaranda_cogwheel[create:sequenced_assembly]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:jacaranda_planks'
-[20:16:16] [WARN ] Failed to parse recipe creategearaddon:sequenced_assembly/large_half_shaft_jacaranda_cogwheel[create:sequenced_assembly]: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:jacaranda_planks'
-[20:16:16] [WARN ] Failed to parse recipe 'creategearaddon:crafting/kinetics/large_shaftless_fir_cogwheel[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:fir_button'
-[20:16:16] [WARN ] Failed to parse recipe creategearaddon:crafting/kinetics/large_shaftless_fir_cogwheel[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:fir_button'
-[20:16:16] [WARN ] Failed to parse recipe 'creategearaddon:sequenced_assembly/half_shaft_magic_cogwheel[create:sequenced_assembly]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:magic_button'
-[20:16:16] [WARN ] Failed to parse recipe creategearaddon:sequenced_assembly/half_shaft_magic_cogwheel[create:sequenced_assembly]: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:magic_button'
-[20:16:16] [WARN ] Failed to parse recipe 'creategearaddon:crafting/kinetics/shaftless_umbran_cogwheel[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:umbran_button'
-[20:16:16] [WARN ] Failed to parse recipe creategearaddon:crafting/kinetics/shaftless_umbran_cogwheel[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:umbran_button'
-[20:16:16] [WARN ] Failed to parse recipe 'thermal:compat/mysticalagriculture/insolator_mysticalag_wolf_seeds[thermal:insolator]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Invalid Thermal Series recipe: thermal:compat/mysticalagriculture/insolator_mysticalag_wolf_seeds
+[18:43:28] [WARN ] Failed to parse recipe 'creategearaddon:sequenced_assembly/large_half_shaft_willow_cogwheel[create:sequenced_assembly]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:willow_planks'
+[18:43:28] [WARN ] Failed to parse recipe creategearaddon:sequenced_assembly/large_half_shaft_willow_cogwheel[create:sequenced_assembly]: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:willow_planks'
+[18:43:28] [WARN ] Failed to parse recipe 'creategearaddon:crafting/kinetics/large_shaftless_cherry_cogwheel[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:cherry_button'
+[18:43:28] [WARN ] Failed to parse recipe creategearaddon:crafting/kinetics/large_shaftless_cherry_cogwheel[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:cherry_button'
+[18:43:28] [WARN ] Failed to parse recipe 'creategearaddon:sequenced_assembly/large_half_shaft_jacaranda_cogwheel[create:sequenced_assembly]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:jacaranda_planks'
+[18:43:28] [WARN ] Failed to parse recipe creategearaddon:sequenced_assembly/large_half_shaft_jacaranda_cogwheel[create:sequenced_assembly]: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:jacaranda_planks'
+[18:43:28] [WARN ] Failed to parse recipe 'creategearaddon:crafting/kinetics/large_shaftless_fir_cogwheel[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:fir_button'
+[18:43:28] [WARN ] Failed to parse recipe creategearaddon:crafting/kinetics/large_shaftless_fir_cogwheel[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:fir_button'
+[18:43:28] [WARN ] Failed to parse recipe 'creategearaddon:sequenced_assembly/half_shaft_magic_cogwheel[create:sequenced_assembly]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:magic_button'
+[18:43:28] [WARN ] Failed to parse recipe creategearaddon:sequenced_assembly/half_shaft_magic_cogwheel[create:sequenced_assembly]: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:magic_button'
+[18:43:28] [WARN ] Failed to parse recipe 'creategearaddon:crafting/kinetics/shaftless_umbran_cogwheel[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:umbran_button'
+[18:43:28] [WARN ] Failed to parse recipe creategearaddon:crafting/kinetics/shaftless_umbran_cogwheel[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:umbran_button'
+[18:43:29] [WARN ] Failed to parse recipe 'thermal:compat/mysticalagriculture/insolator_mysticalag_wolf_seeds[thermal:insolator]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Invalid Thermal Series recipe: thermal:compat/mysticalagriculture/insolator_mysticalag_wolf_seeds
 Refer to the recipe's ResourceLocation to find the mod responsible and let them know!
-[20:16:16] [WARN ] Failed to parse recipe thermal:compat/mysticalagriculture/insolator_mysticalag_wolf_seeds[thermal:insolator]: com.google.gson.JsonSyntaxException: Invalid Thermal Series recipe: thermal:compat/mysticalagriculture/insolator_mysticalag_wolf_seeds
+[18:43:29] [WARN ] Failed to parse recipe thermal:compat/mysticalagriculture/insolator_mysticalag_wolf_seeds[thermal:insolator]: com.google.gson.JsonSyntaxException: Invalid Thermal Series recipe: thermal:compat/mysticalagriculture/insolator_mysticalag_wolf_seeds
 Refer to the recipe's ResourceLocation to find the mod responsible and let them know!
-[20:16:16] [WARN ] Failed to parse recipe 'creategearaddon:sequenced_assembly/large_half_shaft_palm_cogwheel[create:sequenced_assembly]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:palm_planks'
-[20:16:16] [WARN ] Failed to parse recipe creategearaddon:sequenced_assembly/large_half_shaft_palm_cogwheel[create:sequenced_assembly]: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:palm_planks'
-[20:16:16] [WARN ] Failed to parse recipe 'creategearaddon:crafting/kinetics/large_half_shaft_dead_cogwheel[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:dead_button'
-[20:16:16] [WARN ] Failed to parse recipe creategearaddon:crafting/kinetics/large_half_shaft_dead_cogwheel[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:dead_button'
-[20:16:16] [WARN ] Failed to parse recipe 'creategearaddon:sequenced_assembly/large_dead_cogwheel[create:sequenced_assembly]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:dead_planks'
-[20:16:16] [WARN ] Failed to parse recipe creategearaddon:sequenced_assembly/large_dead_cogwheel[create:sequenced_assembly]: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:dead_planks'
-[20:16:16] [WARN ] Failed to parse recipe 'creategearaddon:sequenced_assembly/large_cherry_cogwheel[create:sequenced_assembly]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:cherry_planks'
-[20:16:16] [WARN ] Failed to parse recipe creategearaddon:sequenced_assembly/large_cherry_cogwheel[create:sequenced_assembly]: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:cherry_planks'
-[20:16:16] [WARN ] Failed to parse recipe 'creategearaddon:sequenced_assembly/large_redwood_cogwheel[create:sequenced_assembly]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:redwood_planks'
-[20:16:16] [WARN ] Failed to parse recipe creategearaddon:sequenced_assembly/large_redwood_cogwheel[create:sequenced_assembly]: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:redwood_planks'
-[20:16:16] [WARN ] Failed to parse recipe 'creategearaddon:sequenced_assembly/large_half_shaft_redwood_cogwheel[create:sequenced_assembly]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:redwood_planks'
-[20:16:16] [WARN ] Failed to parse recipe creategearaddon:sequenced_assembly/large_half_shaft_redwood_cogwheel[create:sequenced_assembly]: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:redwood_planks'
-[20:16:16] [WARN ] Failed to parse recipe 'creategearaddon:crafting/kinetics/large_mahogany_cogwheel[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:mahogany_button'
-[20:16:16] [WARN ] Failed to parse recipe creategearaddon:crafting/kinetics/large_mahogany_cogwheel[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:mahogany_button'
-[20:16:16] [WARN ] Failed to parse recipe 'creategearaddon:crafting/kinetics/large_half_shaft_jacaranda_cogwheel[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:jacaranda_button'
-[20:16:16] [WARN ] Failed to parse recipe creategearaddon:crafting/kinetics/large_half_shaft_jacaranda_cogwheel[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:jacaranda_button'
-[20:16:16] [WARN ] Failed to parse recipe 'creategearaddon:crafting/kinetics/magic_cogwheel[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:magic_button'
-[20:16:16] [WARN ] Failed to parse recipe creategearaddon:crafting/kinetics/magic_cogwheel[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:magic_button'
-[20:16:16] [WARN ] Failed to parse recipe 'creategearaddon:crafting/kinetics/large_shaftless_palm_cogwheel[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:palm_button'
-[20:16:16] [WARN ] Failed to parse recipe creategearaddon:crafting/kinetics/large_shaftless_palm_cogwheel[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:palm_button'
-[20:16:16] [WARN ] Failed to parse recipe 'creategearaddon:sequenced_assembly/large_fir_cogwheel[create:sequenced_assembly]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:fir_planks'
-[20:16:16] [WARN ] Failed to parse recipe creategearaddon:sequenced_assembly/large_fir_cogwheel[create:sequenced_assembly]: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:fir_planks'
-[20:16:16] [WARN ] Failed to parse recipe 'thermal:compat/mysticalagriculture/insolator_mysticalag_polar_bear_seeds[thermal:insolator]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Invalid Thermal Series recipe: thermal:compat/mysticalagriculture/insolator_mysticalag_polar_bear_seeds
+[18:43:29] [WARN ] Failed to parse recipe 'creategearaddon:sequenced_assembly/large_half_shaft_palm_cogwheel[create:sequenced_assembly]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:palm_planks'
+[18:43:29] [WARN ] Failed to parse recipe creategearaddon:sequenced_assembly/large_half_shaft_palm_cogwheel[create:sequenced_assembly]: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:palm_planks'
+[18:43:29] [WARN ] Failed to parse recipe 'creategearaddon:crafting/kinetics/large_half_shaft_dead_cogwheel[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:dead_button'
+[18:43:29] [WARN ] Failed to parse recipe creategearaddon:crafting/kinetics/large_half_shaft_dead_cogwheel[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:dead_button'
+[18:43:29] [WARN ] Failed to parse recipe 'creategearaddon:sequenced_assembly/large_dead_cogwheel[create:sequenced_assembly]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:dead_planks'
+[18:43:29] [WARN ] Failed to parse recipe creategearaddon:sequenced_assembly/large_dead_cogwheel[create:sequenced_assembly]: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:dead_planks'
+[18:43:29] [WARN ] Failed to parse recipe 'creategearaddon:sequenced_assembly/large_cherry_cogwheel[create:sequenced_assembly]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:cherry_planks'
+[18:43:29] [WARN ] Failed to parse recipe creategearaddon:sequenced_assembly/large_cherry_cogwheel[create:sequenced_assembly]: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:cherry_planks'
+[18:43:29] [WARN ] Failed to parse recipe 'creategearaddon:sequenced_assembly/large_redwood_cogwheel[create:sequenced_assembly]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:redwood_planks'
+[18:43:29] [WARN ] Failed to parse recipe creategearaddon:sequenced_assembly/large_redwood_cogwheel[create:sequenced_assembly]: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:redwood_planks'
+[18:43:29] [WARN ] Failed to parse recipe 'creategearaddon:sequenced_assembly/large_half_shaft_redwood_cogwheel[create:sequenced_assembly]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:redwood_planks'
+[18:43:29] [WARN ] Failed to parse recipe creategearaddon:sequenced_assembly/large_half_shaft_redwood_cogwheel[create:sequenced_assembly]: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:redwood_planks'
+[18:43:29] [WARN ] Failed to parse recipe 'creategearaddon:crafting/kinetics/large_mahogany_cogwheel[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:mahogany_button'
+[18:43:29] [WARN ] Failed to parse recipe creategearaddon:crafting/kinetics/large_mahogany_cogwheel[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:mahogany_button'
+[18:43:29] [WARN ] Failed to parse recipe 'creategearaddon:crafting/kinetics/large_half_shaft_jacaranda_cogwheel[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:jacaranda_button'
+[18:43:29] [WARN ] Failed to parse recipe creategearaddon:crafting/kinetics/large_half_shaft_jacaranda_cogwheel[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:jacaranda_button'
+[18:43:29] [WARN ] Failed to parse recipe 'creategearaddon:crafting/kinetics/magic_cogwheel[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:magic_button'
+[18:43:29] [WARN ] Failed to parse recipe creategearaddon:crafting/kinetics/magic_cogwheel[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:magic_button'
+[18:43:29] [WARN ] Failed to parse recipe 'creategearaddon:crafting/kinetics/large_shaftless_palm_cogwheel[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:palm_button'
+[18:43:29] [WARN ] Failed to parse recipe creategearaddon:crafting/kinetics/large_shaftless_palm_cogwheel[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:palm_button'
+[18:43:29] [WARN ] Failed to parse recipe 'creategearaddon:sequenced_assembly/large_fir_cogwheel[create:sequenced_assembly]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:fir_planks'
+[18:43:29] [WARN ] Failed to parse recipe creategearaddon:sequenced_assembly/large_fir_cogwheel[create:sequenced_assembly]: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:fir_planks'
+[18:43:29] [WARN ] Failed to parse recipe 'thermal:compat/mysticalagriculture/insolator_mysticalag_polar_bear_seeds[thermal:insolator]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Invalid Thermal Series recipe: thermal:compat/mysticalagriculture/insolator_mysticalag_polar_bear_seeds
 Refer to the recipe's ResourceLocation to find the mod responsible and let them know!
-[20:16:16] [WARN ] Failed to parse recipe thermal:compat/mysticalagriculture/insolator_mysticalag_polar_bear_seeds[thermal:insolator]: com.google.gson.JsonSyntaxException: Invalid Thermal Series recipe: thermal:compat/mysticalagriculture/insolator_mysticalag_polar_bear_seeds
+[18:43:29] [WARN ] Failed to parse recipe thermal:compat/mysticalagriculture/insolator_mysticalag_polar_bear_seeds[thermal:insolator]: com.google.gson.JsonSyntaxException: Invalid Thermal Series recipe: thermal:compat/mysticalagriculture/insolator_mysticalag_polar_bear_seeds
 Refer to the recipe's ResourceLocation to find the mod responsible and let them know!
-[20:16:16] [WARN ] Failed to parse recipe 'thermal:compat/mysticalagriculture/insolator_mysticalag_llama_seeds[thermal:insolator]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Invalid Thermal Series recipe: thermal:compat/mysticalagriculture/insolator_mysticalag_llama_seeds
+[18:43:29] [WARN ] Failed to parse recipe 'thermal:compat/mysticalagriculture/insolator_mysticalag_llama_seeds[thermal:insolator]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Invalid Thermal Series recipe: thermal:compat/mysticalagriculture/insolator_mysticalag_llama_seeds
 Refer to the recipe's ResourceLocation to find the mod responsible and let them know!
-[20:16:16] [WARN ] Failed to parse recipe thermal:compat/mysticalagriculture/insolator_mysticalag_llama_seeds[thermal:insolator]: com.google.gson.JsonSyntaxException: Invalid Thermal Series recipe: thermal:compat/mysticalagriculture/insolator_mysticalag_llama_seeds
+[18:43:29] [WARN ] Failed to parse recipe thermal:compat/mysticalagriculture/insolator_mysticalag_llama_seeds[thermal:insolator]: com.google.gson.JsonSyntaxException: Invalid Thermal Series recipe: thermal:compat/mysticalagriculture/insolator_mysticalag_llama_seeds
 Refer to the recipe's ResourceLocation to find the mod responsible and let them know!
-[20:16:16] [WARN ] Failed to parse recipe 'creategearaddon:crafting/kinetics/half_shaft_fir_cogwheel[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:fir_button'
-[20:16:16] [WARN ] Failed to parse recipe creategearaddon:crafting/kinetics/half_shaft_fir_cogwheel[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:fir_button'
-[20:16:16] [WARN ] Failed to parse recipe 'creategearaddon:sequenced_assembly/large_magic_cogwheel[create:sequenced_assembly]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:magic_planks'
-[20:16:16] [WARN ] Failed to parse recipe creategearaddon:sequenced_assembly/large_magic_cogwheel[create:sequenced_assembly]: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:magic_planks'
-[20:16:16] [WARN ] Failed to parse recipe 'creategearaddon:sequenced_assembly/large_willow_cogwheel[create:sequenced_assembly]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:willow_planks'
-[20:16:16] [WARN ] Failed to parse recipe creategearaddon:sequenced_assembly/large_willow_cogwheel[create:sequenced_assembly]: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:willow_planks'
-[20:16:16] [WARN ] Failed to parse recipe 'creategearaddon:crafting/kinetics/large_half_shaft_willow_cogwheel[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:willow_button'
-[20:16:16] [WARN ] Failed to parse recipe creategearaddon:crafting/kinetics/large_half_shaft_willow_cogwheel[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:willow_button'
-[20:16:16] [WARN ] Failed to parse recipe 'creategearaddon:sequenced_assembly/large_umbran_cogwheel[create:sequenced_assembly]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:umbran_planks'
-[20:16:16] [WARN ] Failed to parse recipe creategearaddon:sequenced_assembly/large_umbran_cogwheel[create:sequenced_assembly]: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:umbran_planks'
-[20:16:16] [WARN ] Failed to parse recipe 'thermal:compat/mysticalagriculture/insolator_mysticalag_stray_seeds[thermal:insolator]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Invalid Thermal Series recipe: thermal:compat/mysticalagriculture/insolator_mysticalag_stray_seeds
+[18:43:29] [WARN ] Failed to parse recipe 'creategearaddon:crafting/kinetics/half_shaft_fir_cogwheel[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:fir_button'
+[18:43:29] [WARN ] Failed to parse recipe creategearaddon:crafting/kinetics/half_shaft_fir_cogwheel[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:fir_button'
+[18:43:29] [WARN ] Failed to parse recipe 'creategearaddon:sequenced_assembly/large_magic_cogwheel[create:sequenced_assembly]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:magic_planks'
+[18:43:29] [WARN ] Failed to parse recipe creategearaddon:sequenced_assembly/large_magic_cogwheel[create:sequenced_assembly]: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:magic_planks'
+[18:43:29] [WARN ] Failed to parse recipe 'creategearaddon:sequenced_assembly/large_willow_cogwheel[create:sequenced_assembly]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:willow_planks'
+[18:43:29] [WARN ] Failed to parse recipe creategearaddon:sequenced_assembly/large_willow_cogwheel[create:sequenced_assembly]: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:willow_planks'
+[18:43:29] [WARN ] Failed to parse recipe 'creategearaddon:crafting/kinetics/large_half_shaft_willow_cogwheel[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:willow_button'
+[18:43:29] [WARN ] Failed to parse recipe creategearaddon:crafting/kinetics/large_half_shaft_willow_cogwheel[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:willow_button'
+[18:43:29] [WARN ] Failed to parse recipe 'creategearaddon:sequenced_assembly/large_umbran_cogwheel[create:sequenced_assembly]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:umbran_planks'
+[18:43:29] [WARN ] Failed to parse recipe creategearaddon:sequenced_assembly/large_umbran_cogwheel[create:sequenced_assembly]: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:umbran_planks'
+[18:43:29] [WARN ] Failed to parse recipe 'thermal:compat/mysticalagriculture/insolator_mysticalag_stray_seeds[thermal:insolator]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Invalid Thermal Series recipe: thermal:compat/mysticalagriculture/insolator_mysticalag_stray_seeds
 Refer to the recipe's ResourceLocation to find the mod responsible and let them know!
-[20:16:16] [WARN ] Failed to parse recipe thermal:compat/mysticalagriculture/insolator_mysticalag_stray_seeds[thermal:insolator]: com.google.gson.JsonSyntaxException: Invalid Thermal Series recipe: thermal:compat/mysticalagriculture/insolator_mysticalag_stray_seeds
+[18:43:29] [WARN ] Failed to parse recipe thermal:compat/mysticalagriculture/insolator_mysticalag_stray_seeds[thermal:insolator]: com.google.gson.JsonSyntaxException: Invalid Thermal Series recipe: thermal:compat/mysticalagriculture/insolator_mysticalag_stray_seeds
 Refer to the recipe's ResourceLocation to find the mod responsible and let them know!
-[20:16:16] [WARN ] Failed to parse recipe 'creategearaddon:crafting/kinetics/fir_cogwheel[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:fir_button'
-[20:16:16] [WARN ] Failed to parse recipe creategearaddon:crafting/kinetics/fir_cogwheel[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:fir_button'
-[20:16:16] [WARN ] Failed to parse recipe 'creategearaddon:sequenced_assembly/hellbark_cogwheel[create:sequenced_assembly]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:hellbark_button'
-[20:16:16] [WARN ] Failed to parse recipe creategearaddon:sequenced_assembly/hellbark_cogwheel[create:sequenced_assembly]: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:hellbark_button'
-[20:16:16] [WARN ] Failed to parse recipe 'creategearaddon:sequenced_assembly/large_half_shaft_magic_cogwheel[create:sequenced_assembly]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:magic_planks'
-[20:16:16] [WARN ] Failed to parse recipe creategearaddon:sequenced_assembly/large_half_shaft_magic_cogwheel[create:sequenced_assembly]: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:magic_planks'
-[20:16:16] [WARN ] Failed to parse recipe 'creategearaddon:crafting/kinetics/magic_bracket[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:magic_planks'
-[20:16:16] [WARN ] Failed to parse recipe creategearaddon:crafting/kinetics/magic_bracket[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:magic_planks'
-[20:16:16] [WARN ] Failed to parse recipe 'thermal:compat/mysticalagriculture/insolator_mysticalag_vex_seeds[thermal:insolator]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Invalid Thermal Series recipe: thermal:compat/mysticalagriculture/insolator_mysticalag_vex_seeds
+[18:43:29] [WARN ] Failed to parse recipe 'creategearaddon:crafting/kinetics/fir_cogwheel[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:fir_button'
+[18:43:29] [WARN ] Failed to parse recipe creategearaddon:crafting/kinetics/fir_cogwheel[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:fir_button'
+[18:43:29] [WARN ] Failed to parse recipe 'creategearaddon:sequenced_assembly/hellbark_cogwheel[create:sequenced_assembly]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:hellbark_button'
+[18:43:29] [WARN ] Failed to parse recipe creategearaddon:sequenced_assembly/hellbark_cogwheel[create:sequenced_assembly]: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:hellbark_button'
+[18:43:29] [WARN ] Failed to parse recipe 'creategearaddon:sequenced_assembly/large_half_shaft_magic_cogwheel[create:sequenced_assembly]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:magic_planks'
+[18:43:29] [WARN ] Failed to parse recipe creategearaddon:sequenced_assembly/large_half_shaft_magic_cogwheel[create:sequenced_assembly]: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:magic_planks'
+[18:43:29] [WARN ] Failed to parse recipe 'creategearaddon:crafting/kinetics/magic_bracket[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:magic_planks'
+[18:43:29] [WARN ] Failed to parse recipe creategearaddon:crafting/kinetics/magic_bracket[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:magic_planks'
+[18:43:29] [WARN ] Failed to parse recipe 'thermal:compat/mysticalagriculture/insolator_mysticalag_vex_seeds[thermal:insolator]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Invalid Thermal Series recipe: thermal:compat/mysticalagriculture/insolator_mysticalag_vex_seeds
 Refer to the recipe's ResourceLocation to find the mod responsible and let them know!
-[20:16:16] [WARN ] Failed to parse recipe thermal:compat/mysticalagriculture/insolator_mysticalag_vex_seeds[thermal:insolator]: com.google.gson.JsonSyntaxException: Invalid Thermal Series recipe: thermal:compat/mysticalagriculture/insolator_mysticalag_vex_seeds
+[18:43:29] [WARN ] Failed to parse recipe thermal:compat/mysticalagriculture/insolator_mysticalag_vex_seeds[thermal:insolator]: com.google.gson.JsonSyntaxException: Invalid Thermal Series recipe: thermal:compat/mysticalagriculture/insolator_mysticalag_vex_seeds
 Refer to the recipe's ResourceLocation to find the mod responsible and let them know!
-[20:16:16] [WARN ] Failed to parse recipe 'creategearaddon:crafting/kinetics/shaftless_palm_cogwheel[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:palm_button'
-[20:16:16] [WARN ] Failed to parse recipe creategearaddon:crafting/kinetics/shaftless_palm_cogwheel[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:palm_button'
-[20:16:16] [WARN ] Failed to parse recipe 'creategearaddon:crafting/kinetics/large_half_shaft_mahogany_cogwheel[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:mahogany_button'
-[20:16:16] [WARN ] Failed to parse recipe creategearaddon:crafting/kinetics/large_half_shaft_mahogany_cogwheel[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:mahogany_button'
-[20:16:16] [WARN ] Failed to parse recipe 'creategearaddon:crafting/kinetics/half_shaft_cherry_cogwheel[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:cherry_button'
-[20:16:16] [WARN ] Failed to parse recipe creategearaddon:crafting/kinetics/half_shaft_cherry_cogwheel[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:cherry_button'
-[20:16:16] [WARN ] Failed to parse recipe 'creategearaddon:crafting/kinetics/large_magic_cogwheel[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:magic_button'
-[20:16:16] [WARN ] Failed to parse recipe creategearaddon:crafting/kinetics/large_magic_cogwheel[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:magic_button'
-[20:16:16] [WARN ] Failed to parse recipe 'creategearaddon:crafting/kinetics/redwood_cogwheel[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:redwood_button'
-[20:16:16] [WARN ] Failed to parse recipe creategearaddon:crafting/kinetics/redwood_cogwheel[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:redwood_button'
-[20:16:16] [WARN ] Failed to parse recipe 'creategearaddon:crafting/kinetics/large_half_shaft_redwood_cogwheel[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:redwood_button'
-[20:16:16] [WARN ] Failed to parse recipe creategearaddon:crafting/kinetics/large_half_shaft_redwood_cogwheel[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:redwood_button'
-[20:16:16] [WARN ] Failed to parse recipe 'creategearaddon:sequenced_assembly/magic_cogwheel[create:sequenced_assembly]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:magic_button'
-[20:16:16] [WARN ] Failed to parse recipe creategearaddon:sequenced_assembly/magic_cogwheel[create:sequenced_assembly]: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:magic_button'
-[20:16:16] [WARN ] Failed to parse recipe 'creategearaddon:crafting/kinetics/fir_bracket[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:fir_planks'
-[20:16:16] [WARN ] Failed to parse recipe creategearaddon:crafting/kinetics/fir_bracket[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:fir_planks'
-[20:16:16] [WARN ] Failed to parse recipe 'creategearaddon:sequenced_assembly/half_shaft_umbran_cogwheel[create:sequenced_assembly]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:umbran_button'
-[20:16:16] [WARN ] Failed to parse recipe creategearaddon:sequenced_assembly/half_shaft_umbran_cogwheel[create:sequenced_assembly]: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:umbran_button'
-[20:16:16] [WARN ] Failed to parse recipe 'creategearaddon:sequenced_assembly/umbran_cogwheel[create:sequenced_assembly]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:umbran_button'
-[20:16:16] [WARN ] Failed to parse recipe creategearaddon:sequenced_assembly/umbran_cogwheel[create:sequenced_assembly]: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:umbran_button'
-[20:16:16] [WARN ] Failed to parse recipe 'creategearaddon:sequenced_assembly/large_jacaranda_cogwheel[create:sequenced_assembly]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:jacaranda_planks'
-[20:16:16] [WARN ] Failed to parse recipe creategearaddon:sequenced_assembly/large_jacaranda_cogwheel[create:sequenced_assembly]: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:jacaranda_planks'
-[20:16:16] [WARN ] Failed to parse recipe 'creategearaddon:sequenced_assembly/half_shaft_jacaranda_cogwheel[create:sequenced_assembly]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:jacaranda_button'
-[20:16:16] [WARN ] Failed to parse recipe creategearaddon:sequenced_assembly/half_shaft_jacaranda_cogwheel[create:sequenced_assembly]: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:jacaranda_button'
-[20:16:16] [WARN ] Failed to parse recipe 'creategearaddon:sequenced_assembly/dead_cogwheel[create:sequenced_assembly]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:dead_button'
-[20:16:16] [WARN ] Failed to parse recipe creategearaddon:sequenced_assembly/dead_cogwheel[create:sequenced_assembly]: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:dead_button'
-[20:16:16] [WARN ] Failed to parse recipe 'thermal:compat/mysticalagriculture/insolator_mysticalag_evoker_seeds[thermal:insolator]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Invalid Thermal Series recipe: thermal:compat/mysticalagriculture/insolator_mysticalag_evoker_seeds
+[18:43:29] [WARN ] Failed to parse recipe 'creategearaddon:crafting/kinetics/shaftless_palm_cogwheel[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:palm_button'
+[18:43:29] [WARN ] Failed to parse recipe creategearaddon:crafting/kinetics/shaftless_palm_cogwheel[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:palm_button'
+[18:43:29] [WARN ] Failed to parse recipe 'creategearaddon:crafting/kinetics/large_half_shaft_mahogany_cogwheel[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:mahogany_button'
+[18:43:29] [WARN ] Failed to parse recipe creategearaddon:crafting/kinetics/large_half_shaft_mahogany_cogwheel[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:mahogany_button'
+[18:43:29] [WARN ] Failed to parse recipe 'creategearaddon:crafting/kinetics/half_shaft_cherry_cogwheel[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:cherry_button'
+[18:43:29] [WARN ] Failed to parse recipe creategearaddon:crafting/kinetics/half_shaft_cherry_cogwheel[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:cherry_button'
+[18:43:29] [WARN ] Failed to parse recipe 'creategearaddon:crafting/kinetics/large_magic_cogwheel[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:magic_button'
+[18:43:29] [WARN ] Failed to parse recipe creategearaddon:crafting/kinetics/large_magic_cogwheel[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:magic_button'
+[18:43:29] [WARN ] Failed to parse recipe 'creategearaddon:crafting/kinetics/redwood_cogwheel[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:redwood_button'
+[18:43:29] [WARN ] Failed to parse recipe creategearaddon:crafting/kinetics/redwood_cogwheel[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:redwood_button'
+[18:43:29] [WARN ] Failed to parse recipe 'creategearaddon:crafting/kinetics/large_half_shaft_redwood_cogwheel[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:redwood_button'
+[18:43:29] [WARN ] Failed to parse recipe creategearaddon:crafting/kinetics/large_half_shaft_redwood_cogwheel[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:redwood_button'
+[18:43:29] [WARN ] Failed to parse recipe 'creategearaddon:sequenced_assembly/magic_cogwheel[create:sequenced_assembly]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:magic_button'
+[18:43:29] [WARN ] Failed to parse recipe creategearaddon:sequenced_assembly/magic_cogwheel[create:sequenced_assembly]: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:magic_button'
+[18:43:29] [WARN ] Failed to parse recipe 'creategearaddon:crafting/kinetics/fir_bracket[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:fir_planks'
+[18:43:29] [WARN ] Failed to parse recipe creategearaddon:crafting/kinetics/fir_bracket[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:fir_planks'
+[18:43:29] [WARN ] Failed to parse recipe 'creategearaddon:sequenced_assembly/half_shaft_umbran_cogwheel[create:sequenced_assembly]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:umbran_button'
+[18:43:29] [WARN ] Failed to parse recipe creategearaddon:sequenced_assembly/half_shaft_umbran_cogwheel[create:sequenced_assembly]: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:umbran_button'
+[18:43:29] [WARN ] Failed to parse recipe 'creategearaddon:sequenced_assembly/umbran_cogwheel[create:sequenced_assembly]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:umbran_button'
+[18:43:29] [WARN ] Failed to parse recipe creategearaddon:sequenced_assembly/umbran_cogwheel[create:sequenced_assembly]: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:umbran_button'
+[18:43:29] [WARN ] Failed to parse recipe 'creategearaddon:sequenced_assembly/large_jacaranda_cogwheel[create:sequenced_assembly]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:jacaranda_planks'
+[18:43:29] [WARN ] Failed to parse recipe creategearaddon:sequenced_assembly/large_jacaranda_cogwheel[create:sequenced_assembly]: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:jacaranda_planks'
+[18:43:29] [WARN ] Failed to parse recipe 'creategearaddon:sequenced_assembly/half_shaft_jacaranda_cogwheel[create:sequenced_assembly]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:jacaranda_button'
+[18:43:29] [WARN ] Failed to parse recipe creategearaddon:sequenced_assembly/half_shaft_jacaranda_cogwheel[create:sequenced_assembly]: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:jacaranda_button'
+[18:43:29] [WARN ] Failed to parse recipe 'creategearaddon:sequenced_assembly/dead_cogwheel[create:sequenced_assembly]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:dead_button'
+[18:43:29] [WARN ] Failed to parse recipe creategearaddon:sequenced_assembly/dead_cogwheel[create:sequenced_assembly]: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:dead_button'
+[18:43:29] [WARN ] Failed to parse recipe 'thermal:compat/mysticalagriculture/insolator_mysticalag_evoker_seeds[thermal:insolator]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Invalid Thermal Series recipe: thermal:compat/mysticalagriculture/insolator_mysticalag_evoker_seeds
 Refer to the recipe's ResourceLocation to find the mod responsible and let them know!
-[20:16:16] [WARN ] Failed to parse recipe thermal:compat/mysticalagriculture/insolator_mysticalag_evoker_seeds[thermal:insolator]: com.google.gson.JsonSyntaxException: Invalid Thermal Series recipe: thermal:compat/mysticalagriculture/insolator_mysticalag_evoker_seeds
+[18:43:29] [WARN ] Failed to parse recipe thermal:compat/mysticalagriculture/insolator_mysticalag_evoker_seeds[thermal:insolator]: com.google.gson.JsonSyntaxException: Invalid Thermal Series recipe: thermal:compat/mysticalagriculture/insolator_mysticalag_evoker_seeds
 Refer to the recipe's ResourceLocation to find the mod responsible and let them know!
-[20:16:16] [WARN ] Failed to parse recipe 'creategearaddon:sequenced_assembly/jacaranda_cogwheel[create:sequenced_assembly]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:jacaranda_button'
-[20:16:16] [WARN ] Failed to parse recipe creategearaddon:sequenced_assembly/jacaranda_cogwheel[create:sequenced_assembly]: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:jacaranda_button'
-[20:16:16] [WARN ] Failed to parse recipe 'creategearaddon:sequenced_assembly/mahogany_cogwheel[create:sequenced_assembly]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:mahogany_button'
-[20:16:16] [WARN ] Failed to parse recipe creategearaddon:sequenced_assembly/mahogany_cogwheel[create:sequenced_assembly]: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:mahogany_button'
-[20:16:16] [WARN ] Failed to parse recipe 'creategearaddon:crafting/kinetics/half_shaft_hellbark_cogwheel[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:hellbark_button'
-[20:16:16] [WARN ] Failed to parse recipe creategearaddon:crafting/kinetics/half_shaft_hellbark_cogwheel[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:hellbark_button'
-[20:16:16] [WARN ] Failed to parse recipe 'creategearaddon:sequenced_assembly/half_shaft_palm_cogwheel[create:sequenced_assembly]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:palm_button'
-[20:16:16] [WARN ] Failed to parse recipe creategearaddon:sequenced_assembly/half_shaft_palm_cogwheel[create:sequenced_assembly]: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:palm_button'
-[20:16:16] [WARN ] Failed to parse recipe 'thermal:compat/mysticalagriculture/insolator_mysticalag_magma_cube_seeds[thermal:insolator]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Invalid Thermal Series recipe: thermal:compat/mysticalagriculture/insolator_mysticalag_magma_cube_seeds
+[18:43:29] [WARN ] Failed to parse recipe 'creategearaddon:sequenced_assembly/jacaranda_cogwheel[create:sequenced_assembly]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:jacaranda_button'
+[18:43:29] [WARN ] Failed to parse recipe creategearaddon:sequenced_assembly/jacaranda_cogwheel[create:sequenced_assembly]: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:jacaranda_button'
+[18:43:29] [WARN ] Failed to parse recipe 'creategearaddon:sequenced_assembly/mahogany_cogwheel[create:sequenced_assembly]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:mahogany_button'
+[18:43:29] [WARN ] Failed to parse recipe creategearaddon:sequenced_assembly/mahogany_cogwheel[create:sequenced_assembly]: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:mahogany_button'
+[18:43:29] [WARN ] Failed to parse recipe 'creategearaddon:crafting/kinetics/half_shaft_hellbark_cogwheel[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:hellbark_button'
+[18:43:29] [WARN ] Failed to parse recipe creategearaddon:crafting/kinetics/half_shaft_hellbark_cogwheel[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:hellbark_button'
+[18:43:29] [WARN ] Failed to parse recipe 'creategearaddon:sequenced_assembly/half_shaft_palm_cogwheel[create:sequenced_assembly]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:palm_button'
+[18:43:29] [WARN ] Failed to parse recipe creategearaddon:sequenced_assembly/half_shaft_palm_cogwheel[create:sequenced_assembly]: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:palm_button'
+[18:43:29] [WARN ] Failed to parse recipe 'thermal:compat/mysticalagriculture/insolator_mysticalag_magma_cube_seeds[thermal:insolator]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Invalid Thermal Series recipe: thermal:compat/mysticalagriculture/insolator_mysticalag_magma_cube_seeds
 Refer to the recipe's ResourceLocation to find the mod responsible and let them know!
-[20:16:16] [WARN ] Failed to parse recipe thermal:compat/mysticalagriculture/insolator_mysticalag_magma_cube_seeds[thermal:insolator]: com.google.gson.JsonSyntaxException: Invalid Thermal Series recipe: thermal:compat/mysticalagriculture/insolator_mysticalag_magma_cube_seeds
+[18:43:29] [WARN ] Failed to parse recipe thermal:compat/mysticalagriculture/insolator_mysticalag_magma_cube_seeds[thermal:insolator]: com.google.gson.JsonSyntaxException: Invalid Thermal Series recipe: thermal:compat/mysticalagriculture/insolator_mysticalag_magma_cube_seeds
 Refer to the recipe's ResourceLocation to find the mod responsible and let them know!
-[20:16:16] [WARN ] Failed to parse recipe 'thermal:compat/mysticalagriculture/insolator_mysticalag_drowned_seeds[thermal:insolator]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Invalid Thermal Series recipe: thermal:compat/mysticalagriculture/insolator_mysticalag_drowned_seeds
+[18:43:29] [WARN ] Failed to parse recipe 'thermal:compat/mysticalagriculture/insolator_mysticalag_drowned_seeds[thermal:insolator]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Invalid Thermal Series recipe: thermal:compat/mysticalagriculture/insolator_mysticalag_drowned_seeds
 Refer to the recipe's ResourceLocation to find the mod responsible and let them know!
-[20:16:16] [WARN ] Failed to parse recipe thermal:compat/mysticalagriculture/insolator_mysticalag_drowned_seeds[thermal:insolator]: com.google.gson.JsonSyntaxException: Invalid Thermal Series recipe: thermal:compat/mysticalagriculture/insolator_mysticalag_drowned_seeds
+[18:43:29] [WARN ] Failed to parse recipe thermal:compat/mysticalagriculture/insolator_mysticalag_drowned_seeds[thermal:insolator]: com.google.gson.JsonSyntaxException: Invalid Thermal Series recipe: thermal:compat/mysticalagriculture/insolator_mysticalag_drowned_seeds
 Refer to the recipe's ResourceLocation to find the mod responsible and let them know!
-[20:16:16] [WARN ] Failed to parse recipe 'thermal:compat/mysticalagriculture/insolator_mysticalag_dolphin_seeds[thermal:insolator]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Invalid Thermal Series recipe: thermal:compat/mysticalagriculture/insolator_mysticalag_dolphin_seeds
+[18:43:29] [WARN ] Failed to parse recipe 'thermal:compat/mysticalagriculture/insolator_mysticalag_dolphin_seeds[thermal:insolator]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Invalid Thermal Series recipe: thermal:compat/mysticalagriculture/insolator_mysticalag_dolphin_seeds
 Refer to the recipe's ResourceLocation to find the mod responsible and let them know!
-[20:16:16] [WARN ] Failed to parse recipe thermal:compat/mysticalagriculture/insolator_mysticalag_dolphin_seeds[thermal:insolator]: com.google.gson.JsonSyntaxException: Invalid Thermal Series recipe: thermal:compat/mysticalagriculture/insolator_mysticalag_dolphin_seeds
+[18:43:29] [WARN ] Failed to parse recipe thermal:compat/mysticalagriculture/insolator_mysticalag_dolphin_seeds[thermal:insolator]: com.google.gson.JsonSyntaxException: Invalid Thermal Series recipe: thermal:compat/mysticalagriculture/insolator_mysticalag_dolphin_seeds
 Refer to the recipe's ResourceLocation to find the mod responsible and let them know!
-[20:16:16] [WARN ] Failed to parse recipe 'creategearaddon:crafting/kinetics/large_shaftless_hellbark_cogwheel[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:hellbark_button'
-[20:16:16] [WARN ] Failed to parse recipe creategearaddon:crafting/kinetics/large_shaftless_hellbark_cogwheel[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:hellbark_button'
-[20:16:16] [WARN ] Failed to parse recipe 'creategearaddon:sequenced_assembly/redwood_cogwheel[create:sequenced_assembly]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:redwood_button'
-[20:16:16] [WARN ] Failed to parse recipe creategearaddon:sequenced_assembly/redwood_cogwheel[create:sequenced_assembly]: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:redwood_button'
-[20:16:16] [WARN ] Failed to parse recipe 'creategearaddon:crafting/kinetics/large_half_shaft_hellbark_cogwheel[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:hellbark_button'
-[20:16:16] [WARN ] Failed to parse recipe creategearaddon:crafting/kinetics/large_half_shaft_hellbark_cogwheel[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:hellbark_button'
-[20:16:16] [WARN ] Failed to parse recipe 'creategearaddon:crafting/kinetics/half_shaft_mahogany_cogwheel[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:mahogany_button'
-[20:16:16] [WARN ] Failed to parse recipe creategearaddon:crafting/kinetics/half_shaft_mahogany_cogwheel[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:mahogany_button'
-[20:16:16] [WARN ] Failed to parse recipe 'creategearaddon:crafting/kinetics/half_shaft_willow_cogwheel[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:willow_button'
-[20:16:16] [WARN ] Failed to parse recipe creategearaddon:crafting/kinetics/half_shaft_willow_cogwheel[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:willow_button'
-[20:16:16] [WARN ] Failed to parse recipe 'creategearaddon:crafting/kinetics/mahogany_cogwheel[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:mahogany_button'
-[20:16:16] [WARN ] Failed to parse recipe creategearaddon:crafting/kinetics/mahogany_cogwheel[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:mahogany_button'
-[20:16:16] [WARN ] Failed to parse recipe 'creategearaddon:crafting/kinetics/half_shaft_magic_cogwheel[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:magic_button'
-[20:16:16] [WARN ] Failed to parse recipe creategearaddon:crafting/kinetics/half_shaft_magic_cogwheel[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:magic_button'
-[20:16:16] [WARN ] Failed to parse recipe 'creategearaddon:sequenced_assembly/large_palm_cogwheel[create:sequenced_assembly]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:palm_planks'
-[20:16:16] [WARN ] Failed to parse recipe creategearaddon:sequenced_assembly/large_palm_cogwheel[create:sequenced_assembly]: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:palm_planks'
-[20:16:16] [WARN ] Failed to parse recipe 'thermal:compat/mysticalagriculture/insolator_mysticalag_husk_seeds[thermal:insolator]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Invalid Thermal Series recipe: thermal:compat/mysticalagriculture/insolator_mysticalag_husk_seeds
+[18:43:29] [WARN ] Failed to parse recipe 'creategearaddon:crafting/kinetics/large_shaftless_hellbark_cogwheel[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:hellbark_button'
+[18:43:29] [WARN ] Failed to parse recipe creategearaddon:crafting/kinetics/large_shaftless_hellbark_cogwheel[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:hellbark_button'
+[18:43:29] [WARN ] Failed to parse recipe 'creategearaddon:sequenced_assembly/redwood_cogwheel[create:sequenced_assembly]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:redwood_button'
+[18:43:29] [WARN ] Failed to parse recipe creategearaddon:sequenced_assembly/redwood_cogwheel[create:sequenced_assembly]: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:redwood_button'
+[18:43:29] [WARN ] Failed to parse recipe 'creategearaddon:crafting/kinetics/large_half_shaft_hellbark_cogwheel[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:hellbark_button'
+[18:43:29] [WARN ] Failed to parse recipe creategearaddon:crafting/kinetics/large_half_shaft_hellbark_cogwheel[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:hellbark_button'
+[18:43:29] [WARN ] Failed to parse recipe 'creategearaddon:crafting/kinetics/half_shaft_mahogany_cogwheel[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:mahogany_button'
+[18:43:29] [WARN ] Failed to parse recipe creategearaddon:crafting/kinetics/half_shaft_mahogany_cogwheel[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:mahogany_button'
+[18:43:29] [WARN ] Failed to parse recipe 'creategearaddon:crafting/kinetics/half_shaft_willow_cogwheel[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:willow_button'
+[18:43:29] [WARN ] Failed to parse recipe creategearaddon:crafting/kinetics/half_shaft_willow_cogwheel[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:willow_button'
+[18:43:29] [WARN ] Failed to parse recipe 'creategearaddon:crafting/kinetics/mahogany_cogwheel[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:mahogany_button'
+[18:43:29] [WARN ] Failed to parse recipe creategearaddon:crafting/kinetics/mahogany_cogwheel[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:mahogany_button'
+[18:43:29] [WARN ] Failed to parse recipe 'creategearaddon:crafting/kinetics/half_shaft_magic_cogwheel[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:magic_button'
+[18:43:29] [WARN ] Failed to parse recipe creategearaddon:crafting/kinetics/half_shaft_magic_cogwheel[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:magic_button'
+[18:43:29] [WARN ] Failed to parse recipe 'creategearaddon:sequenced_assembly/large_palm_cogwheel[create:sequenced_assembly]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:palm_planks'
+[18:43:29] [WARN ] Failed to parse recipe creategearaddon:sequenced_assembly/large_palm_cogwheel[create:sequenced_assembly]: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:palm_planks'
+[18:43:29] [WARN ] Failed to parse recipe 'thermal:compat/mysticalagriculture/insolator_mysticalag_husk_seeds[thermal:insolator]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Invalid Thermal Series recipe: thermal:compat/mysticalagriculture/insolator_mysticalag_husk_seeds
 Refer to the recipe's ResourceLocation to find the mod responsible and let them know!
-[20:16:16] [WARN ] Failed to parse recipe thermal:compat/mysticalagriculture/insolator_mysticalag_husk_seeds[thermal:insolator]: com.google.gson.JsonSyntaxException: Invalid Thermal Series recipe: thermal:compat/mysticalagriculture/insolator_mysticalag_husk_seeds
+[18:43:29] [WARN ] Failed to parse recipe thermal:compat/mysticalagriculture/insolator_mysticalag_husk_seeds[thermal:insolator]: com.google.gson.JsonSyntaxException: Invalid Thermal Series recipe: thermal:compat/mysticalagriculture/insolator_mysticalag_husk_seeds
 Refer to the recipe's ResourceLocation to find the mod responsible and let them know!
-[20:16:16] [WARN ] Failed to parse recipe 'creategearaddon:crafting/kinetics/large_half_shaft_umbran_cogwheel[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:umbran_button'
-[20:16:16] [WARN ] Failed to parse recipe creategearaddon:crafting/kinetics/large_half_shaft_umbran_cogwheel[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:umbran_button'
-[20:16:16] [WARN ] Failed to parse recipe 'creategearaddon:crafting/kinetics/large_shaftless_dead_cogwheel[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:dead_button'
-[20:16:16] [WARN ] Failed to parse recipe creategearaddon:crafting/kinetics/large_shaftless_dead_cogwheel[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:dead_button'
-[20:16:16] [WARN ] Failed to parse recipe 'creategearaddon:crafting/kinetics/half_shaft_palm_cogwheel[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:palm_button'
-[20:16:16] [WARN ] Failed to parse recipe creategearaddon:crafting/kinetics/half_shaft_palm_cogwheel[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:palm_button'
-[20:16:16] [WARN ] Failed to parse recipe 'creategearaddon:crafting/kinetics/large_palm_cogwheel[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:palm_button'
-[20:16:16] [WARN ] Failed to parse recipe creategearaddon:crafting/kinetics/large_palm_cogwheel[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:palm_button'
-[20:16:16] [WARN ] Failed to parse recipe 'thermal:compat/mysticalagriculture/insolator_mysticalag_panda_seeds[thermal:insolator]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Invalid Thermal Series recipe: thermal:compat/mysticalagriculture/insolator_mysticalag_panda_seeds
+[18:43:29] [WARN ] Failed to parse recipe 'creategearaddon:crafting/kinetics/large_half_shaft_umbran_cogwheel[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:umbran_button'
+[18:43:29] [WARN ] Failed to parse recipe creategearaddon:crafting/kinetics/large_half_shaft_umbran_cogwheel[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:umbran_button'
+[18:43:29] [WARN ] Failed to parse recipe 'creategearaddon:crafting/kinetics/large_shaftless_dead_cogwheel[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:dead_button'
+[18:43:29] [WARN ] Failed to parse recipe creategearaddon:crafting/kinetics/large_shaftless_dead_cogwheel[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:dead_button'
+[18:43:29] [WARN ] Failed to parse recipe 'creategearaddon:crafting/kinetics/half_shaft_palm_cogwheel[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:palm_button'
+[18:43:29] [WARN ] Failed to parse recipe creategearaddon:crafting/kinetics/half_shaft_palm_cogwheel[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:palm_button'
+[18:43:29] [WARN ] Failed to parse recipe 'creategearaddon:crafting/kinetics/large_palm_cogwheel[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:palm_button'
+[18:43:29] [WARN ] Failed to parse recipe creategearaddon:crafting/kinetics/large_palm_cogwheel[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:palm_button'
+[18:43:29] [WARN ] Failed to parse recipe 'thermal:compat/mysticalagriculture/insolator_mysticalag_panda_seeds[thermal:insolator]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Invalid Thermal Series recipe: thermal:compat/mysticalagriculture/insolator_mysticalag_panda_seeds
 Refer to the recipe's ResourceLocation to find the mod responsible and let them know!
-[20:16:16] [WARN ] Failed to parse recipe thermal:compat/mysticalagriculture/insolator_mysticalag_panda_seeds[thermal:insolator]: com.google.gson.JsonSyntaxException: Invalid Thermal Series recipe: thermal:compat/mysticalagriculture/insolator_mysticalag_panda_seeds
+[18:43:29] [WARN ] Failed to parse recipe thermal:compat/mysticalagriculture/insolator_mysticalag_panda_seeds[thermal:insolator]: com.google.gson.JsonSyntaxException: Invalid Thermal Series recipe: thermal:compat/mysticalagriculture/insolator_mysticalag_panda_seeds
 Refer to the recipe's ResourceLocation to find the mod responsible and let them know!
-[20:16:16] [WARN ] Failed to parse recipe 'thermal:compat/mysticalagriculture/insolator_mysticalag_vindicator_seeds[thermal:insolator]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Invalid Thermal Series recipe: thermal:compat/mysticalagriculture/insolator_mysticalag_vindicator_seeds
+[18:43:29] [WARN ] Failed to parse recipe 'thermal:compat/mysticalagriculture/insolator_mysticalag_vindicator_seeds[thermal:insolator]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Invalid Thermal Series recipe: thermal:compat/mysticalagriculture/insolator_mysticalag_vindicator_seeds
 Refer to the recipe's ResourceLocation to find the mod responsible and let them know!
-[20:16:16] [WARN ] Failed to parse recipe thermal:compat/mysticalagriculture/insolator_mysticalag_vindicator_seeds[thermal:insolator]: com.google.gson.JsonSyntaxException: Invalid Thermal Series recipe: thermal:compat/mysticalagriculture/insolator_mysticalag_vindicator_seeds
+[18:43:29] [WARN ] Failed to parse recipe thermal:compat/mysticalagriculture/insolator_mysticalag_vindicator_seeds[thermal:insolator]: com.google.gson.JsonSyntaxException: Invalid Thermal Series recipe: thermal:compat/mysticalagriculture/insolator_mysticalag_vindicator_seeds
 Refer to the recipe's ResourceLocation to find the mod responsible and let them know!
-[20:16:16] [WARN ] Failed to parse recipe 'creategearaddon:crafting/kinetics/large_half_shaft_magic_cogwheel[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:magic_button'
-[20:16:16] [WARN ] Failed to parse recipe creategearaddon:crafting/kinetics/large_half_shaft_magic_cogwheel[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:magic_button'
-[20:16:16] [WARN ] Failed to parse recipe 'thermal:compat/mysticalagriculture/insolator_mysticalag_shulker_seeds[thermal:insolator]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Invalid Thermal Series recipe: thermal:compat/mysticalagriculture/insolator_mysticalag_shulker_seeds
+[18:43:29] [WARN ] Failed to parse recipe 'creategearaddon:crafting/kinetics/large_half_shaft_magic_cogwheel[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:magic_button'
+[18:43:29] [WARN ] Failed to parse recipe creategearaddon:crafting/kinetics/large_half_shaft_magic_cogwheel[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:magic_button'
+[18:43:29] [WARN ] Failed to parse recipe 'thermal:compat/mysticalagriculture/insolator_mysticalag_shulker_seeds[thermal:insolator]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Invalid Thermal Series recipe: thermal:compat/mysticalagriculture/insolator_mysticalag_shulker_seeds
 Refer to the recipe's ResourceLocation to find the mod responsible and let them know!
-[20:16:16] [WARN ] Failed to parse recipe thermal:compat/mysticalagriculture/insolator_mysticalag_shulker_seeds[thermal:insolator]: com.google.gson.JsonSyntaxException: Invalid Thermal Series recipe: thermal:compat/mysticalagriculture/insolator_mysticalag_shulker_seeds
+[18:43:29] [WARN ] Failed to parse recipe thermal:compat/mysticalagriculture/insolator_mysticalag_shulker_seeds[thermal:insolator]: com.google.gson.JsonSyntaxException: Invalid Thermal Series recipe: thermal:compat/mysticalagriculture/insolator_mysticalag_shulker_seeds
 Refer to the recipe's ResourceLocation to find the mod responsible and let them know!
-[20:16:16] [WARN ] Failed to parse recipe 'creategearaddon:sequenced_assembly/large_half_shaft_hellbark_cogwheel[create:sequenced_assembly]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:hellbark_planks'
-[20:16:16] [WARN ] Failed to parse recipe creategearaddon:sequenced_assembly/large_half_shaft_hellbark_cogwheel[create:sequenced_assembly]: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:hellbark_planks'
-[20:16:17] [WARN ] Failed to parse recipe 'creategearaddon:crafting/kinetics/umbran_cogwheel[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:umbran_button'
-[20:16:17] [WARN ] Failed to parse recipe creategearaddon:crafting/kinetics/umbran_cogwheel[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:umbran_button'
-[20:16:17] [WARN ] Failed to parse recipe 'creategearaddon:crafting/kinetics/jacaranda_cogwheel[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:jacaranda_button'
-[20:16:17] [WARN ] Failed to parse recipe creategearaddon:crafting/kinetics/jacaranda_cogwheel[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:jacaranda_button'
-[20:16:17] [WARN ] Failed to parse recipe 'creategearaddon:crafting/kinetics/cherry_bracket[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:cherry_planks'
-[20:16:17] [WARN ] Failed to parse recipe creategearaddon:crafting/kinetics/cherry_bracket[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:cherry_planks'
-[20:16:17] [WARN ] Failed to parse recipe 'thermal:compat/mysticalagriculture/insolator_mysticalag_ravager_seeds[thermal:insolator]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Invalid Thermal Series recipe: thermal:compat/mysticalagriculture/insolator_mysticalag_ravager_seeds
+[18:43:29] [WARN ] Failed to parse recipe 'creategearaddon:sequenced_assembly/large_half_shaft_hellbark_cogwheel[create:sequenced_assembly]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:hellbark_planks'
+[18:43:29] [WARN ] Failed to parse recipe creategearaddon:sequenced_assembly/large_half_shaft_hellbark_cogwheel[create:sequenced_assembly]: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:hellbark_planks'
+[18:43:29] [WARN ] Failed to parse recipe 'creategearaddon:crafting/kinetics/umbran_cogwheel[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:umbran_button'
+[18:43:29] [WARN ] Failed to parse recipe creategearaddon:crafting/kinetics/umbran_cogwheel[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:umbran_button'
+[18:43:29] [WARN ] Failed to parse recipe 'creategearaddon:crafting/kinetics/jacaranda_cogwheel[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:jacaranda_button'
+[18:43:29] [WARN ] Failed to parse recipe creategearaddon:crafting/kinetics/jacaranda_cogwheel[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:jacaranda_button'
+[18:43:29] [WARN ] Failed to parse recipe 'creategearaddon:crafting/kinetics/cherry_bracket[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:cherry_planks'
+[18:43:29] [WARN ] Failed to parse recipe creategearaddon:crafting/kinetics/cherry_bracket[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:cherry_planks'
+[18:43:29] [WARN ] Failed to parse recipe 'thermal:compat/mysticalagriculture/insolator_mysticalag_ravager_seeds[thermal:insolator]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Invalid Thermal Series recipe: thermal:compat/mysticalagriculture/insolator_mysticalag_ravager_seeds
 Refer to the recipe's ResourceLocation to find the mod responsible and let them know!
-[20:16:17] [WARN ] Failed to parse recipe thermal:compat/mysticalagriculture/insolator_mysticalag_ravager_seeds[thermal:insolator]: com.google.gson.JsonSyntaxException: Invalid Thermal Series recipe: thermal:compat/mysticalagriculture/insolator_mysticalag_ravager_seeds
+[18:43:29] [WARN ] Failed to parse recipe thermal:compat/mysticalagriculture/insolator_mysticalag_ravager_seeds[thermal:insolator]: com.google.gson.JsonSyntaxException: Invalid Thermal Series recipe: thermal:compat/mysticalagriculture/insolator_mysticalag_ravager_seeds
 Refer to the recipe's ResourceLocation to find the mod responsible and let them know!
-[20:16:17] [WARN ] Failed to parse recipe 'creategearaddon:sequenced_assembly/half_shaft_cherry_cogwheel[create:sequenced_assembly]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:cherry_button'
-[20:16:17] [WARN ] Failed to parse recipe creategearaddon:sequenced_assembly/half_shaft_cherry_cogwheel[create:sequenced_assembly]: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:cherry_button'
-[20:16:17] [WARN ] Failed to parse recipe 'creategearaddon:crafting/kinetics/shaftless_dead_cogwheel[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:dead_button'
-[20:16:17] [WARN ] Failed to parse recipe creategearaddon:crafting/kinetics/shaftless_dead_cogwheel[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:dead_button'
-[20:16:17] [WARN ] Failed to parse recipe 'creategearaddon:crafting/kinetics/palm_bracket[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:palm_planks'
-[20:16:17] [WARN ] Failed to parse recipe creategearaddon:crafting/kinetics/palm_bracket[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:palm_planks'
-[20:16:17] [WARN ] Failed to parse recipe 'thermal:compat/mysticalagriculture/insolator_mysticalag_guardian_seeds[thermal:insolator]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Invalid Thermal Series recipe: thermal:compat/mysticalagriculture/insolator_mysticalag_guardian_seeds
+[18:43:29] [WARN ] Failed to parse recipe 'creategearaddon:sequenced_assembly/half_shaft_cherry_cogwheel[create:sequenced_assembly]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:cherry_button'
+[18:43:29] [WARN ] Failed to parse recipe creategearaddon:sequenced_assembly/half_shaft_cherry_cogwheel[create:sequenced_assembly]: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:cherry_button'
+[18:43:29] [WARN ] Failed to parse recipe 'creategearaddon:crafting/kinetics/shaftless_dead_cogwheel[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:dead_button'
+[18:43:29] [WARN ] Failed to parse recipe creategearaddon:crafting/kinetics/shaftless_dead_cogwheel[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:dead_button'
+[18:43:29] [WARN ] Failed to parse recipe 'creategearaddon:crafting/kinetics/palm_bracket[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:palm_planks'
+[18:43:29] [WARN ] Failed to parse recipe creategearaddon:crafting/kinetics/palm_bracket[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:palm_planks'
+[18:43:29] [WARN ] Failed to parse recipe 'thermal:compat/mysticalagriculture/insolator_mysticalag_guardian_seeds[thermal:insolator]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Invalid Thermal Series recipe: thermal:compat/mysticalagriculture/insolator_mysticalag_guardian_seeds
 Refer to the recipe's ResourceLocation to find the mod responsible and let them know!
-[20:16:17] [WARN ] Failed to parse recipe thermal:compat/mysticalagriculture/insolator_mysticalag_guardian_seeds[thermal:insolator]: com.google.gson.JsonSyntaxException: Invalid Thermal Series recipe: thermal:compat/mysticalagriculture/insolator_mysticalag_guardian_seeds
+[18:43:29] [WARN ] Failed to parse recipe thermal:compat/mysticalagriculture/insolator_mysticalag_guardian_seeds[thermal:insolator]: com.google.gson.JsonSyntaxException: Invalid Thermal Series recipe: thermal:compat/mysticalagriculture/insolator_mysticalag_guardian_seeds
 Refer to the recipe's ResourceLocation to find the mod responsible and let them know!
-[20:16:17] [WARN ] Failed to parse recipe 'creategearaddon:crafting/kinetics/large_umbran_cogwheel[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:umbran_button'
-[20:16:17] [WARN ] Failed to parse recipe creategearaddon:crafting/kinetics/large_umbran_cogwheel[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:umbran_button'
-[20:16:17] [WARN ] Failed to parse recipe 'creategearaddon:crafting/kinetics/umbran_bracket[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:umbran_planks'
-[20:16:17] [WARN ] Failed to parse recipe creategearaddon:crafting/kinetics/umbran_bracket[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:umbran_planks'
-[20:16:17] [WARN ] Failed to parse recipe 'creategearaddon:crafting/kinetics/shaftless_mahogany_cogwheel[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:mahogany_button'
-[20:16:17] [WARN ] Failed to parse recipe creategearaddon:crafting/kinetics/shaftless_mahogany_cogwheel[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:mahogany_button'
-[20:16:17] [WARN ] Failed to parse recipe 'creategearaddon:crafting/kinetics/shaftless_willow_cogwheel[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:willow_button'
-[20:16:17] [WARN ] Failed to parse recipe creategearaddon:crafting/kinetics/shaftless_willow_cogwheel[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:willow_button'
-[20:16:17] [WARN ] Failed to parse recipe 'creategearaddon:crafting/kinetics/large_shaftless_willow_cogwheel[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:willow_button'
-[20:16:17] [WARN ] Failed to parse recipe creategearaddon:crafting/kinetics/large_shaftless_willow_cogwheel[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:willow_button'
-[20:16:17] [WARN ] Failed to parse recipe 'creategearaddon:crafting/kinetics/dead_cogwheel[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:dead_button'
-[20:16:17] [WARN ] Failed to parse recipe creategearaddon:crafting/kinetics/dead_cogwheel[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:dead_button'
-[20:16:17] [WARN ] Failed to parse recipe 'creategearaddon:sequenced_assembly/large_hellbark_cogwheel[create:sequenced_assembly]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:hellbark_planks'
-[20:16:17] [WARN ] Failed to parse recipe creategearaddon:sequenced_assembly/large_hellbark_cogwheel[create:sequenced_assembly]: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:hellbark_planks'
-[20:16:17] [WARN ] Failed to parse recipe 'creategearaddon:sequenced_assembly/cherry_cogwheel[create:sequenced_assembly]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:cherry_button'
-[20:16:17] [WARN ] Failed to parse recipe creategearaddon:sequenced_assembly/cherry_cogwheel[create:sequenced_assembly]: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:cherry_button'
-[20:16:17] [WARN ] Failed to parse recipe 'creategearaddon:crafting/kinetics/cherry_cogwheel[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:cherry_button'
-[20:16:17] [WARN ] Failed to parse recipe creategearaddon:crafting/kinetics/cherry_cogwheel[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:cherry_button'
-[20:16:17] [WARN ] Failed to parse recipe 'creategearaddon:sequenced_assembly/half_shaft_willow_cogwheel[create:sequenced_assembly]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:willow_button'
-[20:16:17] [WARN ] Failed to parse recipe creategearaddon:sequenced_assembly/half_shaft_willow_cogwheel[create:sequenced_assembly]: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:willow_button'
-[20:16:17] [WARN ] Failed to parse recipe 'creategearaddon:crafting/kinetics/willow_cogwheel[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:willow_button'
-[20:16:17] [WARN ] Failed to parse recipe creategearaddon:crafting/kinetics/willow_cogwheel[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:willow_button'
-[20:16:17] [WARN ] Failed to parse recipe 'thermal:compat/mysticalagriculture/insolator_mysticalag_mooshroom_seeds[thermal:insolator]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Invalid Thermal Series recipe: thermal:compat/mysticalagriculture/insolator_mysticalag_mooshroom_seeds
+[18:43:29] [WARN ] Failed to parse recipe 'creategearaddon:crafting/kinetics/large_umbran_cogwheel[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:umbran_button'
+[18:43:29] [WARN ] Failed to parse recipe creategearaddon:crafting/kinetics/large_umbran_cogwheel[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:umbran_button'
+[18:43:29] [WARN ] Failed to parse recipe 'creategearaddon:crafting/kinetics/umbran_bracket[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:umbran_planks'
+[18:43:29] [WARN ] Failed to parse recipe creategearaddon:crafting/kinetics/umbran_bracket[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:umbran_planks'
+[18:43:29] [WARN ] Failed to parse recipe 'creategearaddon:crafting/kinetics/shaftless_mahogany_cogwheel[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:mahogany_button'
+[18:43:29] [WARN ] Failed to parse recipe creategearaddon:crafting/kinetics/shaftless_mahogany_cogwheel[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:mahogany_button'
+[18:43:29] [WARN ] Failed to parse recipe 'creategearaddon:crafting/kinetics/shaftless_willow_cogwheel[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:willow_button'
+[18:43:29] [WARN ] Failed to parse recipe creategearaddon:crafting/kinetics/shaftless_willow_cogwheel[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:willow_button'
+[18:43:29] [WARN ] Failed to parse recipe 'creategearaddon:crafting/kinetics/large_shaftless_willow_cogwheel[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:willow_button'
+[18:43:29] [WARN ] Failed to parse recipe creategearaddon:crafting/kinetics/large_shaftless_willow_cogwheel[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:willow_button'
+[18:43:29] [WARN ] Failed to parse recipe 'creategearaddon:crafting/kinetics/dead_cogwheel[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:dead_button'
+[18:43:29] [WARN ] Failed to parse recipe creategearaddon:crafting/kinetics/dead_cogwheel[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:dead_button'
+[18:43:29] [WARN ] Failed to parse recipe 'creategearaddon:sequenced_assembly/large_hellbark_cogwheel[create:sequenced_assembly]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:hellbark_planks'
+[18:43:29] [WARN ] Failed to parse recipe creategearaddon:sequenced_assembly/large_hellbark_cogwheel[create:sequenced_assembly]: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:hellbark_planks'
+[18:43:29] [WARN ] Failed to parse recipe 'creategearaddon:sequenced_assembly/cherry_cogwheel[create:sequenced_assembly]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:cherry_button'
+[18:43:29] [WARN ] Failed to parse recipe creategearaddon:sequenced_assembly/cherry_cogwheel[create:sequenced_assembly]: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:cherry_button'
+[18:43:29] [WARN ] Failed to parse recipe 'creategearaddon:crafting/kinetics/cherry_cogwheel[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:cherry_button'
+[18:43:29] [WARN ] Failed to parse recipe creategearaddon:crafting/kinetics/cherry_cogwheel[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:cherry_button'
+[18:43:29] [WARN ] Failed to parse recipe 'creategearaddon:sequenced_assembly/half_shaft_willow_cogwheel[create:sequenced_assembly]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:willow_button'
+[18:43:29] [WARN ] Failed to parse recipe creategearaddon:sequenced_assembly/half_shaft_willow_cogwheel[create:sequenced_assembly]: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:willow_button'
+[18:43:29] [WARN ] Failed to parse recipe 'creategearaddon:crafting/kinetics/willow_cogwheel[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:willow_button'
+[18:43:29] [WARN ] Failed to parse recipe creategearaddon:crafting/kinetics/willow_cogwheel[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:willow_button'
+[18:43:29] [WARN ] Failed to parse recipe 'thermal:compat/mysticalagriculture/insolator_mysticalag_mooshroom_seeds[thermal:insolator]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Invalid Thermal Series recipe: thermal:compat/mysticalagriculture/insolator_mysticalag_mooshroom_seeds
 Refer to the recipe's ResourceLocation to find the mod responsible and let them know!
-[20:16:17] [WARN ] Failed to parse recipe thermal:compat/mysticalagriculture/insolator_mysticalag_mooshroom_seeds[thermal:insolator]: com.google.gson.JsonSyntaxException: Invalid Thermal Series recipe: thermal:compat/mysticalagriculture/insolator_mysticalag_mooshroom_seeds
+[18:43:29] [WARN ] Failed to parse recipe thermal:compat/mysticalagriculture/insolator_mysticalag_mooshroom_seeds[thermal:insolator]: com.google.gson.JsonSyntaxException: Invalid Thermal Series recipe: thermal:compat/mysticalagriculture/insolator_mysticalag_mooshroom_seeds
 Refer to the recipe's ResourceLocation to find the mod responsible and let them know!
-[20:16:17] [WARN ] Failed to parse recipe 'creategearaddon:sequenced_assembly/willow_cogwheel[create:sequenced_assembly]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:willow_button'
-[20:16:17] [WARN ] Failed to parse recipe creategearaddon:sequenced_assembly/willow_cogwheel[create:sequenced_assembly]: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:willow_button'
-[20:16:17] [WARN ] Failed to parse recipe 'creategearaddon:sequenced_assembly/large_half_shaft_mahogany_cogwheel[create:sequenced_assembly]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:mahogany_planks'
-[20:16:17] [WARN ] Failed to parse recipe creategearaddon:sequenced_assembly/large_half_shaft_mahogany_cogwheel[create:sequenced_assembly]: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:mahogany_planks'
-[20:16:17] [WARN ] Failed to parse recipe 'creategearaddon:crafting/kinetics/large_shaftless_jacaranda_cogwheel[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:jacaranda_button'
-[20:16:17] [WARN ] Failed to parse recipe creategearaddon:crafting/kinetics/large_shaftless_jacaranda_cogwheel[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:jacaranda_button'
-[20:16:17] [WARN ] Failed to parse recipe 'thermal:compat/mysticalagriculture/insolator_mysticalag_horse_seeds[thermal:insolator]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Invalid Thermal Series recipe: thermal:compat/mysticalagriculture/insolator_mysticalag_horse_seeds
+[18:43:29] [WARN ] Failed to parse recipe 'creategearaddon:sequenced_assembly/willow_cogwheel[create:sequenced_assembly]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:willow_button'
+[18:43:29] [WARN ] Failed to parse recipe creategearaddon:sequenced_assembly/willow_cogwheel[create:sequenced_assembly]: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:willow_button'
+[18:43:29] [WARN ] Failed to parse recipe 'creategearaddon:sequenced_assembly/large_half_shaft_mahogany_cogwheel[create:sequenced_assembly]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:mahogany_planks'
+[18:43:29] [WARN ] Failed to parse recipe creategearaddon:sequenced_assembly/large_half_shaft_mahogany_cogwheel[create:sequenced_assembly]: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:mahogany_planks'
+[18:43:29] [WARN ] Failed to parse recipe 'creategearaddon:crafting/kinetics/large_shaftless_jacaranda_cogwheel[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:jacaranda_button'
+[18:43:29] [WARN ] Failed to parse recipe creategearaddon:crafting/kinetics/large_shaftless_jacaranda_cogwheel[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:jacaranda_button'
+[18:43:29] [WARN ] Failed to parse recipe 'thermal:compat/mysticalagriculture/insolator_mysticalag_horse_seeds[thermal:insolator]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Invalid Thermal Series recipe: thermal:compat/mysticalagriculture/insolator_mysticalag_horse_seeds
 Refer to the recipe's ResourceLocation to find the mod responsible and let them know!
-[20:16:17] [WARN ] Failed to parse recipe thermal:compat/mysticalagriculture/insolator_mysticalag_horse_seeds[thermal:insolator]: com.google.gson.JsonSyntaxException: Invalid Thermal Series recipe: thermal:compat/mysticalagriculture/insolator_mysticalag_horse_seeds
+[18:43:29] [WARN ] Failed to parse recipe thermal:compat/mysticalagriculture/insolator_mysticalag_horse_seeds[thermal:insolator]: com.google.gson.JsonSyntaxException: Invalid Thermal Series recipe: thermal:compat/mysticalagriculture/insolator_mysticalag_horse_seeds
 Refer to the recipe's ResourceLocation to find the mod responsible and let them know!
-[20:16:17] [WARN ] Failed to parse recipe 'creategearaddon:crafting/kinetics/half_shaft_umbran_cogwheel[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:umbran_button'
-[20:16:17] [WARN ] Failed to parse recipe creategearaddon:crafting/kinetics/half_shaft_umbran_cogwheel[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:umbran_button'
-[20:16:17] [WARN ] Failed to parse recipe 'creategearaddon:crafting/kinetics/large_half_shaft_cherry_cogwheel[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:cherry_button'
-[20:16:17] [WARN ] Failed to parse recipe creategearaddon:crafting/kinetics/large_half_shaft_cherry_cogwheel[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:cherry_button'
-[20:16:17] [WARN ] Failed to parse recipe 'thermal:compat/mysticalagriculture/insolator_mysticalag_silverfish_seeds[thermal:insolator]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Invalid Thermal Series recipe: thermal:compat/mysticalagriculture/insolator_mysticalag_silverfish_seeds
+[18:43:29] [WARN ] Failed to parse recipe 'creategearaddon:crafting/kinetics/half_shaft_umbran_cogwheel[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:umbran_button'
+[18:43:29] [WARN ] Failed to parse recipe creategearaddon:crafting/kinetics/half_shaft_umbran_cogwheel[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:umbran_button'
+[18:43:29] [WARN ] Failed to parse recipe 'creategearaddon:crafting/kinetics/large_half_shaft_cherry_cogwheel[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:cherry_button'
+[18:43:29] [WARN ] Failed to parse recipe creategearaddon:crafting/kinetics/large_half_shaft_cherry_cogwheel[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:cherry_button'
+[18:43:29] [WARN ] Failed to parse recipe 'thermal:compat/mysticalagriculture/insolator_mysticalag_silverfish_seeds[thermal:insolator]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Invalid Thermal Series recipe: thermal:compat/mysticalagriculture/insolator_mysticalag_silverfish_seeds
 Refer to the recipe's ResourceLocation to find the mod responsible and let them know!
-[20:16:17] [WARN ] Failed to parse recipe thermal:compat/mysticalagriculture/insolator_mysticalag_silverfish_seeds[thermal:insolator]: com.google.gson.JsonSyntaxException: Invalid Thermal Series recipe: thermal:compat/mysticalagriculture/insolator_mysticalag_silverfish_seeds
+[18:43:29] [WARN ] Failed to parse recipe thermal:compat/mysticalagriculture/insolator_mysticalag_silverfish_seeds[thermal:insolator]: com.google.gson.JsonSyntaxException: Invalid Thermal Series recipe: thermal:compat/mysticalagriculture/insolator_mysticalag_silverfish_seeds
 Refer to the recipe's ResourceLocation to find the mod responsible and let them know!
-[20:16:17] [WARN ] Failed to parse recipe 'creategearaddon:crafting/kinetics/half_shaft_jacaranda_cogwheel[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:jacaranda_button'
-[20:16:17] [WARN ] Failed to parse recipe creategearaddon:crafting/kinetics/half_shaft_jacaranda_cogwheel[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:jacaranda_button'
-[20:16:17] [WARN ] Failed to parse recipe 'creategearaddon:crafting/kinetics/dead_bracket[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:dead_planks'
-[20:16:17] [WARN ] Failed to parse recipe creategearaddon:crafting/kinetics/dead_bracket[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:dead_planks'
-[20:16:17] [WARN ] Failed to parse recipe 'creategearaddon:crafting/kinetics/shaftless_hellbark_cogwheel[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:hellbark_button'
-[20:16:17] [WARN ] Failed to parse recipe creategearaddon:crafting/kinetics/shaftless_hellbark_cogwheel[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:hellbark_button'
-[20:16:17] [WARN ] Failed to parse recipe 'creategearaddon:crafting/kinetics/hellbark_bracket[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:hellbark_planks'
-[20:16:17] [WARN ] Failed to parse recipe creategearaddon:crafting/kinetics/hellbark_bracket[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:hellbark_planks'
-[20:16:17] [WARN ] Failed to parse recipe 'thermal:compat/mysticalagriculture/insolator_mysticalag_fox_seeds[thermal:insolator]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Invalid Thermal Series recipe: thermal:compat/mysticalagriculture/insolator_mysticalag_fox_seeds
+[18:43:29] [WARN ] Failed to parse recipe 'creategearaddon:crafting/kinetics/half_shaft_jacaranda_cogwheel[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:jacaranda_button'
+[18:43:29] [WARN ] Failed to parse recipe creategearaddon:crafting/kinetics/half_shaft_jacaranda_cogwheel[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:jacaranda_button'
+[18:43:29] [WARN ] Failed to parse recipe 'creategearaddon:crafting/kinetics/dead_bracket[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:dead_planks'
+[18:43:29] [WARN ] Failed to parse recipe creategearaddon:crafting/kinetics/dead_bracket[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:dead_planks'
+[18:43:29] [WARN ] Failed to parse recipe 'creategearaddon:crafting/kinetics/shaftless_hellbark_cogwheel[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:hellbark_button'
+[18:43:30] [WARN ] Failed to parse recipe creategearaddon:crafting/kinetics/shaftless_hellbark_cogwheel[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:hellbark_button'
+[18:43:30] [WARN ] Failed to parse recipe 'creategearaddon:crafting/kinetics/hellbark_bracket[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:hellbark_planks'
+[18:43:30] [WARN ] Failed to parse recipe creategearaddon:crafting/kinetics/hellbark_bracket[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:hellbark_planks'
+[18:43:30] [WARN ] Failed to parse recipe 'thermal:compat/mysticalagriculture/insolator_mysticalag_fox_seeds[thermal:insolator]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Invalid Thermal Series recipe: thermal:compat/mysticalagriculture/insolator_mysticalag_fox_seeds
 Refer to the recipe's ResourceLocation to find the mod responsible and let them know!
-[20:16:17] [WARN ] Failed to parse recipe thermal:compat/mysticalagriculture/insolator_mysticalag_fox_seeds[thermal:insolator]: com.google.gson.JsonSyntaxException: Invalid Thermal Series recipe: thermal:compat/mysticalagriculture/insolator_mysticalag_fox_seeds
+[18:43:30] [WARN ] Failed to parse recipe thermal:compat/mysticalagriculture/insolator_mysticalag_fox_seeds[thermal:insolator]: com.google.gson.JsonSyntaxException: Invalid Thermal Series recipe: thermal:compat/mysticalagriculture/insolator_mysticalag_fox_seeds
 Refer to the recipe's ResourceLocation to find the mod responsible and let them know!
-[20:16:17] [WARN ] Failed to parse recipe 'creategearaddon:sequenced_assembly/large_half_shaft_dead_cogwheel[create:sequenced_assembly]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:dead_planks'
-[20:16:17] [WARN ] Failed to parse recipe creategearaddon:sequenced_assembly/large_half_shaft_dead_cogwheel[create:sequenced_assembly]: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:dead_planks'
-[20:16:17] [WARN ] Failed to parse recipe 'creategearaddon:crafting/kinetics/large_half_shaft_palm_cogwheel[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:palm_button'
-[20:16:17] [WARN ] Failed to parse recipe creategearaddon:crafting/kinetics/large_half_shaft_palm_cogwheel[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:palm_button'
-[20:16:17] [WARN ] Failed to parse recipe 'thermal:compat/mysticalagriculture/insolator_mysticalag_endermite_seeds[thermal:insolator]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Invalid Thermal Series recipe: thermal:compat/mysticalagriculture/insolator_mysticalag_endermite_seeds
+[18:43:30] [WARN ] Failed to parse recipe 'creategearaddon:sequenced_assembly/large_half_shaft_dead_cogwheel[create:sequenced_assembly]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:dead_planks'
+[18:43:30] [WARN ] Failed to parse recipe creategearaddon:sequenced_assembly/large_half_shaft_dead_cogwheel[create:sequenced_assembly]: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:dead_planks'
+[18:43:30] [WARN ] Failed to parse recipe 'creategearaddon:crafting/kinetics/large_half_shaft_palm_cogwheel[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:palm_button'
+[18:43:30] [WARN ] Failed to parse recipe creategearaddon:crafting/kinetics/large_half_shaft_palm_cogwheel[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:palm_button'
+[18:43:30] [WARN ] Failed to parse recipe 'thermal:compat/mysticalagriculture/insolator_mysticalag_endermite_seeds[thermal:insolator]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Invalid Thermal Series recipe: thermal:compat/mysticalagriculture/insolator_mysticalag_endermite_seeds
 Refer to the recipe's ResourceLocation to find the mod responsible and let them know!
-[20:16:17] [WARN ] Failed to parse recipe thermal:compat/mysticalagriculture/insolator_mysticalag_endermite_seeds[thermal:insolator]: com.google.gson.JsonSyntaxException: Invalid Thermal Series recipe: thermal:compat/mysticalagriculture/insolator_mysticalag_endermite_seeds
+[18:43:30] [WARN ] Failed to parse recipe thermal:compat/mysticalagriculture/insolator_mysticalag_endermite_seeds[thermal:insolator]: com.google.gson.JsonSyntaxException: Invalid Thermal Series recipe: thermal:compat/mysticalagriculture/insolator_mysticalag_endermite_seeds
 Refer to the recipe's ResourceLocation to find the mod responsible and let them know!
-[20:16:17] [WARN ] Failed to parse recipe 'creategearaddon:sequenced_assembly/fir_cogwheel[create:sequenced_assembly]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:fir_button'
-[20:16:17] [WARN ] Failed to parse recipe creategearaddon:sequenced_assembly/fir_cogwheel[create:sequenced_assembly]: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:fir_button'
-[20:16:17] [WARN ] Failed to parse recipe 'creategearaddon:crafting/kinetics/shaftless_cherry_cogwheel[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:cherry_button'
-[20:16:17] [WARN ] Failed to parse recipe creategearaddon:crafting/kinetics/shaftless_cherry_cogwheel[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:cherry_button'
-[20:16:17] [WARN ] Failed to parse recipe 'creategearaddon:sequenced_assembly/large_half_shaft_cherry_cogwheel[create:sequenced_assembly]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:cherry_planks'
-[20:16:17] [WARN ] Failed to parse recipe creategearaddon:sequenced_assembly/large_half_shaft_cherry_cogwheel[create:sequenced_assembly]: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:cherry_planks'
-[20:16:17] [WARN ] Failed to parse recipe 'creategearaddon:crafting/kinetics/shaftless_fir_cogwheel[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:fir_button'
-[20:16:17] [WARN ] Failed to parse recipe creategearaddon:crafting/kinetics/shaftless_fir_cogwheel[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:fir_button'
-[20:16:17] [WARN ] Failed to parse recipe 'thermal:compat/mysticalagriculture/insolator_mysticalag_witch_seeds[thermal:insolator]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Invalid Thermal Series recipe: thermal:compat/mysticalagriculture/insolator_mysticalag_witch_seeds
+[18:43:30] [WARN ] Failed to parse recipe 'creategearaddon:sequenced_assembly/fir_cogwheel[create:sequenced_assembly]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:fir_button'
+[18:43:30] [WARN ] Failed to parse recipe creategearaddon:sequenced_assembly/fir_cogwheel[create:sequenced_assembly]: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:fir_button'
+[18:43:30] [WARN ] Failed to parse recipe 'creategearaddon:crafting/kinetics/shaftless_cherry_cogwheel[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:cherry_button'
+[18:43:30] [WARN ] Failed to parse recipe creategearaddon:crafting/kinetics/shaftless_cherry_cogwheel[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:cherry_button'
+[18:43:30] [WARN ] Failed to parse recipe 'creategearaddon:sequenced_assembly/large_half_shaft_cherry_cogwheel[create:sequenced_assembly]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:cherry_planks'
+[18:43:30] [WARN ] Failed to parse recipe creategearaddon:sequenced_assembly/large_half_shaft_cherry_cogwheel[create:sequenced_assembly]: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:cherry_planks'
+[18:43:30] [WARN ] Failed to parse recipe 'creategearaddon:crafting/kinetics/shaftless_fir_cogwheel[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:fir_button'
+[18:43:30] [WARN ] Failed to parse recipe creategearaddon:crafting/kinetics/shaftless_fir_cogwheel[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:fir_button'
+[18:43:30] [WARN ] Failed to parse recipe 'thermal:compat/mysticalagriculture/insolator_mysticalag_witch_seeds[thermal:insolator]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Invalid Thermal Series recipe: thermal:compat/mysticalagriculture/insolator_mysticalag_witch_seeds
 Refer to the recipe's ResourceLocation to find the mod responsible and let them know!
-[20:16:17] [WARN ] Failed to parse recipe thermal:compat/mysticalagriculture/insolator_mysticalag_witch_seeds[thermal:insolator]: com.google.gson.JsonSyntaxException: Invalid Thermal Series recipe: thermal:compat/mysticalagriculture/insolator_mysticalag_witch_seeds
+[18:43:30] [WARN ] Failed to parse recipe thermal:compat/mysticalagriculture/insolator_mysticalag_witch_seeds[thermal:insolator]: com.google.gson.JsonSyntaxException: Invalid Thermal Series recipe: thermal:compat/mysticalagriculture/insolator_mysticalag_witch_seeds
 Refer to the recipe's ResourceLocation to find the mod responsible and let them know!
-[20:16:17] [WARN ] Failed to parse recipe 'creategearaddon:sequenced_assembly/large_mahogany_cogwheel[create:sequenced_assembly]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:mahogany_planks'
-[20:16:17] [WARN ] Failed to parse recipe creategearaddon:sequenced_assembly/large_mahogany_cogwheel[create:sequenced_assembly]: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:mahogany_planks'
-[20:16:17] [WARN ] Failed to parse recipe 'thermal:compat/mysticalagriculture/insolator_mysticalag_pillager_seeds[thermal:insolator]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Invalid Thermal Series recipe: thermal:compat/mysticalagriculture/insolator_mysticalag_pillager_seeds
+[18:43:30] [WARN ] Failed to parse recipe 'creategearaddon:sequenced_assembly/large_mahogany_cogwheel[create:sequenced_assembly]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:mahogany_planks'
+[18:43:30] [WARN ] Failed to parse recipe creategearaddon:sequenced_assembly/large_mahogany_cogwheel[create:sequenced_assembly]: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:mahogany_planks'
+[18:43:30] [WARN ] Failed to parse recipe 'thermal:compat/mysticalagriculture/insolator_mysticalag_pillager_seeds[thermal:insolator]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Invalid Thermal Series recipe: thermal:compat/mysticalagriculture/insolator_mysticalag_pillager_seeds
 Refer to the recipe's ResourceLocation to find the mod responsible and let them know!
-[20:16:17] [WARN ] Failed to parse recipe thermal:compat/mysticalagriculture/insolator_mysticalag_pillager_seeds[thermal:insolator]: com.google.gson.JsonSyntaxException: Invalid Thermal Series recipe: thermal:compat/mysticalagriculture/insolator_mysticalag_pillager_seeds
+[18:43:30] [WARN ] Failed to parse recipe thermal:compat/mysticalagriculture/insolator_mysticalag_pillager_seeds[thermal:insolator]: com.google.gson.JsonSyntaxException: Invalid Thermal Series recipe: thermal:compat/mysticalagriculture/insolator_mysticalag_pillager_seeds
 Refer to the recipe's ResourceLocation to find the mod responsible and let them know!
-[20:16:17] [WARN ] Failed to parse recipe 'creategearaddon:crafting/kinetics/large_half_shaft_fir_cogwheel[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:fir_button'
-[20:16:17] [WARN ] Failed to parse recipe creategearaddon:crafting/kinetics/large_half_shaft_fir_cogwheel[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:fir_button'
-[20:16:17] [WARN ] Failed to parse recipe 'creategearaddon:crafting/kinetics/half_shaft_redwood_cogwheel[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:redwood_button'
-[20:16:17] [WARN ] Failed to parse recipe creategearaddon:crafting/kinetics/half_shaft_redwood_cogwheel[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:redwood_button'
-[20:16:17] [WARN ] Failed to parse recipe 'creategearaddon:sequenced_assembly/palm_cogwheel[create:sequenced_assembly]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:palm_button'
-[20:16:17] [WARN ] Failed to parse recipe creategearaddon:sequenced_assembly/palm_cogwheel[create:sequenced_assembly]: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:palm_button'
-[20:16:17] [WARN ] Failed to parse recipe 'creategearaddon:sequenced_assembly/half_shaft_mahogany_cogwheel[create:sequenced_assembly]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:mahogany_button'
-[20:16:17] [WARN ] Failed to parse recipe creategearaddon:sequenced_assembly/half_shaft_mahogany_cogwheel[create:sequenced_assembly]: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:mahogany_button'
-[20:16:17] [WARN ] Failed to parse recipe 'creategearaddon:crafting/kinetics/large_shaftless_magic_cogwheel[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:magic_button'
-[20:16:17] [WARN ] Failed to parse recipe creategearaddon:crafting/kinetics/large_shaftless_magic_cogwheel[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:magic_button'
-[20:16:17] [WARN ] Failed to parse recipe 'creategearaddon:crafting/kinetics/shaftless_redwood_cogwheel[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:redwood_button'
-[20:16:17] [WARN ] Failed to parse recipe creategearaddon:crafting/kinetics/shaftless_redwood_cogwheel[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:redwood_button'
-[20:16:17] [WARN ] Failed to parse recipe 'creategearaddon:sequenced_assembly/half_shaft_fir_cogwheel[create:sequenced_assembly]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:fir_button'
-[20:16:17] [WARN ] Failed to parse recipe creategearaddon:sequenced_assembly/half_shaft_fir_cogwheel[create:sequenced_assembly]: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:fir_button'
-[20:16:17] [WARN ] Failed to parse recipe 'creategearaddon:crafting/kinetics/redwood_bracket[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:redwood_planks'
-[20:16:17] [WARN ] Failed to parse recipe creategearaddon:crafting/kinetics/redwood_bracket[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:redwood_planks'
-[20:16:17] [WARN ] Failed to parse recipe 'creategearaddon:crafting/kinetics/large_cherry_cogwheel[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:cherry_button'
-[20:16:17] [WARN ] Failed to parse recipe creategearaddon:crafting/kinetics/large_cherry_cogwheel[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:cherry_button'
-[20:16:17] [WARN ] Failed to parse recipe 'creategearaddon:sequenced_assembly/large_half_shaft_fir_cogwheel[create:sequenced_assembly]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:fir_planks'
-[20:16:17] [WARN ] Failed to parse recipe creategearaddon:sequenced_assembly/large_half_shaft_fir_cogwheel[create:sequenced_assembly]: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:fir_planks'
-[20:16:17] [WARN ] Failed to parse recipe 'creategearaddon:crafting/kinetics/hellbark_cogwheel[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:hellbark_button'
-[20:16:17] [WARN ] Failed to parse recipe creategearaddon:crafting/kinetics/hellbark_cogwheel[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:hellbark_button'
-[20:16:17] [WARN ] Failed to parse recipe 'creategearaddon:sequenced_assembly/large_half_shaft_umbran_cogwheel[create:sequenced_assembly]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:umbran_planks'
-[20:16:17] [WARN ] Failed to parse recipe creategearaddon:sequenced_assembly/large_half_shaft_umbran_cogwheel[create:sequenced_assembly]: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:umbran_planks'
-[20:16:17] [WARN ] Failed to parse recipe 'thermal:compat/mysticalagriculture/insolator_mysticalag_parrot_seeds[thermal:insolator]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Invalid Thermal Series recipe: thermal:compat/mysticalagriculture/insolator_mysticalag_parrot_seeds
+[18:43:30] [WARN ] Failed to parse recipe 'creategearaddon:crafting/kinetics/large_half_shaft_fir_cogwheel[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:fir_button'
+[18:43:30] [WARN ] Failed to parse recipe creategearaddon:crafting/kinetics/large_half_shaft_fir_cogwheel[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:fir_button'
+[18:43:30] [WARN ] Failed to parse recipe 'creategearaddon:crafting/kinetics/half_shaft_redwood_cogwheel[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:redwood_button'
+[18:43:30] [WARN ] Failed to parse recipe creategearaddon:crafting/kinetics/half_shaft_redwood_cogwheel[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:redwood_button'
+[18:43:30] [WARN ] Failed to parse recipe 'creategearaddon:sequenced_assembly/palm_cogwheel[create:sequenced_assembly]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:palm_button'
+[18:43:30] [WARN ] Failed to parse recipe creategearaddon:sequenced_assembly/palm_cogwheel[create:sequenced_assembly]: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:palm_button'
+[18:43:30] [WARN ] Failed to parse recipe 'creategearaddon:sequenced_assembly/half_shaft_mahogany_cogwheel[create:sequenced_assembly]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:mahogany_button'
+[18:43:30] [WARN ] Failed to parse recipe creategearaddon:sequenced_assembly/half_shaft_mahogany_cogwheel[create:sequenced_assembly]: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:mahogany_button'
+[18:43:30] [WARN ] Failed to parse recipe 'creategearaddon:crafting/kinetics/large_shaftless_magic_cogwheel[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:magic_button'
+[18:43:30] [WARN ] Failed to parse recipe creategearaddon:crafting/kinetics/large_shaftless_magic_cogwheel[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:magic_button'
+[18:43:30] [WARN ] Failed to parse recipe 'creategearaddon:crafting/kinetics/shaftless_redwood_cogwheel[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:redwood_button'
+[18:43:30] [WARN ] Failed to parse recipe creategearaddon:crafting/kinetics/shaftless_redwood_cogwheel[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:redwood_button'
+[18:43:30] [WARN ] Failed to parse recipe 'creategearaddon:sequenced_assembly/half_shaft_fir_cogwheel[create:sequenced_assembly]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:fir_button'
+[18:43:30] [WARN ] Failed to parse recipe creategearaddon:sequenced_assembly/half_shaft_fir_cogwheel[create:sequenced_assembly]: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:fir_button'
+[18:43:30] [WARN ] Failed to parse recipe 'creategearaddon:crafting/kinetics/redwood_bracket[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:redwood_planks'
+[18:43:30] [WARN ] Failed to parse recipe creategearaddon:crafting/kinetics/redwood_bracket[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:redwood_planks'
+[18:43:30] [WARN ] Failed to parse recipe 'creategearaddon:crafting/kinetics/large_cherry_cogwheel[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:cherry_button'
+[18:43:30] [WARN ] Failed to parse recipe creategearaddon:crafting/kinetics/large_cherry_cogwheel[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:cherry_button'
+[18:43:30] [WARN ] Failed to parse recipe 'creategearaddon:sequenced_assembly/large_half_shaft_fir_cogwheel[create:sequenced_assembly]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:fir_planks'
+[18:43:30] [WARN ] Failed to parse recipe creategearaddon:sequenced_assembly/large_half_shaft_fir_cogwheel[create:sequenced_assembly]: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:fir_planks'
+[18:43:30] [WARN ] Failed to parse recipe 'creategearaddon:crafting/kinetics/hellbark_cogwheel[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:hellbark_button'
+[18:43:30] [WARN ] Failed to parse recipe creategearaddon:crafting/kinetics/hellbark_cogwheel[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:hellbark_button'
+[18:43:30] [WARN ] Failed to parse recipe 'creategearaddon:sequenced_assembly/large_half_shaft_umbran_cogwheel[create:sequenced_assembly]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:umbran_planks'
+[18:43:30] [WARN ] Failed to parse recipe creategearaddon:sequenced_assembly/large_half_shaft_umbran_cogwheel[create:sequenced_assembly]: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:umbran_planks'
+[18:43:30] [WARN ] Failed to parse recipe 'thermal:compat/mysticalagriculture/insolator_mysticalag_parrot_seeds[thermal:insolator]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Invalid Thermal Series recipe: thermal:compat/mysticalagriculture/insolator_mysticalag_parrot_seeds
 Refer to the recipe's ResourceLocation to find the mod responsible and let them know!
-[20:16:17] [WARN ] Failed to parse recipe thermal:compat/mysticalagriculture/insolator_mysticalag_parrot_seeds[thermal:insolator]: com.google.gson.JsonSyntaxException: Invalid Thermal Series recipe: thermal:compat/mysticalagriculture/insolator_mysticalag_parrot_seeds
+[18:43:30] [WARN ] Failed to parse recipe thermal:compat/mysticalagriculture/insolator_mysticalag_parrot_seeds[thermal:insolator]: com.google.gson.JsonSyntaxException: Invalid Thermal Series recipe: thermal:compat/mysticalagriculture/insolator_mysticalag_parrot_seeds
 Refer to the recipe's ResourceLocation to find the mod responsible and let them know!
-[20:16:17] [WARN ] Failed to parse recipe 'creategearaddon:crafting/kinetics/mahogany_bracket[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:mahogany_planks'
-[20:16:17] [WARN ] Failed to parse recipe creategearaddon:crafting/kinetics/mahogany_bracket[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:mahogany_planks'
-[20:16:17] [WARN ] Failed to parse recipe 'creategearaddon:crafting/kinetics/large_willow_cogwheel[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:willow_button'
-[20:16:17] [WARN ] Failed to parse recipe creategearaddon:crafting/kinetics/large_willow_cogwheel[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:willow_button'
-[20:16:17] [WARN ] Failed to parse recipe 'creategearaddon:crafting/kinetics/half_shaft_dead_cogwheel[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:dead_button'
-[20:16:17] [WARN ] Failed to parse recipe creategearaddon:crafting/kinetics/half_shaft_dead_cogwheel[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:dead_button'
-[20:16:17] [WARN ] Failed to parse recipe 'thermal:compat/mysticalagriculture/insolator_mysticalag_cat_seeds[thermal:insolator]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Invalid Thermal Series recipe: thermal:compat/mysticalagriculture/insolator_mysticalag_cat_seeds
+[18:43:30] [WARN ] Failed to parse recipe 'creategearaddon:crafting/kinetics/mahogany_bracket[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:mahogany_planks'
+[18:43:30] [WARN ] Failed to parse recipe creategearaddon:crafting/kinetics/mahogany_bracket[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:mahogany_planks'
+[18:43:30] [WARN ] Failed to parse recipe 'creategearaddon:crafting/kinetics/large_willow_cogwheel[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:willow_button'
+[18:43:30] [WARN ] Failed to parse recipe creategearaddon:crafting/kinetics/large_willow_cogwheel[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:willow_button'
+[18:43:30] [WARN ] Failed to parse recipe 'creategearaddon:crafting/kinetics/half_shaft_dead_cogwheel[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:dead_button'
+[18:43:30] [WARN ] Failed to parse recipe creategearaddon:crafting/kinetics/half_shaft_dead_cogwheel[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:dead_button'
+[18:43:30] [WARN ] Failed to parse recipe 'thermal:compat/mysticalagriculture/insolator_mysticalag_cat_seeds[thermal:insolator]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Invalid Thermal Series recipe: thermal:compat/mysticalagriculture/insolator_mysticalag_cat_seeds
 Refer to the recipe's ResourceLocation to find the mod responsible and let them know!
-[20:16:17] [WARN ] Failed to parse recipe thermal:compat/mysticalagriculture/insolator_mysticalag_cat_seeds[thermal:insolator]: com.google.gson.JsonSyntaxException: Invalid Thermal Series recipe: thermal:compat/mysticalagriculture/insolator_mysticalag_cat_seeds
+[18:43:30] [WARN ] Failed to parse recipe thermal:compat/mysticalagriculture/insolator_mysticalag_cat_seeds[thermal:insolator]: com.google.gson.JsonSyntaxException: Invalid Thermal Series recipe: thermal:compat/mysticalagriculture/insolator_mysticalag_cat_seeds
 Refer to the recipe's ResourceLocation to find the mod responsible and let them know!
-[20:16:17] [WARN ] Failed to parse recipe 'thermal:compat/mysticalagriculture/insolator_mysticalag_bat_seeds[thermal:insolator]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Invalid Thermal Series recipe: thermal:compat/mysticalagriculture/insolator_mysticalag_bat_seeds
+[18:43:30] [WARN ] Failed to parse recipe 'thermal:compat/mysticalagriculture/insolator_mysticalag_bat_seeds[thermal:insolator]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Invalid Thermal Series recipe: thermal:compat/mysticalagriculture/insolator_mysticalag_bat_seeds
 Refer to the recipe's ResourceLocation to find the mod responsible and let them know!
-[20:16:17] [WARN ] Failed to parse recipe thermal:compat/mysticalagriculture/insolator_mysticalag_bat_seeds[thermal:insolator]: com.google.gson.JsonSyntaxException: Invalid Thermal Series recipe: thermal:compat/mysticalagriculture/insolator_mysticalag_bat_seeds
+[18:43:30] [WARN ] Failed to parse recipe thermal:compat/mysticalagriculture/insolator_mysticalag_bat_seeds[thermal:insolator]: com.google.gson.JsonSyntaxException: Invalid Thermal Series recipe: thermal:compat/mysticalagriculture/insolator_mysticalag_bat_seeds
 Refer to the recipe's ResourceLocation to find the mod responsible and let them know!
-[20:16:17] [WARN ] Failed to parse recipe 'creategearaddon:sequenced_assembly/half_shaft_hellbark_cogwheel[create:sequenced_assembly]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:hellbark_button'
-[20:16:17] [WARN ] Failed to parse recipe creategearaddon:sequenced_assembly/half_shaft_hellbark_cogwheel[create:sequenced_assembly]: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:hellbark_button'
-[20:16:17] [INFO ] Found 33539 recipes and 0 failed recipes in 2.455 s
-[20:16:26] [INFO ] Posted recipe events in 9.406 s
-[20:16:27] [WARN ] Error parsing recipe immersivepetroleum:distillationtower/oil_cracking[immersivepetroleum:distillation]: {"type":"immersivepetroleum:distillation","input":{"tag":"forge:crude_oil","amount":75},"time":1,"energy":2048,"byproducts":[{"item":"thermal:bitumen"}],"results":[{"fluid":"immersivepetroleum:lubricant","amount":9},{"fluid":"immersivepetroleum:diesel_sulfur","amount":14},{"fluid":"immersivepetroleum:gasoline","amount":39}]}: java.lang.IllegalArgumentException: Unexpected json object.
-[20:16:27] [INFO ] Modified & removed recipes in 816.4 ms
-[20:16:27] [WARN ] Error creating recipe thermal:kjs_eu19i1g3rrdv0e5jrcrsdbd8m[thermal:chiller]: {"type":"thermal:chiller","ingredients":[{"fluid":"tconstruct:molten_aluminum","amount":144},{"item":"thermal:chiller_ingot_cast"}],"result":[{"item":"janoeo:aluminum_ingot","count":1}],"energy":250}: com.google.gson.JsonSyntaxException: Invalid Thermal Series recipe: thermal:kjs_eu19i1g3rrdv0e5jrcrsdbd8m
+[18:43:30] [WARN ] Failed to parse recipe 'creategearaddon:sequenced_assembly/half_shaft_hellbark_cogwheel[create:sequenced_assembly]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:hellbark_button'
+[18:43:30] [WARN ] Failed to parse recipe creategearaddon:sequenced_assembly/half_shaft_hellbark_cogwheel[create:sequenced_assembly]: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:hellbark_button'
+[18:43:30] [INFO ] Found 33539 recipes and 0 failed recipes in 2.262 s
+[18:43:38] [INFO ] Posted recipe events in 8.292 s
+[18:43:38] [WARN ] Error parsing recipe immersivepetroleum:distillationtower/oil_cracking[immersivepetroleum:distillation]: {"type":"immersivepetroleum:distillation","input":{"tag":"forge:crude_oil","amount":75},"time":1,"energy":2048,"byproducts":[{"item":"thermal:bitumen"}],"results":[{"fluid":"immersivepetroleum:lubricant","amount":9},{"fluid":"immersivepetroleum:diesel_sulfur","amount":14},{"fluid":"immersivepetroleum:gasoline","amount":39}]}: java.lang.IllegalArgumentException: Unexpected json object.
+[18:43:39] [INFO ] Modified & removed recipes in 688.6 ms
+[18:43:39] [WARN ] Error creating recipe thermal:kjs_eu19i1g3rrdv0e5jrcrsdbd8m[thermal:chiller]: {"type":"thermal:chiller","ingredients":[{"fluid":"tconstruct:molten_aluminum","amount":144},{"item":"thermal:chiller_ingot_cast"}],"result":[{"item":"janoeo:aluminum_ingot","count":1}],"energy":250}: com.google.gson.JsonSyntaxException: Invalid Thermal Series recipe: thermal:kjs_eu19i1g3rrdv0e5jrcrsdbd8m
 Refer to the recipe's ResourceLocation to find the mod responsible and let them know!
-[20:16:27] [INFO ] Added recipes in 214.6 ms
-[20:16:27] [INFO ] Added 3844 recipes, removed 1450 recipes, modified 1046 recipes, with 2 failed recipes and 0 fall-backed recipes
-[20:16:37] [INFO ] [functions] Found 0 tags, added 0 objects, removed 0 objects
-[20:16:37] [INFO ] [functions] Found 0 tags, added 0 objects, removed 0 objects
+[18:43:39] [INFO ] Added recipes in 155.5 ms
+[18:43:39] [INFO ] Added 3844 recipes, removed 1450 recipes, modified 1046 recipes, with 2 failed recipes and 0 fall-backed recipes
+[18:43:46] [INFO ] [functions] Found 0 tags, added 0 objects, removed 0 objects
+[18:43:46] [INFO ] [functions] Found 0 tags, added 0 objects, removed 0 objects
