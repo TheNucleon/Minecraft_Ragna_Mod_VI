@@ -3763,3 +3763,10 @@ Caused by: java.io.FileNotFoundException: https://refinedmods.com/refined-storag
 [04May2023 22:36:35.989] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: TheNukleon left the game
 [04May2023 22:36:44.788] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Unknown or incomplete command, see below for error
 [04May2023 22:36:44.788] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: save<--[HERE]
+[04May2023 22:45:30.587] [Server thread/INFO] [FTB Utilities Backups/]: Server Backup started!
+[04May2023 22:45:30.589] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Server Backup started!
+[04May2023 22:45:30.600] [Thread-211/INFO] [FTB Utilities Backups/]: Backing up 221 files...
+[04May2023 22:45:30.601] [Thread-211/INFO] [FTB Utilities Backups/]: Compressing 221 files...
+[04May2023 22:45:30.921] [Thread-211/INFO] [FTB Utilities Backups/]: Done compressing in 320ms seconds (4.9MB)!
+[04May2023 22:45:30.921] [Thread-211/INFO] [FTB Utilities Backups/]: Created /root/minecraft/Minecraft_Ragna_Mod_VI/backups/2023-05-04-22-45-30.zip from /root/minecraft/Minecraft_Ragna_Mod_VI/world
+[04May2023 22:45:30.922] [Thread-211/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Server backup done in 332ms! (4.9MB | 14.4MB)
