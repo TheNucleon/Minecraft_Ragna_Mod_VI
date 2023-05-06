@@ -52,3 +52,54 @@
 [05May2023 17:01:11.085] [Server thread/INFO] [STDOUT/]: [net.minecraft.tileentity.AbstractFurnaceTileEntity:getRecipe:597]: net.minecraft.item.crafting.FurnaceRecipe@4f4b88bc
 [05May2023 17:11:09.789] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: TheNukleon lost connection: Disconnected
 [05May2023 17:11:09.790] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: TheNukleon left the game
+[05May2023 17:33:11.637] [Server thread/INFO] [FTB Utilities Backups/]: Server Backup started!
+[05May2023 17:33:11.639] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Server Backup started!
+[05May2023 17:33:11.648] [Thread-512/INFO] [FTB Utilities Backups/]: Backing up 229 files...
+[05May2023 17:33:11.649] [Thread-512/INFO] [FTB Utilities Backups/]: Compressing 229 files...
+[05May2023 17:33:12.133] [Thread-512/INFO] [FTB Utilities Backups/]: Done compressing in 485ms seconds (6.2MB)!
+[05May2023 17:33:12.133] [Thread-512/INFO] [FTB Utilities Backups/]: Created /root/minecraft/Minecraft_Ragna_Mod_VI/backups/2023-05-05-17-33-11.zip from /root/minecraft/Minecraft_Ragna_Mod_VI/world
+[05May2023 17:33:12.137] [Thread-512/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Server backup done in 497ms! (6.2MB | 31.7MB)
+[05May2023 19:05:53.802] [Netty Epoll Server IO #8/INFO] [codechicken.lib.config.ConfigSyncManager/]: Skipping config sync, No mods have registered a syncable config.
+[05May2023 19:05:54.619] [User Authenticator #6/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player Boryke is 34808b76-cda2-4493-bfc3-8a4cab7f56e7
+[05May2023 19:06:09.170] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@26bef7b7
+[05May2023 19:06:09.303] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Boryke[/92.148.245.72:54576] logged in with entity id 21556 at (8.203962711870656, 64.0, 7.45710038499133)
+[05May2023 19:06:09.331] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Boryke joined the game
+[05May2023 19:06:09.511] [Server thread/INFO] [mcjty.lib.setup.DefaultModSetup/]: Client logged in: sending dimlet packages
+[05May2023 19:06:09.513] [Server thread/INFO] [Enigmatic Legacy/INFO]: Synchronizing omniconfig files to Boryke...
+[05May2023 19:06:09.513] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticlegacy-common.omniconf
+[05May2023 19:06:09.514] [Server thread/INFO] [Enigmatic Legacy/INFO]: Granting starter gear to Boryke
+[05May2023 19:06:10.044] [Netty Epoll Server IO #8/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize dev.maxneedssnacks.interactio.command.RegistryArgument@6d1ea96 (class dev.maxneedssnacks.interactio.command.RegistryArgument) - will not be sent to client!
+[05May2023 19:06:10.086] [Netty Epoll Server IO #8/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize dev.maxneedssnacks.interactio.command.RegistryArgument@6d1ea96 (class dev.maxneedssnacks.interactio.command.RegistryArgument) - will not be sent to client!
+[05May2023 19:09:18.946] [Netty Epoll Server IO #8/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize dev.maxneedssnacks.interactio.command.RegistryArgument@6d1ea96 (class dev.maxneedssnacks.interactio.command.RegistryArgument) - will not be sent to client!
+[05May2023 19:09:19.101] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Boryke has made the advancement [We Need to Go Deeper]
+[05May2023 19:09:27.895] [Netty Epoll Server IO #8/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize dev.maxneedssnacks.interactio.command.RegistryArgument@6d1ea96 (class dev.maxneedssnacks.interactio.command.RegistryArgument) - will not be sent to client!
+[05May2023 19:25:30.770] [CU Memory Check Task/INFO] [com.darkere.crashutils.CrashUtils/]: Memory Spike 1172.20 MB
+[05May2023 19:33:11.642] [Server thread/INFO] [FTB Utilities Backups/]: Server Backup started!
+[05May2023 19:33:11.643] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Server Backup started!
+[05May2023 19:33:11.721] [Thread-565/INFO] [FTB Utilities Backups/]: Backing up 229 files...
+[05May2023 19:33:11.725] [Thread-565/INFO] [FTB Utilities Backups/]: Compressing 229 files...
+[05May2023 19:33:12.196] [Thread-565/INFO] [FTB Utilities Backups/]: Done compressing in 471ms seconds (6.5MB)!
+[05May2023 19:33:12.196] [Thread-565/INFO] [FTB Utilities Backups/]: Created /root/minecraft/Minecraft_Ragna_Mod_VI/backups/2023-05-05-19-33-11.zip from /root/minecraft/Minecraft_Ragna_Mod_VI/world
+[05May2023 19:33:12.197] [Thread-565/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Server backup done in 523ms! (6.5MB | 38.2MB)
+[05May2023 20:00:36.338] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Boryke has made the advancement [Press Goes 'Bonk!']
+[05May2023 20:22:52.561] [Server thread/INFO] [STDOUT/]: [net.minecraft.tileentity.AbstractFurnaceTileEntity:getRecipe:597]: net.minecraft.item.crafting.FurnaceRecipe@578a632a
+[05May2023 20:22:55.239] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2653ms or 53 ticks behind
+[05May2023 20:23:15.633] [Server thread/INFO] [STDOUT/]: [net.minecraft.tileentity.AbstractFurnaceTileEntity:getRecipe:597]: net.minecraft.item.crafting.FurnaceRecipe@1f22b52e
+[05May2023 20:23:59.353] [Server thread/INFO] [STDOUT/]: [net.minecraft.tileentity.AbstractFurnaceTileEntity:getRecipe:597]: net.minecraft.item.crafting.FurnaceRecipe@578a632a
+[05May2023 21:33:11.699] [Server thread/INFO] [FTB Utilities Backups/]: Server Backup started!
+[05May2023 21:33:11.702] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Server Backup started!
+[05May2023 21:33:11.967] [Thread-627/INFO] [FTB Utilities Backups/]: Backing up 229 files...
+[05May2023 21:33:11.970] [Thread-627/INFO] [FTB Utilities Backups/]: Compressing 229 files...
+[05May2023 21:33:12.522] [Thread-627/INFO] [FTB Utilities Backups/]: Done compressing in 552ms seconds (6.7MB)!
+[05May2023 21:33:12.523] [Thread-627/INFO] [FTB Utilities Backups/]: Created /root/minecraft/Minecraft_Ragna_Mod_VI/backups/2023-05-05-21-33-11.zip from /root/minecraft/Minecraft_Ragna_Mod_VI/world
+[05May2023 21:33:12.523] [Thread-627/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Server backup done in 707ms! (6.7MB | 44.9MB)
+[05May2023 22:02:59.097] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Boryke has made the advancement [I AM THE CURE!]
+[05May2023 22:44:22.890] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Boryke lost connection: Disconnected
+[05May2023 22:44:22.891] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Boryke left the game
+[05May2023 23:33:11.739] [Server thread/INFO] [FTB Utilities Backups/]: Server Backup started!
+[05May2023 23:33:11.743] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Server Backup started!
+[05May2023 23:33:11.792] [Thread-686/INFO] [FTB Utilities Backups/]: Backing up 229 files...
+[05May2023 23:33:11.794] [Thread-686/INFO] [FTB Utilities Backups/]: Compressing 229 files...
+[05May2023 23:33:12.383] [Thread-686/INFO] [FTB Utilities Backups/]: Done compressing in 589ms seconds (6.8MB)!
+[05May2023 23:33:12.383] [Thread-686/INFO] [FTB Utilities Backups/]: Created /root/minecraft/Minecraft_Ragna_Mod_VI/backups/2023-05-05-23-33-11.zip from /root/minecraft/Minecraft_Ragna_Mod_VI/world
+[05May2023 23:33:12.384] [Thread-686/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Server backup done in 638ms! (6.8MB | 51.7MB)
