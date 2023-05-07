@@ -1,6 +1,6 @@
-[18:41:54] [INFO ] Loaded script startup_scripts:fluid.js in 0.546 s
-[18:41:54] [INFO ] Loaded script startup_scripts:items.js in 0.037 s
-[18:41:54] [INFO ] Loaded script startup_scripts:foods.js in 0.056 s
-[18:41:54] [INFO ] Loaded script startup_scripts:blocks.js in 0.004 s
-[18:41:54] [INFO ] Loaded script startup_scripts:trophies.js in 0.008 s
-[18:41:54] [INFO ] Loaded 5/5 KubeJS startup scripts in 1.428 s
+[16:19:22] [INFO ] Loaded script startup_scripts:fluid.js in 0.351 s
+[16:19:22] [INFO ] Loaded script startup_scripts:items.js in 0.033 s
+[16:19:22] [INFO ] Loaded script startup_scripts:foods.js in 0.006 s
+[16:19:22] [INFO ] Loaded script startup_scripts:blocks.js in 0.002 s
+[16:19:22] [INFO ] Loaded script startup_scripts:trophies.js in 0.005 s
+[16:19:22] [INFO ] Loaded 5/5 KubeJS startup scripts in 1.297 s
