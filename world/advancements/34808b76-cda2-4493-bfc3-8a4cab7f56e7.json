@@ -155,6 +155,12 @@
     },
     "done": true
   },
+  "tconstruct:recipes/tconstruct/smeltery/smeltery/scorched/duct": {
+    "criteria": {
+      "has_item": "2023-05-09 17:11:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/ladder": {
     "criteria": {
       "has_stick": "2023-05-03 19:18:22 +0000"
@@ -623,6 +629,12 @@
     },
     "done": true
   },
+  "tconstruct:recipes/tconstruct/general/common/materials/rose_gold_block_from_ingots": {
+    "criteria": {
+      "has_item": "2023-05-09 15:43:07 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.base/crafting/materials/andesite_casing": {
     "criteria": {
       "has_item": "2023-05-03 19:21:53 +0000"
@@ -701,6 +713,12 @@
     },
     "done": true
   },
+  "hats:hats/hats_unlocked_10": {
+    "criteria": {
+      "hats_unlocked": "2023-05-09 16:53:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/brown_bed": {
     "criteria": {
       "has_brown_wool": "2023-05-07 00:17:03 +0000"
@@ -728,6 +746,12 @@
   "immersiveengineering:recipes/immersiveengineering/crafting/thermoelectric_generator": {
     "criteria": {
       "has_coil_lv": "2023-05-07 22:04:01 +0000"
+    },
+    "done": true
+  },
+  "resourcefulbees:resourcefulbees/collect_bee": {
+    "criteria": {
+      "collect_bee": "2023-05-09 16:29:51 +0000"
     },
     "done": true
   },
@@ -946,6 +970,12 @@
   "connectedglass:recipes/connectedglass/clear_glass_gray_pane2": {
     "criteria": {
       "dye": "2023-05-06 22:45:41 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:alt/treasures/smoking_block": {
+    "criteria": {
+      "smoking_block": "2023-05-09 16:26:23 +0000"
     },
     "done": true
   },
@@ -1261,6 +1291,12 @@
     },
     "done": true
   },
+  "apotheosis:affix/mythic": {
+    "criteria": {
+      "sword": "2023-05-09 15:21:04 +0000"
+    },
+    "done": true
+  },
   "woot:recipes/woot/rate_3": {
     "criteria": {
       "cobblestone": "2023-05-03 19:22:44 +0000"
@@ -1477,6 +1513,12 @@
     },
     "done": true
   },
+  "jellyfishing:jellyfishing/firmly_grasp_it": {
+    "criteria": {
+      "net": "2023-05-09 16:19:40 +0000"
+    },
+    "done": true
+  },
   "creategearaddon:recipes/jungle_bracket": {
     "criteria": {
       "has_item": "2023-05-03 19:21:53 +0000"
@@ -1522,6 +1564,12 @@
   "rftoolsutility:recipes/rftoolsutility/energy_module": {
     "criteria": {
       "ingot": "2023-05-03 21:52:48 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/spring_launcher": {
+    "criteria": {
+      "has_item": "2023-05-09 20:08:07 +0000"
     },
     "done": true
   },
@@ -1751,6 +1799,12 @@
   "create:recipes/create.base/crafting/kinetics/hose_pulley": {
     "criteria": {
       "has_item": "2023-05-04 20:20:15 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:tools/modified": {
+    "criteria": {
+      "crafted_tool": "2023-05-09 16:03:38 +0000"
     },
     "done": true
   },
@@ -2027,6 +2081,7 @@
   "tconstruct:smeltery/cast_collector": {
     "criteria": {
       "nugget": "2023-05-07 12:39:23 +0000",
+      "gem": "2023-05-09 15:41:34 +0000",
       "small_axe_head": "2023-05-08 13:55:39 +0000",
       "tool_handle": "2023-05-08 13:55:48 +0000",
       "pickaxe_head": "2023-05-08 13:55:44 +0000",
@@ -2872,6 +2927,12 @@
     },
     "done": true
   },
+  "tconstruct:recipes/tconstruct/general/common/materials/cobalt_nugget_from_ingot": {
+    "criteria": {
+      "has_item": "2023-05-09 17:11:33 +0000"
+    },
+    "done": true
+  },
   "mcwfences:recipes/sandstone": {
     "criteria": {
       "has_sand": "2023-05-03 19:41:06 +0000"
@@ -3442,6 +3503,12 @@
     },
     "done": true
   },
+  "bigreactors:recipes/bigreactors.general/fluidizer/solidinjector": {
+    "criteria": {
+      "has_item2": "2023-05-09 20:08:07 +0000"
+    },
+    "done": true
+  },
   "embellishcraft:recipes/embellishcraft_group/brown_oak_fancy_bed": {
     "criteria": {
       "has_oak_planks": "2023-05-03 19:19:03 +0000"
@@ -3995,6 +4062,12 @@
     },
     "done": true
   },
+  "botania:recipes/botania/turntable": {
+    "criteria": {
+      "has_alt_item": "2023-05-09 20:08:07 +0000"
+    },
+    "done": true
+  },
   "embellishcraft:recipes/embellishcraft_group/spruce_plain_door": {
     "criteria": {
       "has_spruce_log": "2023-05-03 19:47:54 +0000"
@@ -4368,9 +4441,21 @@
     },
     "done": true
   },
+  "jellyfishing:jellyfishing/jelly": {
+    "criteria": {
+      "net": "2023-05-09 16:19:40 +0000"
+    },
+    "done": true
+  },
   "aquaculture:recipes/tools/iron_fillet_knife": {
     "criteria": {
       "has_items": "2023-05-03 21:52:48 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/tconstruct/tools/armor/building/plate_boots": {
+    "criteria": {
+      "has_item": "2023-05-09 17:11:33 +0000"
     },
     "done": true
   },
@@ -4631,6 +4716,12 @@
       "cobblestone": "2023-05-03 19:22:45 +0000"
     },
     "done": true
+  },
+  "tconstruct:tools/tool_smith": {
+    "criteria": {
+      "mattock": "2023-05-09 16:03:38 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/decorations/oak_fence": {
     "criteria": {
@@ -4956,6 +5047,12 @@
     },
     "done": true
   },
+  "projecte:recipes/projecte/nova_catalyst": {
+    "criteria": {
+      "has_tnt": "2023-05-09 17:10:35 +0000"
+    },
+    "done": true
+  },
   "enigmaticlegacy:book/accessories/mining_charm": {
     "criteria": {
       "has_the_recipe": "2023-05-05 20:42:53 +0000"
@@ -4983,6 +5080,12 @@
   "create:recipes/create.base/crafting/kinetics/secondary_linear_chassisfrom_conversion": {
     "criteria": {
       "has_item": "2023-05-07 16:45:35 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/tconstruct/general/common/materials/cobalt_block_from_ingots": {
+    "criteria": {
+      "has_item": "2023-05-09 17:11:33 +0000"
     },
     "done": true
   },
@@ -5304,6 +5407,18 @@
     },
     "done": true
   },
+  "supplementaries:recipes/bomb": {
+    "criteria": {
+      "has_plank": "2023-05-09 17:10:35 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/tconstruct/smeltery/smeltery/seared/duct": {
+    "criteria": {
+      "has_item": "2023-05-09 17:11:33 +0000"
+    },
+    "done": true
+  },
   "solcarrot:recipes/food_book": {
     "criteria": {
       "has_carrot": "2023-05-06 22:01:59 +0000"
@@ -5373,6 +5488,12 @@
   "sophisticatedbackpacks:recipes/sophisticatedbackpacks/diamond_backpack": {
     "criteria": {
       "has_the_recipe": "2023-05-07 13:05:56 +0000"
+    },
+    "done": true
+  },
+  "apotheosis:enchanting/enchanter": {
+    "criteria": {
+      "enchanting_table": "2023-05-09 16:36:45 +0000"
     },
     "done": true
   },
@@ -5595,6 +5716,12 @@
   "create:recipes/create.palettes/smelting/gabbro": {
     "criteria": {
       "has_item": "2023-05-04 21:31:37 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/tconstruct/tools/armor/building/plate_chestplate": {
+    "criteria": {
+      "has_item": "2023-05-09 17:11:33 +0000"
     },
     "done": true
   },
@@ -6216,6 +6343,12 @@
     },
     "done": true
   },
+  "tconstruct:recipes/tconstruct/tools/armor/building/plate_helmet": {
+    "criteria": {
+      "has_item": "2023-05-09 17:11:33 +0000"
+    },
+    "done": true
+  },
   "floormats:recipes/connected/nether/crimson_stem/connected_crimson_stem": {
     "criteria": {
       "has_connector": "2023-05-03 19:18:22 +0000"
@@ -6588,6 +6721,12 @@
     },
     "done": true
   },
+  "jellyfishing:jellyfishing/kelp_mustache": {
+    "criteria": {
+      "net": "2023-05-09 16:20:32 +0000"
+    },
+    "done": true
+  },
   "floormats:recipes/floormats/nether/warped_stem/warped_stem_floormat": {
     "criteria": {
       "has_redstone": "2023-05-04 20:23:39 +0000"
@@ -6732,6 +6871,12 @@
     },
     "done": true
   },
+  "twilightforest:alt/treasures/encased_smoker": {
+    "criteria": {
+      "ingredient": "2023-05-09 16:26:23 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/diorite_cobblestone_stairs_from_diorite_cobblestone_stonecutting": {
     "criteria": {
       "has_diorite_cobblestone": "2023-05-03 19:22:45 +0000"
@@ -6771,6 +6916,12 @@
   "minecraft:recipes/tools/lead": {
     "criteria": {
       "has_slime_ball": "2023-05-06 23:52:50 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/tconstruct/tools/armor/building/plate_leggings": {
+    "criteria": {
+      "has_item": "2023-05-09 17:11:33 +0000"
     },
     "done": true
   },
@@ -7398,6 +7549,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/torch": {
+    "criteria": {
+      "has_the_recipe": "2023-05-09 17:12:32 +0000"
+    },
+    "done": true
+  },
   "creategearaddon:recipes/hellbark_cogwheel": {
     "criteria": {
       "has_item": "2023-05-03 19:21:53 +0000"
@@ -7890,6 +8047,12 @@
   "rftoolsutility:recipes/rftoolsutility/text_module": {
     "criteria": {
       "ingot": "2023-05-03 21:52:48 +0000"
+    },
+    "done": true
+  },
+  "bigreactors:recipes/bigreactors.general/reprocessor/wasteinjector": {
+    "criteria": {
+      "has_item2": "2023-05-09 20:08:07 +0000"
     },
     "done": true
   },
@@ -8433,6 +8596,12 @@
     },
     "done": true
   },
+  "resourcefulbees:resourcefulbees/bee_jar": {
+    "criteria": {
+      "bee_jar": "2023-05-09 16:28:02 +0000"
+    },
+    "done": true
+  },
   "tconstruct:recipes/tconstruct/smeltery/smeltery/scorched/nether_grout": {
     "criteria": {
       "has_item": "2023-05-07 13:25:26 +0000"
@@ -8583,6 +8752,12 @@
     },
     "done": true
   },
+  "tconstruct:recipes/tconstruct/general/common/materials/rose_gold_nugget_from_ingot": {
+    "criteria": {
+      "has_item": "2023-05-09 15:43:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/light_blue_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2023-05-03 20:38:50 +0000"
@@ -8652,6 +8827,12 @@
   "floormats:recipes/floormats/stone_floormat": {
     "criteria": {
       "has_redstone": "2023-05-04 20:23:39 +0000"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:book/enchantments/generic": {
+    "criteria": {
+      "has_items": "2023-05-09 16:36:45 +0000"
     },
     "done": true
   },
@@ -8787,6 +8968,12 @@
     },
     "done": true
   },
+  "tconstruct:tools/tinker_tool": {
+    "criteria": {
+      "crafted_tool": "2023-05-09 16:03:38 +0000"
+    },
+    "done": true
+  },
   "mcwtrpdoors:recipes/oak/oak_beach_trapdoor": {
     "criteria": {
       "has_planks": "2023-05-03 19:15:40 +0000"
@@ -8846,6 +9033,13 @@
       "has_plate": "2023-05-07 23:02:54 +0000"
     },
     "done": true
+  },
+  "tconstruct:tools/material_master": {
+    "criteria": {
+      "cobalt": "2023-05-09 16:15:14 +0000",
+      "rose_gold": "2023-05-09 16:03:38 +0000"
+    },
+    "done": false
   },
   "amb:recipes/obsidian_pressure_plate": {
     "criteria": {
@@ -9525,6 +9719,12 @@
     },
     "done": true
   },
+  "resourcefulbees:resourcefulbees/smoker": {
+    "criteria": {
+      "smoker": "2023-05-09 16:26:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/oak_fence_gate": {
     "criteria": {
       "has_planks": "2023-05-03 19:19:03 +0000"
@@ -9930,6 +10130,12 @@
   "amb:recipes/diorite_button": {
     "criteria": {
       "has_diorite": "2023-05-05 21:19:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/lapis_lazuli": {
+    "criteria": {
+      "has_lapis_block": "2023-05-09 16:10:09 +0000"
     },
     "done": true
   },
@@ -10567,6 +10773,12 @@
   "sonicraft:soni_craft_advancement": {
     "criteria": {
       "soni_craft_advancement": "2023-05-03 18:55:05 +0000"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/explosion_crafting/compressed_iron_ingot": {
+    "criteria": {
+      "tnt": "2023-05-09 17:10:35 +0000"
     },
     "done": true
   },
@@ -11650,6 +11862,12 @@
     },
     "done": true
   },
+  "pneumaticcraft:recipes/explosion_crafting/compressed_iron_block": {
+    "criteria": {
+      "tnt": "2023-05-09 17:10:35 +0000"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/immersiveengineering/crafting/manual": {
     "criteria": {
       "has_book": "2023-05-07 13:19:08 +0000"
@@ -11996,6 +12214,12 @@
   "minecraft:recipes/combat/crossbow": {
     "criteria": {
       "has_stick": "2023-05-03 19:18:22 +0000"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/explosion_crafting/wheat_flour": {
+    "criteria": {
+      "tnt": "2023-05-09 17:10:35 +0000"
     },
     "done": true
   },
@@ -13246,6 +13470,12 @@
   "immersiveengineering:recipes/immersiveengineering/crafting/heavy_engineering": {
     "criteria": {
       "has_electrum_ingot": "2023-05-07 23:13:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp": {
+    "criteria": {
+      "has_dried_kelp_block": "2023-05-09 16:20:35 +0000"
     },
     "done": true
   },

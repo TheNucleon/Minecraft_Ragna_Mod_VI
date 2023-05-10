@@ -1,355 +1,206 @@
-[08May2023 00:05:18.012] [Server thread/INFO] [FTB Utilities Backups/]: Server Backup started!
-[08May2023 00:05:18.015] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Server Backup started!
-[08May2023 00:05:18.073] [Thread-1034/INFO] [FTB Utilities Backups/]: Deleting old backup: 2023-05-05-21-33-11.zip
-[08May2023 00:05:18.078] [Thread-1034/INFO] [FTB Utilities Backups/]: Backing up 249 files...
-[08May2023 00:05:18.080] [Thread-1034/INFO] [FTB Utilities Backups/]: Compressing 249 files...
-[08May2023 00:05:18.595] [Thread-1034/INFO] [FTB Utilities Backups/]: Done compressing in 515ms seconds (8.4MB)!
-[08May2023 00:05:18.597] [Thread-1034/INFO] [FTB Utilities Backups/]: Created /root/minecraft/Minecraft_Ragna_Mod_VI/backups/2023-05-08-00-05-18.zip from /root/minecraft/Minecraft_Ragna_Mod_VI/world
-[08May2023 00:05:18.598] [Thread-1034/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Server backup done in 533ms! (8.4MB | 95.7MB)
-[08May2023 00:17:50.335] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Inferium Essence'/220050, l='ServerLevel[world]', x=4.67, y=64.71, z=-69.36]
-[08May2023 00:37:46.952] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ExperienceOrbEntity['Experience Orb'/224684, l='ServerLevel[world]', x=5.74, y=64.94, z=-69.39]
-[08May2023 00:42:04.248] [RCON Listener #1/INFO] [net.minecraft.network.rcon.RConThread/]: Thread RCON Client /141.148.242.147 started
-[08May2023 00:42:04.454] [RCON Client /141.148.242.147 #8/INFO] [net.minecraft.network.rcon.ClientThread/]: Thread RCON Client /141.148.242.147 shutting down
-[08May2023 00:42:42.013] [RCON Listener #1/INFO] [net.minecraft.network.rcon.RConThread/]: Thread RCON Client /141.148.242.147 started
-[08May2023 00:42:42.228] [RCON Client /141.148.242.147 #9/INFO] [net.minecraft.network.rcon.ClientThread/]: Thread RCON Client /141.148.242.147 shutting down
-[08May2023 01:53:49.661] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Boryke fell out of the world
-[08May2023 01:53:51.046] [Netty Epoll Server IO #1/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize dev.maxneedssnacks.interactio.command.RegistryArgument@46a2aba3 (class dev.maxneedssnacks.interactio.command.RegistryArgument) - will not be sent to client!
-[08May2023 01:54:38.766] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Inferium Essence'/248620, l='ServerLevel[world]', x=4.94, y=64.24, z=-69.38]
-[08May2023 02:01:27.762] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Boryke fell out of the world
-[08May2023 02:01:29.117] [Netty Epoll Server IO #1/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize dev.maxneedssnacks.interactio.command.RegistryArgument@46a2aba3 (class dev.maxneedssnacks.interactio.command.RegistryArgument) - will not be sent to client!
-[08May2023 02:05:18.061] [Server thread/INFO] [FTB Utilities Backups/]: Server Backup started!
-[08May2023 02:05:18.062] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Server Backup started!
-[08May2023 02:05:18.118] [Thread-1110/INFO] [FTB Utilities Backups/]: Deleting old backup: 2023-05-05-23-33-11.zip
-[08May2023 02:05:18.118] [Thread-1110/INFO] [FTB Utilities Backups/]: Backing up 251 files...
-[08May2023 02:05:18.119] [Thread-1110/INFO] [FTB Utilities Backups/]: Compressing 251 files...
-[08May2023 02:05:18.606] [Thread-1110/INFO] [FTB Utilities Backups/]: Done compressing in 487ms seconds (8.5MB)!
-[08May2023 02:05:18.608] [Thread-1110/INFO] [FTB Utilities Backups/]: Created /root/minecraft/Minecraft_Ragna_Mod_VI/backups/2023-05-08-02-05-18.zip from /root/minecraft/Minecraft_Ragna_Mod_VI/world
-[08May2023 02:05:18.610] [Thread-1110/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Server backup done in 501ms! (8.5MB | 97.4MB)
-[08May2023 02:06:55.579] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['{{!colors.light_green}} Charm Fragment'/252158, l='ServerLevel[world]', x=4.65, y=64.35, z=-69.24]
-[08May2023 02:12:20.364] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Boryke has made the advancement [Rotten to the Core]
-[08May2023 02:14:03.360] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Boryke lost connection: Disconnected
-[08May2023 02:14:03.360] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Boryke left the game
-[08May2023 04:05:18.104] [Server thread/INFO] [FTB Utilities Backups/]: Server Backup started!
-[08May2023 04:05:18.105] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Server Backup started!
-[08May2023 04:05:18.116] [Thread-1160/INFO] [FTB Utilities Backups/]: Deleting old backup: 2023-05-06-18-22-48.zip
-[08May2023 04:05:18.120] [Thread-1160/INFO] [FTB Utilities Backups/]: Backing up 251 files...
-[08May2023 04:05:18.121] [Thread-1160/INFO] [FTB Utilities Backups/]: Compressing 251 files...
-[08May2023 04:05:18.608] [Thread-1160/INFO] [FTB Utilities Backups/]: Done compressing in 487ms seconds (8.5MB)!
-[08May2023 04:05:18.608] [Thread-1160/INFO] [FTB Utilities Backups/]: Created /root/minecraft/Minecraft_Ragna_Mod_VI/backups/2023-05-08-04-05-18.zip from /root/minecraft/Minecraft_Ragna_Mod_VI/world
-[08May2023 04:05:18.609] [Thread-1160/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Server backup done in 502ms! (8.5MB | 98.3MB)
-[08May2023 04:41:50.988] [RCON Listener #1/INFO] [net.minecraft.network.rcon.RConThread/]: Thread RCON Client /141.148.242.147 started
-[08May2023 04:41:51.199] [RCON Client /141.148.242.147 #10/INFO] [net.minecraft.network.rcon.ClientThread/]: Thread RCON Client /141.148.242.147 shutting down
-[08May2023 04:42:39.366] [RCON Listener #1/INFO] [net.minecraft.network.rcon.RConThread/]: Thread RCON Client /141.148.242.147 started
-[08May2023 04:42:39.578] [RCON Client /141.148.242.147 #11/INFO] [net.minecraft.network.rcon.ClientThread/]: Thread RCON Client /141.148.242.147 shutting down
-[08May2023 08:41:34.213] [RCON Listener #1/INFO] [net.minecraft.network.rcon.RConThread/]: Thread RCON Client /141.148.242.147 started
-[08May2023 08:41:34.422] [RCON Client /141.148.242.147 #12/INFO] [net.minecraft.network.rcon.ClientThread/]: Thread RCON Client /141.148.242.147 shutting down
-[08May2023 08:42:39.992] [RCON Listener #1/INFO] [net.minecraft.network.rcon.RConThread/]: Thread RCON Client /141.148.242.147 started
-[08May2023 08:42:40.210] [RCON Client /141.148.242.147 #13/INFO] [net.minecraft.network.rcon.ClientThread/]: Thread RCON Client /141.148.242.147 shutting down
-[08May2023 12:03:24.614] [Netty Epoll Server IO #2/INFO] [codechicken.lib.config.ConfigSyncManager/]: Skipping config sync, No mods have registered a syncable config.
-[08May2023 12:03:25.152] [User Authenticator #8/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player Boryke is 34808b76-cda2-4493-bfc3-8a4cab7f56e7
-[08May2023 12:03:39.255] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@5a44596c
-[08May2023 12:03:39.425] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Boryke[/92.148.245.72:64420] logged in with entity id 254745 at (7.0858558478356795, 64.0, 7.170777938735087)
-[08May2023 12:03:39.461] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Boryke joined the game
-[08May2023 12:03:39.643] [Server thread/INFO] [mcjty.lib.setup.DefaultModSetup/]: Client logged in: sending dimlet packages
-[08May2023 12:03:39.646] [Server thread/INFO] [Enigmatic Legacy/INFO]: Synchronizing omniconfig files to Boryke...
-[08May2023 12:03:39.646] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticlegacy-common.omniconf
-[08May2023 12:03:39.647] [Server thread/INFO] [Enigmatic Legacy/INFO]: Granting starter gear to Boryke
-[08May2023 12:03:40.178] [Netty Epoll Server IO #2/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize dev.maxneedssnacks.interactio.command.RegistryArgument@46a2aba3 (class dev.maxneedssnacks.interactio.command.RegistryArgument) - will not be sent to client!
-[08May2023 12:03:40.261] [Netty Epoll Server IO #2/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize dev.maxneedssnacks.interactio.command.RegistryArgument@46a2aba3 (class dev.maxneedssnacks.interactio.command.RegistryArgument) - will not be sent to client!
-[08May2023 12:03:41.199] [Server thread/INFO] [FTB Utilities Backups/]: Server Backup started!
-[08May2023 12:03:41.199] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Server Backup started!
-[08May2023 12:03:41.252] [Thread-1360/INFO] [FTB Utilities Backups/]: Deleting old backup: 2023-05-06-20-22-48.zip
-[08May2023 12:03:41.257] [Thread-1360/INFO] [FTB Utilities Backups/]: Backing up 251 files...
-[08May2023 12:03:41.257] [Thread-1360/INFO] [FTB Utilities Backups/]: Compressing 251 files...
-[08May2023 12:03:41.269] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2016ms or 40 ticks behind
-[08May2023 12:03:41.754] [Thread-1360/INFO] [FTB Utilities Backups/]: Done compressing in 497ms seconds (8.5MB)!
-[08May2023 12:03:41.756] [Thread-1360/INFO] [FTB Utilities Backups/]: Created /root/minecraft/Minecraft_Ragna_Mod_VI/backups/2023-05-08-12-03-41.zip from /root/minecraft/Minecraft_Ragna_Mod_VI/world
-[08May2023 12:03:41.756] [Thread-1360/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Server backup done in 511ms! (8.5MB | 98.9MB)
-[08May2023 12:42:16.949] [RCON Listener #1/INFO] [net.minecraft.network.rcon.RConThread/]: Thread RCON Client /141.148.242.147 started
-[08May2023 12:42:17.157] [RCON Client /141.148.242.147 #14/INFO] [net.minecraft.network.rcon.ClientThread/]: Thread RCON Client /141.148.242.147 shutting down
-[08May2023 12:42:40.233] [RCON Listener #1/INFO] [net.minecraft.network.rcon.RConThread/]: Thread RCON Client /141.148.242.147 started
-[08May2023 12:42:40.448] [RCON Client /141.148.242.147 #15/INFO] [net.minecraft.network.rcon.ClientThread/]: Thread RCON Client /141.148.242.147 shutting down
-[08May2023 12:42:56.446] [Server thread/INFO] [STDOUT/]: [net.minecraft.tileentity.AbstractFurnaceTileEntity:getRecipe:597]: net.minecraft.item.crafting.BlastingRecipe@7336074d
-[08May2023 12:42:57.631] [Server thread/INFO] [STDOUT/]: [net.minecraft.tileentity.AbstractFurnaceTileEntity:getRecipe:597]: net.minecraft.item.crafting.BlastingRecipe@59cc035d
-[08May2023 12:44:33.432] [Server thread/INFO] [STDOUT/]: [net.minecraft.tileentity.AbstractFurnaceTileEntity:getRecipe:597]: net.minecraft.item.crafting.BlastingRecipe@7336074d
-[08May2023 12:44:35.115] [Server thread/INFO] [STDOUT/]: [net.minecraft.tileentity.AbstractFurnaceTileEntity:getRecipe:597]: net.minecraft.item.crafting.BlastingRecipe@59cc035d
-[08May2023 12:49:32.363] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Boryke has made the advancement [Cheaper ingots]
-[08May2023 12:51:41.010] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Boryke has made the advancement [How much for one ingot!?]
-[08May2023 12:51:56.010] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Boryke has made the advancement [Yet ANOTHER #?!$ Hammer]
-[08May2023 12:51:56.024] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Boryke has made the advancement [Shape the things to come]
-[08May2023 12:53:24.164] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Boryke has made the advancement [Dye, Die, My Darling]
-[08May2023 13:08:46.163] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Nebulous Heart'/276668, l='ServerLevel[world]', x=4.94, y=64.38, z=-69.58]
-[08May2023 13:11:56.681] [Server thread/INFO] [STDOUT/]: [net.minecraft.tileentity.AbstractFurnaceTileEntity:getRecipe:597]: net.minecraft.item.crafting.BlastingRecipe@7f9ba394
-[08May2023 13:12:37.821] [Server thread/INFO] [STDOUT/]: [net.minecraft.tileentity.AbstractFurnaceTileEntity:getRecipe:597]: net.minecraft.item.crafting.BlastingRecipe@59cc035d
-[08May2023 13:19:09.423] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ExperienceOrbEntity['Experience Orb'/280184, l='ServerLevel[world]', x=5.48, y=64.94, z=-68.51]
-[08May2023 13:19:09.424] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ExperienceOrbEntity['Experience Orb'/280183, l='ServerLevel[world]', x=5.48, y=64.94, z=-68.51]
-[08May2023 13:29:57.430] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity EntityXPOrbBig['Experience Orb'/285679, l='ServerLevel[world]', x=4.81, y=64.00, z=-69.46]
-[08May2023 13:46:12.323] [Server thread/INFO] [STDOUT/]: [vazkii.akashictome.network.MessageMorphTome:lambda$receive$0:40]: 1 book_galactic
-[08May2023 13:46:19.611] [Server thread/INFO] [STDOUT/]: [vazkii.akashictome.network.MessageMorphTome:lambda$receive$0:40]: 1 manual
-[08May2023 13:48:28.713] [Server thread/INFO] [STDOUT/]: [vazkii.akashictome.network.MessageMorphTome:lambda$receive$0:40]: 1 encyclopedia
-[08May2023 14:03:41.212] [Server thread/INFO] [FTB Utilities Backups/]: Server Backup started!
-[08May2023 14:03:41.213] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Server Backup started!
-[08May2023 14:03:41.256] [Thread-1424/INFO] [FTB Utilities Backups/]: Deleting old backup: 2023-05-06-22-22-48.zip
-[08May2023 14:03:41.260] [Thread-1424/INFO] [FTB Utilities Backups/]: Backing up 251 files...
-[08May2023 14:03:41.261] [Thread-1424/INFO] [FTB Utilities Backups/]: Compressing 251 files...
-[08May2023 14:03:41.779] [Thread-1424/INFO] [FTB Utilities Backups/]: Done compressing in 519ms seconds (8.5MB)!
-[08May2023 14:03:41.780] [Thread-1424/INFO] [FTB Utilities Backups/]: Created /root/minecraft/Minecraft_Ragna_Mod_VI/backups/2023-05-08-14-03-41.zip from /root/minecraft/Minecraft_Ragna_Mod_VI/world
-[08May2023 14:03:41.781] [Thread-1424/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Server backup done in 534ms! (8.5MB | 99.5MB)
-[08May2023 14:30:31.931] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity EntityXPOrbBig['Experience Orb'/305896, l='ServerLevel[world]', x=5.32, y=65.28, z=-70.10]
-[08May2023 14:47:27.845] [Netty Epoll Server IO #12/INFO] [codechicken.lib.config.ConfigSyncManager/]: Skipping config sync, No mods have registered a syncable config.
-[08May2023 14:47:28.927] [User Authenticator #9/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player TheNukleon is a42be00a-a5f4-47b0-8013-50d3b1c3c169
-[08May2023 14:47:44.687] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@3459e378
-[08May2023 14:47:44.814] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: TheNukleon[/146.70.194.35:49598] logged in with entity id 311395 at (46.450700338321795, 64.0, 11.394479814598641)
-[08May2023 14:47:44.856] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: TheNukleon joined the game
-[08May2023 14:47:45.074] [Server thread/INFO] [mcjty.lib.setup.DefaultModSetup/]: Client logged in: sending dimlet packages
-[08May2023 14:47:45.080] [Server thread/INFO] [Enigmatic Legacy/INFO]: Synchronizing omniconfig files to TheNukleon...
-[08May2023 14:47:45.080] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticlegacy-common.omniconf
-[08May2023 14:47:45.082] [Server thread/INFO] [Enigmatic Legacy/INFO]: Granting starter gear to TheNukleon
-[08May2023 14:47:45.592] [Netty Epoll Server IO #12/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize dev.maxneedssnacks.interactio.command.RegistryArgument@46a2aba3 (class dev.maxneedssnacks.interactio.command.RegistryArgument) - will not be sent to client!
-[08May2023 14:47:45.670] [Netty Epoll Server IO #12/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize dev.maxneedssnacks.interactio.command.RegistryArgument@46a2aba3 (class dev.maxneedssnacks.interactio.command.RegistryArgument) - will not be sent to client!
-[08May2023 14:49:27.324] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <TheNukleon> Bonjour
-[08May2023 14:50:05.118] [Server thread/INFO] [STDOUT/]: [net.minecraft.tileentity.AbstractFurnaceTileEntity:getRecipe:597]: null
-[08May2023 14:50:19.071] [Server thread/INFO] [STDOUT/]: [net.minecraft.tileentity.AbstractFurnaceTileEntity:getRecipe:597]: null
-[08May2023 14:50:48.802] [Server thread/INFO] [STDOUT/]: [net.minecraft.tileentity.AbstractFurnaceTileEntity:getRecipe:597]: null
-[08May2023 14:57:25.463] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Boryke> coucou
-[08May2023 14:57:43.062] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Boryke> discord ? j e texplique ce que j'ai fais
-[08May2023 14:57:50.964] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <TheNukleon> nan
-[08May2023 15:00:49.768] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Boryke> regard
-[08May2023 15:01:02.636] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <TheNukleon> mec y a plus aucun interet a jouer avec toi
-[08May2023 15:01:07.736] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <TheNukleon> t'as fini le jeu
-[08May2023 15:01:15.984] [Netty Epoll Server IO #18/INFO] [codechicken.lib.config.ConfigSyncManager/]: Skipping config sync, No mods have registered a syncable config.
-[08May2023 15:01:16.529] [User Authenticator #10/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player Three_Dogs is 492f5c7e-4236-4311-a63f-bef12f4ecabd
-[08May2023 15:01:27.268] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Boryke> viens en vocal je texplique pourquoi ca a grandis
-[08May2023 15:01:31.483] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@75467382
-[08May2023 15:01:31.587] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Three_Dogs[/91.173.249.40:47893] logged in with entity id 316068 at (14.008959566475065, 64.0, -4.284677475187716)
-[08May2023 15:01:31.609] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Three_Dogs joined the game
-[08May2023 15:01:31.736] [Server thread/INFO] [mcjty.lib.setup.DefaultModSetup/]: Client logged in: sending dimlet packages
-[08May2023 15:01:31.737] [Server thread/INFO] [Enigmatic Legacy/INFO]: Synchronizing omniconfig files to Three_Dogs...
-[08May2023 15:01:31.737] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticlegacy-common.omniconf
-[08May2023 15:01:31.738] [Server thread/INFO] [Enigmatic Legacy/INFO]: Granting starter gear to Three_Dogs
-[08May2023 15:01:32.237] [Netty Epoll Server IO #18/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize dev.maxneedssnacks.interactio.command.RegistryArgument@46a2aba3 (class dev.maxneedssnacks.interactio.command.RegistryArgument) - will not be sent to client!
-[08May2023 15:01:32.293] [Netty Epoll Server IO #18/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize dev.maxneedssnacks.interactio.command.RegistryArgument@46a2aba3 (class dev.maxneedssnacks.interactio.command.RegistryArgument) - will not be sent to client!
-[08May2023 15:02:19.165] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity EntityXPOrbBig['Experience Orb'/316308, l='ServerLevel[world]', x=4.81, y=64.00, z=-69.65]
-[08May2023 15:04:53.238] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Three_Dogs> wtf zetes parti en couilles, je reconnais
-[08May2023 15:05:05.121] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Boryke> discord
-[08May2023 15:05:05.551] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <TheNukleon> ah j'suis pas le seul a le dire
-[08May2023 15:05:16.270] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Three_Dogs> Je peux pas voc, je reviens maybe ce soir mais voila
-[08May2023 15:05:30.941] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Three_Dogs> Je voulais juste voir l'ampleur du bordel
-[08May2023 15:05:57.421] [Netty Epoll Server IO #18/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize dev.maxneedssnacks.interactio.command.RegistryArgument@46a2aba3 (class dev.maxneedssnacks.interactio.command.RegistryArgument) - will not be sent to client!
-[08May2023 15:06:14.884] [Netty Epoll Server IO #18/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize dev.maxneedssnacks.interactio.command.RegistryArgument@46a2aba3 (class dev.maxneedssnacks.interactio.command.RegistryArgument) - will not be sent to client!
-[08May2023 15:06:27.509] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Boryke lost connection: Disconnected
-[08May2023 15:06:27.509] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Boryke left the game
-[08May2023 15:07:18.306] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Three_Dogs moved wrongly!
-[08May2023 15:07:24.471] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Three_Dogs moved wrongly!
-[08May2023 15:07:35.163] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <TheNukleon> j'crois il a ragequit
-[08May2023 15:07:48.930] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Three_Dogs> ya grv moyen
-[08May2023 15:08:02.670] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Three_Dogs> Bon je reviens plus tard, mais gg pour le taf hein
-[08May2023 15:08:04.090] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <TheNukleon> j'lui ait dit qu'il avait finis le game X)
-[08May2023 15:08:16.761] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <TheNukleon> ++
-[08May2023 15:08:20.396] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Three_Dogs> En vrai, vraiment pas loin hein xD
-[08May2023 15:08:23.876] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Three_Dogs> ++
-[08May2023 15:08:24.812] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Three_Dogs lost connection: Disconnected
-[08May2023 15:08:24.813] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Three_Dogs left the game
-[08May2023 15:23:17.157] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity EntityXPOrbBig['Experience Orb'/323663, l='ServerLevel[world]', x=4.81, y=64.00, z=-69.73]
-[08May2023 15:23:47.677] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity EntityXPOrbBig['Experience Orb'/323887, l='ServerLevel[world]', x=4.81, y=64.00, z=-69.59]
-[08May2023 15:26:45.424] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity EntityXPOrbBig['Experience Orb'/325031, l='ServerLevel[world]', x=3.82, y=65.59, z=-67.87]
-[08May2023 15:31:27.523] [Server thread/INFO] [STDOUT/]: [net.minecraft.tileentity.AbstractFurnaceTileEntity:getRecipe:597]: net.minecraft.item.crafting.BlastingRecipe@7dab9b0
-[08May2023 15:36:30.463] [Netty Epoll Server IO #4/INFO] [codechicken.lib.config.ConfigSyncManager/]: Skipping config sync, No mods have registered a syncable config.
-[08May2023 15:36:31.224] [User Authenticator #11/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player Boryke is 34808b76-cda2-4493-bfc3-8a4cab7f56e7
-[08May2023 15:36:46.838] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@af51401
-[08May2023 15:36:46.981] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Boryke[/92.148.245.72:53462] logged in with entity id 327864 at (7.352715004205647, 64.0, 36.406027467128034)
-[08May2023 15:36:47.004] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Boryke joined the game
-[08May2023 15:36:47.047] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Air'/327863, l='ServerLevel[world]', x=29.62, y=65.47, z=40.41]
-[08May2023 15:36:47.171] [Server thread/INFO] [mcjty.lib.setup.DefaultModSetup/]: Client logged in: sending dimlet packages
-[08May2023 15:36:47.177] [Server thread/INFO] [Enigmatic Legacy/INFO]: Synchronizing omniconfig files to Boryke...
-[08May2023 15:36:47.178] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticlegacy-common.omniconf
-[08May2023 15:36:47.180] [Server thread/INFO] [Enigmatic Legacy/INFO]: Granting starter gear to Boryke
-[08May2023 15:36:47.791] [Netty Epoll Server IO #4/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize dev.maxneedssnacks.interactio.command.RegistryArgument@46a2aba3 (class dev.maxneedssnacks.interactio.command.RegistryArgument) - will not be sent to client!
-[08May2023 15:36:47.857] [Netty Epoll Server IO #4/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize dev.maxneedssnacks.interactio.command.RegistryArgument@46a2aba3 (class dev.maxneedssnacks.interactio.command.RegistryArgument) - will not be sent to client!
-[08May2023 15:38:24.743] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <TheNukleon> quand même gg pour le taff
-[08May2023 15:44:24.970] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <TheNukleon> merci c'est quoi ?
-[08May2023 15:44:37.476] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Boryke> de la bouffe
-[08May2023 15:44:45.164] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <TheNukleon> mdrrr c'est pour être aimable ?
-[08May2023 15:45:00.219] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Boryke> yas de l'andesite maintenant
-[08May2023 15:45:38.435] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <TheNukleon> tu fais quoi maintenant ?
-[08May2023 15:46:06.060] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Boryke> ferme a kelp je pense$
-[08May2023 15:46:22.080] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <TheNukleon> auto ?
-[08May2023 15:46:26.602] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Boryke> ouai
-[08May2023 15:46:34.141] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <TheNukleon> ok cool et après ?
-[08May2023 15:46:44.235] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <TheNukleon> c'est facile ça non ?
-[08May2023 15:46:51.697] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <TheNukleon> ça pousse tout seul
-[08May2023 15:47:18.011] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Boryke> un peut de creat je vais essayer un truc que j'ai jamais utilisé
-[08May2023 15:47:45.023] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <TheNukleon> si jamais je suis entrain de craft tout ce qu'il demande dans le guide
-[08May2023 15:48:04.543] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <TheNukleon> y a peut-être des trucs que tu peux t'économiser
-[08May2023 15:48:22.032] [Server thread/INFO] [STDOUT/]: [net.minecraft.tileentity.AbstractFurnaceTileEntity:getRecipe:597]: net.minecraft.item.crafting.FurnaceRecipe@45ebd6
-[08May2023 15:48:30.450] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Boryke> il me faut les gantly craft
-[08May2023 15:48:38.935] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Boryke> gantry chaft
-[08May2023 15:49:00.092] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <TheNukleon> oh ok combien ?
-[08May2023 15:49:29.296] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Boryke> 11 environs
-[08May2023 15:49:43.292] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <TheNukleon> les 2
-[08May2023 15:49:57.496] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Boryke> pas le premier j'ai mal ecris le noms
-[08May2023 15:50:18.086] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <TheNukleon> ben y a le gantry shaft et le gantry carriage
-[08May2023 15:50:24.245] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Boryke> ouaiop
-[08May2023 15:50:39.415] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <TheNukleon> pas besoin du carriage ?
-[08May2023 15:50:42.463] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Boryke> si
-[08May2023 15:52:38.919] [Server thread/INFO] [STDOUT/]: [net.minecraft.tileentity.AbstractFurnaceTileEntity:getRecipe:597]: net.minecraft.item.crafting.BlastingRecipe@59cc035d
-[08May2023 15:52:49.945] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity EntityXPOrbBig['Experience Orb'/333917, l='ServerLevel[world]', x=4.25, y=64.00, z=-69.60]
-[08May2023 15:55:46.189] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity EntityXPOrbBig['Experience Orb'/334721, l='ServerLevel[world]', x=4.81, y=64.56, z=-68.71]
-[08May2023 16:03:41.217] [Server thread/INFO] [FTB Utilities Backups/]: Server Backup started!
-[08May2023 16:03:41.218] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Server Backup started!
-[08May2023 16:03:41.413] [Thread-1502/INFO] [FTB Utilities Backups/]: Deleting old backup: 2023-05-07-00-22-48.zip
-[08May2023 16:03:41.418] [Thread-1502/INFO] [FTB Utilities Backups/]: Backing up 251 files...
-[08May2023 16:03:41.418] [Thread-1502/INFO] [FTB Utilities Backups/]: Compressing 251 files...
-[08May2023 16:03:41.921] [Thread-1502/INFO] [FTB Utilities Backups/]: Done compressing in 503ms seconds (8.6MB)!
-[08May2023 16:03:41.922] [Thread-1502/INFO] [FTB Utilities Backups/]: Created /root/minecraft/Minecraft_Ragna_Mod_VI/backups/2023-05-08-16-03-41.zip from /root/minecraft/Minecraft_Ragna_Mod_VI/world
-[08May2023 16:03:41.923] [Thread-1502/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Server backup done in 530ms! (8.6MB | 100.0MB)
-[08May2023 16:07:19.035] [Server thread/INFO] [STDOUT/]: [net.minecraft.tileentity.AbstractFurnaceTileEntity:getRecipe:597]: net.minecraft.item.crafting.BlastingRecipe@59cc035d
-[08May2023 16:08:32.832] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Boryke> desolé
-[08May2023 16:08:36.877] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <TheNukleon> ?
-[08May2023 16:08:46.587] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Boryke> j'ai pas pris de t'es items ?
-[08May2023 16:09:00.812] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <TheNukleon> nope j'essayais de t'en donner X)
-[08May2023 16:09:11.785] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <TheNukleon> mais je crois que tu les as
-[08May2023 16:09:33.440] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity EntityXPOrbBig['Experience Orb'/339555, l='ServerLevel[world]', x=5.43, y=64.55, z=-68.54]
-[08May2023 16:09:39.475] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Boryke> c'etait quoi ?
-[08May2023 16:09:47.329] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <TheNukleon> les gantry shaft
-[08May2023 16:09:54.477] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Boryke> ah oui merci
-[08May2023 16:10:04.412] [Server thread/INFO] [morpheus/]: TheNukleon is now sleeping. 1/2 (50%)
-[08May2023 16:16:13.261] [Server thread/INFO] [STDOUT/]: [net.minecraft.tileentity.AbstractFurnaceTileEntity:getRecipe:597]: net.minecraft.item.crafting.BlastingRecipe@59cc035d
-[08May2023 16:17:25.170] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Boryke> j'ai un sitème quasi auto pour le stees de create
-[08May2023 16:17:49.717] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <TheNukleon> le quoi ?
-[08May2023 16:17:58.991] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Boryke> je te montre
-[08May2023 16:19:24.063] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Boryke> faut juste du carburant
-[08May2023 16:19:41.550] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Boryke> ah pas de clique droit sur la chut
-[08May2023 16:19:51.572] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <TheNukleon> ya lui aussi
-[08May2023 16:19:59.718] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <TheNukleon> ou tu met juste du carburant
-[08May2023 16:20:18.328] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Boryke> il a une interface ?
-[08May2023 16:20:22.849] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <TheNukleon> nope
-[08May2023 16:20:33.613] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Boryke> ah ben je conaissais pas
-[08May2023 16:20:54.917] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <TheNukleon> il chauffe en mettant n'importe quoi dedans
-[08May2023 16:21:09.024] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Boryke> okay
-[08May2023 16:21:20.926] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <TheNukleon> je te le laisse si tu veux
-[08May2023 16:21:32.314] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <TheNukleon> ah X)
-[08May2023 16:21:57.364] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <TheNukleon> en shiftans tu vois ce qu'il y a dedans
-[08May2023 16:22:00.964] [Server thread/INFO] [STDOUT/]: [net.minecraft.tileentity.AbstractFurnaceTileEntity:getRecipe:597]: net.minecraft.item.crafting.BlastingRecipe@59cc035d
-[08May2023 16:22:23.925] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Boryke> par contre il produit deux fois moins que l'autre
-[08May2023 16:22:41.518] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <TheNukleon> nan le double
-[08May2023 16:22:55.372] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <TheNukleon> 290 tixcks
-[08May2023 16:23:03.926] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Boryke> dfaut regarder la
-[08May2023 16:23:11.496] [Server thread/INFO] [STDOUT/]: [net.minecraft.tileentity.AbstractFurnaceTileEntity:getRecipe:597]: net.minecraft.item.crafting.BlastingRecipe@59cc035d
-[08May2023 16:23:21.193] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Boryke> 32 768
-[08May2023 16:23:36.633] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Boryke> 16 384
-[08May2023 16:23:37.149] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <TheNukleon> ah ouais t'as raisopn
-[08May2023 16:23:46.193] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <TheNukleon> quel merde
-[08May2023 16:23:55.800] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Boryke> booo
-[08May2023 16:24:16.263] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <TheNukleon> ... j'vais voir pour mieux
-[08May2023 16:25:35.081] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <TheNukleon> ah c'est comme un four standard
-[08May2023 16:30:29.314] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: TheNukleon has made the advancement [A Pair of Giants]
-[08May2023 16:30:37.653] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: TheNukleon has made the advancement [Ice Bucket Challenge]
-[08May2023 16:36:28.939] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Boryke> t'as le carriage ?
-[08May2023 16:36:35.499] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <TheNukleon> ah nan pas encore
-[08May2023 16:36:42.069] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <TheNukleon> tu veux que je le fasse ?
-[08May2023 16:36:56.190] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Boryke> okay j'ai cru l'avoir perdu
-[08May2023 16:42:15.113] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Boryke> t'aurais pas mes casing ?
-[08May2023 16:42:16.802] [RCON Listener #1/INFO] [net.minecraft.network.rcon.RConThread/]: Thread RCON Client /141.148.242.147 started
-[08May2023 16:42:17.014] [RCON Client /141.148.242.147 #16/INFO] [net.minecraft.network.rcon.ClientThread/]: Thread RCON Client /141.148.242.147 shutting down
-[08May2023 16:42:36.243] [RCON Listener #1/INFO] [net.minecraft.network.rcon.RConThread/]: Thread RCON Client /141.148.242.147 started
-[08May2023 16:42:36.485] [RCON Client /141.148.242.147 #17/INFO] [net.minecraft.network.rcon.ClientThread/]: Thread RCON Client /141.148.242.147 shutting down
-[08May2023 16:42:41.546] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <TheNukleon> elles ont du se mélanger au miennes
-[08May2023 16:42:53.736] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <TheNukleon> t'en avais combien ?
-[08May2023 16:42:57.666] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Boryke> 32
-[08May2023 16:43:08.851] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Boryke> merci
-[08May2023 16:47:14.235] [Server thread/INFO] [STDOUT/]: [net.minecraft.tileentity.AbstractFurnaceTileEntity:getRecipe:597]: net.minecraft.item.crafting.FurnaceRecipe@45ebd6
-[08May2023 16:49:26.434] [Server thread/INFO] [STDOUT/]: [net.minecraft.tileentity.AbstractFurnaceTileEntity:getRecipe:597]: net.minecraft.item.crafting.FurnaceRecipe@45ebd6
-[08May2023 16:55:22.499] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Gunpowder'/354996, l='ServerLevel[world]', x=4.83, y=64.16, z=-69.22]
-[08May2023 16:59:32.962] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Ender Pearl'/356707, l='ServerLevel[world]', x=5.27, y=65.10, z=-69.03]
-[08May2023 17:02:49.437] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <TheNukleon> mais TG le AFK je te voi s!!!
-[08May2023 17:03:02.184] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Boryke> ?
-[08May2023 17:03:13.647] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <TheNukleon> t'as pas la notif que je suis afk ?
-[08May2023 17:05:47.243] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Boryke has made the advancement [Jellyfisherman]
-[08May2023 17:15:02.389] [Server thread/INFO] [STDOUT/]: [net.minecraft.tileentity.AbstractFurnaceTileEntity:getRecipe:597]: net.minecraft.item.crafting.FurnaceRecipe@45ebd6
-[08May2023 17:17:45.323] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Boryke fell out of the world
-[08May2023 17:17:46.734] [Netty Epoll Server IO #4/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize dev.maxneedssnacks.interactio.command.RegistryArgument@46a2aba3 (class dev.maxneedssnacks.interactio.command.RegistryArgument) - will not be sent to client!
-[08May2023 17:17:55.767] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity EntityXPOrbBig['Experience Orb'/363727, l='ServerLevel[world]', x=4.45, y=65.40, z=-68.56]
-[08May2023 17:17:57.014] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <TheNukleon> Ah
-[08May2023 17:18:01.812] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: TheNukleon has made the advancement [Take Aim]
-[08May2023 17:20:19.212] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: TheNukleon was processed by Crushing Wheels
-[08May2023 17:20:20.231] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Rotten Flesh'/364749, l='ServerLevel[world]', x=4.94, y=64.33, z=-69.16]
-[08May2023 17:20:21.615] [Netty Epoll Server IO #12/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize dev.maxneedssnacks.interactio.command.RegistryArgument@46a2aba3 (class dev.maxneedssnacks.interactio.command.RegistryArgument) - will not be sent to client!
-[08May2023 17:20:23.043] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Boryke> ah
-[08May2023 17:20:24.968] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <TheNukleon> oups
-[08May2023 17:20:49.684] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Boryke> oui ça fait mal
-[08May2023 17:21:04.001] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <TheNukleon> dans le doute va pas dedans
-[08May2023 17:26:04.713] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: TheNukleon has completed the challenge [High levels of Stress]
-[08May2023 17:42:24.033] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3980ms or 79 ticks behind
-[08May2023 17:42:57.583] [Server thread/INFO] [STDOUT/]: [net.minecraft.tileentity.AbstractFurnaceTileEntity:getRecipe:597]: net.minecraft.item.crafting.BlastingRecipe@7336074d
-[08May2023 17:43:02.147] [Server thread/INFO] [STDOUT/]: [net.minecraft.tileentity.AbstractFurnaceTileEntity:getRecipe:597]: null
-[08May2023 17:43:42.813] [Server thread/INFO] [STDOUT/]: [net.minecraft.tileentity.AbstractFurnaceTileEntity:getRecipe:597]: net.minecraft.item.crafting.BlastingRecipe@59cc035d
-[08May2023 17:44:00.952] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity EntityXPOrbBig['Experience Orb'/371593, l='ServerLevel[world]', x=4.86, y=64.00, z=-69.32]
-[08May2023 17:47:13.697] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity EntityXPOrbBig['Experience Orb'/372277, l='ServerLevel[world]', x=5.75, y=65.48, z=-68.81]
-[08May2023 17:52:17.329] [Netty Epoll Server IO #12/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize dev.maxneedssnacks.interactio.command.RegistryArgument@46a2aba3 (class dev.maxneedssnacks.interactio.command.RegistryArgument) - will not be sent to client!
-[08May2023 17:52:17.417] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: TheNukleon has made the advancement [We Need to Go Deeper]
-[08May2023 17:53:38.325] [Netty Epoll Server IO #12/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize dev.maxneedssnacks.interactio.command.RegistryArgument@46a2aba3 (class dev.maxneedssnacks.interactio.command.RegistryArgument) - will not be sent to client!
-[08May2023 17:57:15.788] [Server thread/INFO] [STDOUT/]: [net.minecraft.tileentity.AbstractFurnaceTileEntity:getRecipe:597]: net.minecraft.item.crafting.BlastingRecipe@7336074d
-[08May2023 17:57:46.060] [Server thread/INFO] [STDOUT/]: [net.minecraft.tileentity.AbstractFurnaceTileEntity:getRecipe:597]: net.minecraft.item.crafting.BlastingRecipe@59cc035d
-[08May2023 18:03:41.265] [Server thread/INFO] [FTB Utilities Backups/]: Server Backup started!
-[08May2023 18:03:41.265] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Server Backup started!
-[08May2023 18:03:41.327] [Thread-1579/INFO] [FTB Utilities Backups/]: Deleting old backup: 2023-05-07-12-05-17.zip
-[08May2023 18:03:41.332] [Thread-1579/INFO] [FTB Utilities Backups/]: Backing up 255 files...
-[08May2023 18:03:41.332] [Thread-1579/INFO] [FTB Utilities Backups/]: Compressing 255 files...
-[08May2023 18:03:41.832] [Thread-1579/INFO] [FTB Utilities Backups/]: Done compressing in 500ms seconds (8.7MB)!
-[08May2023 18:03:41.833] [Thread-1579/INFO] [FTB Utilities Backups/]: Created /root/minecraft/Minecraft_Ragna_Mod_VI/backups/2023-05-08-18-03-41.zip from /root/minecraft/Minecraft_Ragna_Mod_VI/world
-[08May2023 18:03:41.833] [Thread-1579/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Server backup done in 513ms! (8.7MB | 100.6MB)
-[08May2023 18:04:08.893] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: TheNukleon has made the advancement [A Stunning Fixation]
-[08May2023 18:04:08.893] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: TheNukleon has made the advancement [How'd You Get This?]
-[08May2023 18:04:08.894] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: TheNukleon has made the advancement [It Certainly Seems Rare...]
-[08May2023 18:04:20.610] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: TheNukleon has reached the goal [Wands of Destruction]
-[08May2023 18:06:39.540] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Boryke> je re
-[08May2023 18:06:41.095] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Boryke lost connection: Disconnected
-[08May2023 18:06:41.095] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Boryke left the game
-[08May2023 18:06:41.929] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <TheNukleon> ok
-[08May2023 18:15:25.367] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity EntityXPOrbBig['Experience Orb'/381046, l='ServerLevel[world]', x=4.81, y=64.00, z=-69.31]
-[08May2023 18:19:52.625] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: TheNukleon has made the advancement [Rotten to the Core]
-[08May2023 18:41:31.489] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: TheNukleon has reached the goal [The Copper Age]
-[08May2023 18:50:43.662] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: TheNukleon lost connection: Disconnected
-[08May2023 18:50:43.663] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: TheNukleon left the game
-[08May2023 19:36:34.752] [Netty Epoll Server IO #11/INFO] [codechicken.lib.config.ConfigSyncManager/]: Skipping config sync, No mods have registered a syncable config.
-[08May2023 19:38:17.405] [Server thread/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: com.mojang.authlib.GameProfile@66118a7f[id=<null>,name=Boryke,properties={},legacy=false] (/92.148.245.72:59773) lost connection: Disconnected
-[08May2023 19:38:19.540] [Netty Epoll Server IO #13/INFO] [codechicken.lib.config.ConfigSyncManager/]: Skipping config sync, No mods have registered a syncable config.
-[08May2023 19:38:20.076] [User Authenticator #12/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player Boryke is 34808b76-cda2-4493-bfc3-8a4cab7f56e7
-[08May2023 19:38:34.949] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@7b3f3244
-[08May2023 19:38:35.115] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Boryke[/92.148.245.72:59833] logged in with entity id 391508 at (-32.377623840921736, 64.0, -44.12340769703107)
-[08May2023 19:38:35.148] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Boryke joined the game
-[08May2023 19:38:35.364] [Server thread/INFO] [mcjty.lib.setup.DefaultModSetup/]: Client logged in: sending dimlet packages
-[08May2023 19:38:35.366] [Server thread/INFO] [Enigmatic Legacy/INFO]: Synchronizing omniconfig files to Boryke...
-[08May2023 19:38:35.367] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticlegacy-common.omniconf
-[08May2023 19:38:35.367] [Server thread/INFO] [Enigmatic Legacy/INFO]: Granting starter gear to Boryke
-[08May2023 19:38:35.832] [Netty Epoll Server IO #13/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize dev.maxneedssnacks.interactio.command.RegistryArgument@46a2aba3 (class dev.maxneedssnacks.interactio.command.RegistryArgument) - will not be sent to client!
-[08May2023 19:38:35.908] [Netty Epoll Server IO #13/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize dev.maxneedssnacks.interactio.command.RegistryArgument@46a2aba3 (class dev.maxneedssnacks.interactio.command.RegistryArgument) - will not be sent to client!
-[08May2023 19:46:55.992] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Air'/393694, l='ServerLevel[world]', x=29.43, y=65.38, z=40.61]
-[08May2023 20:00:53.439] [Server thread/INFO] [STDOUT/]: [net.minecraft.tileentity.AbstractFurnaceTileEntity:getRecipe:597]: net.minecraft.item.crafting.BlastingRecipe@59cc035d
-[08May2023 20:03:41.310] [Server thread/INFO] [FTB Utilities Backups/]: Server Backup started!
-[08May2023 20:03:41.311] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Server Backup started!
-[08May2023 20:03:41.349] [Thread-1645/INFO] [FTB Utilities Backups/]: Deleting old backup: 2023-05-07-14-05-17.zip
-[08May2023 20:03:41.353] [Thread-1645/INFO] [FTB Utilities Backups/]: Backing up 255 files...
-[08May2023 20:03:41.354] [Thread-1645/INFO] [FTB Utilities Backups/]: Compressing 255 files...
-[08May2023 20:03:41.851] [Thread-1645/INFO] [FTB Utilities Backups/]: Done compressing in 497ms seconds (8.7MB)!
-[08May2023 20:03:41.851] [Thread-1645/INFO] [FTB Utilities Backups/]: Created /root/minecraft/Minecraft_Ragna_Mod_VI/backups/2023-05-08-20-03-41.zip from /root/minecraft/Minecraft_Ragna_Mod_VI/world
-[08May2023 20:03:41.851] [Thread-1645/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Server backup done in 508ms! (8.7MB | 101.2MB)
-[08May2023 20:36:20.613] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Boryke has made the advancement [Despite All My Rage...]
-[08May2023 20:41:35.087] [RCON Listener #1/INFO] [net.minecraft.network.rcon.RConThread/]: Thread RCON Client /141.148.242.147 started
-[08May2023 20:41:35.292] [RCON Client /141.148.242.147 #18/INFO] [net.minecraft.network.rcon.ClientThread/]: Thread RCON Client /141.148.242.147 shutting down
-[08May2023 20:42:40.139] [RCON Listener #1/INFO] [net.minecraft.network.rcon.RConThread/]: Thread RCON Client /141.148.242.147 started
-[08May2023 20:42:40.344] [RCON Client /141.148.242.147 #19/INFO] [net.minecraft.network.rcon.ClientThread/]: Thread RCON Client /141.148.242.147 shutting down
-[08May2023 21:00:09.025] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Marked chunk [0, 0] in minecraft:overworld to be force loaded
-[08May2023 21:10:29.143] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Boryke has made the advancement [Into Fire]
-[08May2023 21:13:13.669] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Bone'/416064, l='ServerLevel[world]', x=4.94, y=64.33, z=-69.42]
-[08May2023 21:17:30.659] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Boryke lost connection: Disconnected
-[08May2023 21:17:30.660] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Boryke left the game
-[08May2023 22:03:41.358] [Server thread/INFO] [FTB Utilities Backups/]: Server Backup started!
-[08May2023 22:03:41.359] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Server Backup started!
-[08May2023 22:03:41.367] [Thread-1716/INFO] [FTB Utilities Backups/]: Deleting old backup: 2023-05-07-16-05-17.zip
-[08May2023 22:03:41.374] [Thread-1716/INFO] [FTB Utilities Backups/]: Backing up 256 files...
-[08May2023 22:03:41.374] [Thread-1716/INFO] [FTB Utilities Backups/]: Compressing 256 files...
-[08May2023 22:03:41.891] [Thread-1716/INFO] [FTB Utilities Backups/]: Done compressing in 517ms seconds (8.7MB)!
-[08May2023 22:03:41.891] [Thread-1716/INFO] [FTB Utilities Backups/]: Created /root/minecraft/Minecraft_Ragna_Mod_VI/backups/2023-05-08-22-03-41.zip from /root/minecraft/Minecraft_Ragna_Mod_VI/world
-[08May2023 22:03:41.892] [Thread-1716/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Server backup done in 532ms! (8.7MB | 101.7MB)
+[09May2023 00:41:40.547] [RCON Listener #1/INFO] [net.minecraft.network.rcon.RConThread/]: Thread RCON Client /141.148.242.147 started
+[09May2023 00:41:40.752] [RCON Client /141.148.242.147 #20/INFO] [net.minecraft.network.rcon.ClientThread/]: Thread RCON Client /141.148.242.147 shutting down
+[09May2023 00:42:42.031] [RCON Listener #1/INFO] [net.minecraft.network.rcon.RConThread/]: Thread RCON Client /141.148.242.147 started
+[09May2023 00:42:42.241] [RCON Client /141.148.242.147 #21/INFO] [net.minecraft.network.rcon.ClientThread/]: Thread RCON Client /141.148.242.147 shutting down
+[09May2023 04:42:13.958] [RCON Listener #1/INFO] [net.minecraft.network.rcon.RConThread/]: Thread RCON Client /141.148.242.147 started
+[09May2023 04:42:14.177] [RCON Client /141.148.242.147 #22/INFO] [net.minecraft.network.rcon.ClientThread/]: Thread RCON Client /141.148.242.147 shutting down
+[09May2023 04:42:36.870] [RCON Listener #1/INFO] [net.minecraft.network.rcon.RConThread/]: Thread RCON Client /141.148.242.147 started
+[09May2023 04:42:37.089] [RCON Client /141.148.242.147 #23/INFO] [net.minecraft.network.rcon.ClientThread/]: Thread RCON Client /141.148.242.147 shutting down
+[09May2023 08:41:37.156] [RCON Listener #1/INFO] [net.minecraft.network.rcon.RConThread/]: Thread RCON Client /141.148.242.147 started
+[09May2023 08:41:37.361] [RCON Client /141.148.242.147 #24/INFO] [net.minecraft.network.rcon.ClientThread/]: Thread RCON Client /141.148.242.147 shutting down
+[09May2023 08:42:36.889] [RCON Listener #1/INFO] [net.minecraft.network.rcon.RConThread/]: Thread RCON Client /141.148.242.147 started
+[09May2023 08:42:37.099] [RCON Client /141.148.242.147 #25/INFO] [net.minecraft.network.rcon.ClientThread/]: Thread RCON Client /141.148.242.147 shutting down
+[09May2023 12:41:34.774] [RCON Listener #1/INFO] [net.minecraft.network.rcon.RConThread/]: Thread RCON Client /141.148.242.147 started
+[09May2023 12:41:34.982] [RCON Client /141.148.242.147 #26/INFO] [net.minecraft.network.rcon.ClientThread/]: Thread RCON Client /141.148.242.147 shutting down
+[09May2023 12:42:40.601] [RCON Listener #1/INFO] [net.minecraft.network.rcon.RConThread/]: Thread RCON Client /141.148.242.147 started
+[09May2023 12:42:40.812] [RCON Client /141.148.242.147 #27/INFO] [net.minecraft.network.rcon.ClientThread/]: Thread RCON Client /141.148.242.147 shutting down
+[09May2023 15:17:31.677] [Netty Epoll Server IO #10/INFO] [codechicken.lib.config.ConfigSyncManager/]: Skipping config sync, No mods have registered a syncable config.
+[09May2023 15:17:32.291] [User Authenticator #13/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player Boryke is 34808b76-cda2-4493-bfc3-8a4cab7f56e7
+[09May2023 15:17:46.155] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@73d1f07d
+[09May2023 15:17:46.323] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Boryke[/92.148.245.72:56580] logged in with entity id 440062 at (7.536061701155321, 64.0, 19.769218582861946)
+[09May2023 15:17:46.354] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Boryke joined the game
+[09May2023 15:17:46.500] [Server thread/INFO] [mcjty.lib.setup.DefaultModSetup/]: Client logged in: sending dimlet packages
+[09May2023 15:17:46.502] [Server thread/INFO] [Enigmatic Legacy/INFO]: Synchronizing omniconfig files to Boryke...
+[09May2023 15:17:46.502] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticlegacy-common.omniconf
+[09May2023 15:17:46.503] [Server thread/INFO] [Enigmatic Legacy/INFO]: Granting starter gear to Boryke
+[09May2023 15:17:47.013] [Netty Epoll Server IO #10/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize dev.maxneedssnacks.interactio.command.RegistryArgument@46a2aba3 (class dev.maxneedssnacks.interactio.command.RegistryArgument) - will not be sent to client!
+[09May2023 15:17:47.086] [Netty Epoll Server IO #10/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize dev.maxneedssnacks.interactio.command.RegistryArgument@46a2aba3 (class dev.maxneedssnacks.interactio.command.RegistryArgument) - will not be sent to client!
+[09May2023 15:17:48.055] [Server thread/INFO] [FTB Utilities Backups/]: Server Backup started!
+[09May2023 15:17:48.055] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Server Backup started!
+[09May2023 15:17:48.105] [Thread-2210/INFO] [FTB Utilities Backups/]: Deleting old backup: 2023-05-07-18-05-18.zip
+[09May2023 15:17:48.109] [Thread-2210/INFO] [FTB Utilities Backups/]: Backing up 256 files...
+[09May2023 15:17:48.109] [Thread-2210/INFO] [FTB Utilities Backups/]: Compressing 256 files...
+[09May2023 15:17:48.622] [Thread-2210/INFO] [FTB Utilities Backups/]: Done compressing in 512ms seconds (8.7MB)!
+[09May2023 15:17:48.622] [Thread-2210/INFO] [FTB Utilities Backups/]: Created /root/minecraft/Minecraft_Ragna_Mod_VI/backups/2023-05-09-15-17-48.zip from /root/minecraft/Minecraft_Ragna_Mod_VI/world
+[09May2023 15:17:48.623] [Thread-2210/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Server backup done in 526ms! (8.7MB | 102.1MB)
+[09May2023 15:21:04.061] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Boryke has reached the goal [Titan-Forged]
+[09May2023 15:27:37.521] [Server thread/INFO] [STDOUT/]: [vazkii.akashictome.network.MessageMorphTome:lambda$receive$0:40]: 1 encyclopedia
+[09May2023 16:19:40.359] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Boryke has made the advancement [Jellyfish Jam]
+[09May2023 16:19:40.364] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Boryke has made the advancement [Firmly Grasp It]
+[09May2023 16:20:32.809] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Boryke has made the advancement [Now that we're Men!]
+[09May2023 16:23:54.522] [Server thread/INFO] [STDOUT/]: [vazkii.akashictome.network.MessageMorphTome:lambda$receive$0:40]: 1 guide_book
+[09May2023 16:26:09.764] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Boryke has made the advancement [Bee Safety 101]
+[09May2023 16:28:02.211] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Boryke has made the advancement [You Put Bees in This]
+[09May2023 16:29:51.059] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Boryke has reached the goal [Caught One]
+[09May2023 16:36:45.359] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Boryke has made the advancement [The Secrets of Enchanting]
+[09May2023 16:41:46.078] [RCON Listener #1/INFO] [net.minecraft.network.rcon.RConThread/]: Thread RCON Client /141.148.242.147 started
+[09May2023 16:41:46.317] [RCON Client /141.148.242.147 #28/INFO] [net.minecraft.network.rcon.ClientThread/]: Thread RCON Client /141.148.242.147 shutting down
+[09May2023 16:42:38.701] [RCON Listener #1/INFO] [net.minecraft.network.rcon.RConThread/]: Thread RCON Client /141.148.242.147 started
+[09May2023 16:42:38.913] [RCON Client /141.148.242.147 #29/INFO] [net.minecraft.network.rcon.ClientThread/]: Thread RCON Client /141.148.242.147 shutting down
+[09May2023 16:53:29.667] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Boryke has made the advancement [Hat Collector]
+[09May2023 17:17:48.061] [Server thread/INFO] [FTB Utilities Backups/]: Server Backup started!
+[09May2023 17:17:48.062] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Server Backup started!
+[09May2023 17:17:48.119] [Thread-2269/INFO] [FTB Utilities Backups/]: Deleting old backup: 2023-05-07-20-05-18.zip
+[09May2023 17:17:48.123] [Thread-2269/INFO] [FTB Utilities Backups/]: Backing up 256 files...
+[09May2023 17:17:48.124] [Thread-2269/INFO] [FTB Utilities Backups/]: Compressing 256 files...
+[09May2023 17:17:48.629] [Thread-2269/INFO] [FTB Utilities Backups/]: Done compressing in 506ms seconds (8.7MB)!
+[09May2023 17:17:48.630] [Thread-2269/INFO] [FTB Utilities Backups/]: Created /root/minecraft/Minecraft_Ragna_Mod_VI/backups/2023-05-09-17-17-48.zip from /root/minecraft/Minecraft_Ragna_Mod_VI/world
+[09May2023 17:17:48.630] [Thread-2269/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Server backup done in 519ms! (8.7MB | 102.6MB)
+[09May2023 17:31:38.275] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2972ms or 59 ticks behind
+[09May2023 17:44:22.527] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Boryke fell from a high place
+[09May2023 17:44:24.409] [Netty Epoll Server IO #10/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize dev.maxneedssnacks.interactio.command.RegistryArgument@46a2aba3 (class dev.maxneedssnacks.interactio.command.RegistryArgument) - will not be sent to client!
+[09May2023 17:44:24.532] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Boryke moved too quickly! 8192.0,0.10000000000000853,0.0
+[09May2023 17:44:29.007] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Air'/476993, l='ServerLevel[world]', x=29.46, y=65.42, z=40.38]
+[09May2023 17:49:51.409] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Boryke lost connection: Disconnected
+[09May2023 17:49:51.410] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Boryke left the game
+[09May2023 17:57:30.546] [Netty Epoll Server IO #14/INFO] [codechicken.lib.config.ConfigSyncManager/]: Skipping config sync, No mods have registered a syncable config.
+[09May2023 17:57:33.463] [User Authenticator #14/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player TheNukleon is a42be00a-a5f4-47b0-8013-50d3b1c3c169
+[09May2023 17:57:49.428] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@5d645a18
+[09May2023 17:57:49.547] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: TheNukleon[/146.70.194.42:49408] logged in with entity id 478788 at (50.247177327029085, 65.0, 10.37692837793598)
+[09May2023 17:57:49.571] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: TheNukleon joined the game
+[09May2023 17:57:49.705] [Server thread/INFO] [mcjty.lib.setup.DefaultModSetup/]: Client logged in: sending dimlet packages
+[09May2023 17:57:49.707] [Server thread/INFO] [Enigmatic Legacy/INFO]: Synchronizing omniconfig files to TheNukleon...
+[09May2023 17:57:49.707] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticlegacy-common.omniconf
+[09May2023 17:57:49.707] [Server thread/INFO] [Enigmatic Legacy/INFO]: Granting starter gear to TheNukleon
+[09May2023 17:57:50.172] [Netty Epoll Server IO #14/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize dev.maxneedssnacks.interactio.command.RegistryArgument@46a2aba3 (class dev.maxneedssnacks.interactio.command.RegistryArgument) - will not be sent to client!
+[09May2023 17:57:50.241] [Netty Epoll Server IO #14/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize dev.maxneedssnacks.interactio.command.RegistryArgument@46a2aba3 (class dev.maxneedssnacks.interactio.command.RegistryArgument) - will not be sent to client!
+[09May2023 18:13:41.764] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=8, y=64, z=-27} BlockPos{x=9, y=63, z=-26}
+[09May2023 18:18:34.210] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: TheNukleon lost connection: Disconnected
+[09May2023 18:18:34.211] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: TheNukleon left the game
+[09May2023 19:17:48.107] [Server thread/INFO] [FTB Utilities Backups/]: Server Backup started!
+[09May2023 19:17:48.108] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Server Backup started!
+[09May2023 19:17:48.120] [Thread-2328/INFO] [FTB Utilities Backups/]: Deleting old backup: 2023-05-07-22-05-18.zip
+[09May2023 19:17:48.124] [Thread-2328/INFO] [FTB Utilities Backups/]: Backing up 257 files...
+[09May2023 19:17:48.124] [Thread-2328/INFO] [FTB Utilities Backups/]: Compressing 257 files...
+[09May2023 19:17:48.658] [Thread-2328/INFO] [FTB Utilities Backups/]: Done compressing in 534ms seconds (8.7MB)!
+[09May2023 19:17:48.659] [Thread-2328/INFO] [FTB Utilities Backups/]: Created /root/minecraft/Minecraft_Ragna_Mod_VI/backups/2023-05-09-19-17-48.zip from /root/minecraft/Minecraft_Ragna_Mod_VI/world
+[09May2023 19:17:48.672] [Thread-2328/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Server backup done in 560ms! (8.7MB | 103.0MB)
+[09May2023 19:33:28.861] [Netty Epoll Server IO #10/INFO] [codechicken.lib.config.ConfigSyncManager/]: Skipping config sync, No mods have registered a syncable config.
+[09May2023 19:33:29.608] [User Authenticator #15/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player Boryke is 34808b76-cda2-4493-bfc3-8a4cab7f56e7
+[09May2023 19:33:44.046] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@378263d
+[09May2023 19:33:44.202] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Boryke[/92.148.245.72:53951] logged in with entity id 485231 at (-9.225070609114303, 64.0, 9.942950885996689)
+[09May2023 19:33:44.234] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Boryke joined the game
+[09May2023 19:33:44.402] [Server thread/INFO] [mcjty.lib.setup.DefaultModSetup/]: Client logged in: sending dimlet packages
+[09May2023 19:33:44.404] [Server thread/INFO] [Enigmatic Legacy/INFO]: Synchronizing omniconfig files to Boryke...
+[09May2023 19:33:44.404] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticlegacy-common.omniconf
+[09May2023 19:33:44.405] [Server thread/INFO] [Enigmatic Legacy/INFO]: Granting starter gear to Boryke
+[09May2023 19:33:44.970] [Netty Epoll Server IO #10/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize dev.maxneedssnacks.interactio.command.RegistryArgument@46a2aba3 (class dev.maxneedssnacks.interactio.command.RegistryArgument) - will not be sent to client!
+[09May2023 19:33:45.050] [Netty Epoll Server IO #10/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize dev.maxneedssnacks.interactio.command.RegistryArgument@46a2aba3 (class dev.maxneedssnacks.interactio.command.RegistryArgument) - will not be sent to client!
+[09May2023 19:41:07.762] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Boryke moved wrongly!
+[09May2023 19:51:48.851] [Netty Epoll Server IO #13/INFO] [codechicken.lib.config.ConfigSyncManager/]: Skipping config sync, No mods have registered a syncable config.
+[09May2023 19:51:50.263] [User Authenticator #16/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player TheNukleon is a42be00a-a5f4-47b0-8013-50d3b1c3c169
+[09May2023 19:52:07.183] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@364f3867
+[09May2023 19:52:07.298] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: TheNukleon[/146.70.194.42:54159] logged in with entity id 489969 at (49.42250160715426, 65.0, 10.450908188428691)
+[09May2023 19:52:07.322] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: TheNukleon joined the game
+[09May2023 19:52:07.448] [Server thread/INFO] [mcjty.lib.setup.DefaultModSetup/]: Client logged in: sending dimlet packages
+[09May2023 19:52:07.450] [Server thread/INFO] [Enigmatic Legacy/INFO]: Synchronizing omniconfig files to TheNukleon...
+[09May2023 19:52:07.450] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticlegacy-common.omniconf
+[09May2023 19:52:07.450] [Server thread/INFO] [Enigmatic Legacy/INFO]: Granting starter gear to TheNukleon
+[09May2023 19:52:07.917] [Netty Epoll Server IO #13/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize dev.maxneedssnacks.interactio.command.RegistryArgument@46a2aba3 (class dev.maxneedssnacks.interactio.command.RegistryArgument) - will not be sent to client!
+[09May2023 19:52:07.998] [Netty Epoll Server IO #13/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize dev.maxneedssnacks.interactio.command.RegistryArgument@46a2aba3 (class dev.maxneedssnacks.interactio.command.RegistryArgument) - will not be sent to client!
+[09May2023 19:53:15.319] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <TheNukleon> bonjour
+[09May2023 19:53:19.933] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Boryke> coucou
+[09May2023 19:58:20.311] [Server thread/INFO] [morpheus/]: Boryke is now sleeping. 1/2 (50%)
+[09May2023 20:10:18.543] [CU Memory Check Task/INFO] [com.darkere.crashutils.CrashUtils/]: Memory Spike 1110.21 MB
+[09May2023 20:10:37.317] [Server thread/INFO] [morpheus/]: TheNukleon is now sleeping. 1/2 (50%)
+[09May2023 20:10:56.361] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: TheNukleon has made the advancement [Monster Hunter]
+[09May2023 20:12:09.577] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: TheNukleon has made the advancement [It Starts With One]
+[09May2023 20:28:18.542] [CU Memory Check Task/INFO] [com.darkere.crashutils.CrashUtils/]: Memory Spike 1022.05 MB
+[09May2023 20:41:48.543] [CU Memory Check Task/INFO] [com.darkere.crashutils.CrashUtils/]: Memory Spike 1004.06 MB
+[09May2023 20:42:18.216] [RCON Listener #1/INFO] [net.minecraft.network.rcon.RConThread/]: Thread RCON Client /141.148.242.147 started
+[09May2023 20:42:18.420] [RCON Client /141.148.242.147 #30/INFO] [net.minecraft.network.rcon.ClientThread/]: Thread RCON Client /141.148.242.147 shutting down
+[09May2023 20:42:38.730] [RCON Listener #1/INFO] [net.minecraft.network.rcon.RConThread/]: Thread RCON Client /141.148.242.147 started
+[09May2023 20:42:38.934] [RCON Client /141.148.242.147 #31/INFO] [net.minecraft.network.rcon.ClientThread/]: Thread RCON Client /141.148.242.147 shutting down
+[09May2023 20:43:23.315] [Server thread/INFO] [morpheus/]: TheNukleon is now sleeping. 1/2 (50%)
+[09May2023 20:43:30.942] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Boryke> normalement la ferme a kelp est full auto
+[09May2023 20:45:55.338] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <TheNukleon> okk super
+[09May2023 20:46:26.861] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <TheNukleon> y a de la dirt quelque part ?
+[09May2023 20:46:31.795] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Boryke> la
+[09May2023 20:46:32.111] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <TheNukleon> en masse ?
+[09May2023 20:47:16.578] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <TheNukleon> ok et ça produit vite ?
+[09May2023 20:47:21.462] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Boryke> non
+[09May2023 20:47:31.963] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <TheNukleon> X)
+[09May2023 20:48:26.590] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Boryke> tu peux faire le même syteme plus grand
+[09May2023 20:48:41.643] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <TheNukleon> je vais voir avec un autre pour en produire en masse
+[09May2023 20:56:48.543] [CU Memory Check Task/INFO] [com.darkere.crashutils.CrashUtils/]: Memory Spike 1012.72 MB
+[09May2023 21:13:58.049] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Zombie Head'/514581, l='ServerLevel[world]', x=4.94, y=64.38, z=-69.54]
+[09May2023 21:15:08.440] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Air'/514853, l='ServerLevel[world]', x=29.62, y=65.43, z=40.51]
+[09May2023 21:17:48.112] [Server thread/INFO] [FTB Utilities Backups/]: Server Backup started!
+[09May2023 21:17:48.113] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Server Backup started!
+[09May2023 21:17:48.183] [Thread-2412/INFO] [FTB Utilities Backups/]: Deleting old backup: 2023-05-08-00-05-18.zip
+[09May2023 21:17:48.188] [Thread-2412/INFO] [FTB Utilities Backups/]: Backing up 257 files...
+[09May2023 21:17:48.188] [Thread-2412/INFO] [FTB Utilities Backups/]: Compressing 257 files...
+[09May2023 21:17:48.717] [Thread-2412/INFO] [FTB Utilities Backups/]: Done compressing in 529ms seconds (9.3MB)!
+[09May2023 21:17:48.717] [Thread-2412/INFO] [FTB Utilities Backups/]: Created /root/minecraft/Minecraft_Ragna_Mod_VI/backups/2023-05-09-21-17-48.zip from /root/minecraft/Minecraft_Ragna_Mod_VI/world
+[09May2023 21:17:48.731] [Thread-2412/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Server backup done in 555ms! (9.3MB | 103.9MB)
+[09May2023 21:27:39.545] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <TheNukleon> ?
+[09May2023 21:28:02.419] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Boryke> je peux pas acceder au generator tu la mis en privé ?
+[09May2023 21:28:15.081] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <TheNukleon> ah
+[09May2023 21:28:28.419] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Boryke> c'est bon
+[09May2023 21:28:31.761] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <TheNukleon> pas très grave
+[09May2023 21:28:37.432] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Boryke> non
+[09May2023 21:29:06.960] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Boryke> bon je vais dormir a++
+[09May2023 21:29:11.116] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <TheNukleon> ok ++
+[09May2023 21:29:12.560] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Boryke lost connection: Disconnected
+[09May2023 21:29:12.560] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Boryke left the game
+[09May2023 21:32:19.323] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity EntityXPOrbBig['Experience Orb'/519752, l='ServerLevel[world]', x=4.11, y=65.56, z=-68.41]
+[09May2023 21:44:49.962] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: TheNukleon fell out of the world
+[09May2023 21:44:50.981] [Server thread/FATAL] [net.minecraft.util.concurrent.ThreadTaskExecutor/]: Error executing task on Server
+java.lang.NullPointerException: null
+	at net.minecraft.world.server.TicketManager.func_219367_b(TicketManager.java:227) ~[?:?]
+	at net.minecraft.world.server.ChunkManager.func_219183_a(ChunkManager.java:2219) ~[?:?]
+	at net.minecraft.world.server.ServerChunkProvider.func_217221_a(ServerChunkProvider.java:450) ~[?:?]
+	at net.minecraft.network.play.ServerPlayNetHandler.func_147347_a(ServerPlayNetHandler.java:845) ~[?:?]
+	at net.minecraft.network.play.client.CPlayerPacket.func_148833_a(SourceFile:122) ~[?:?]
+	at net.minecraft.network.play.client.CPlayerPacket$PositionPacket.func_148833_a(SourceFile:56) ~[?:?]
+	at net.minecraft.network.PacketThreadUtil.func_225383_a(SourceFile:21) ~[?:?]
+	at net.minecraft.util.concurrent.TickDelayedTask.run(SourceFile:18) ~[?:?]
+	at net.minecraft.util.concurrent.ThreadTaskExecutor.func_213166_h(SourceFile:144) ~[?:?]
+	at net.minecraft.util.concurrent.RecursiveEventLoop.func_213166_h(SourceFile:23) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_213166_h(MinecraftServer.java:734) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_213166_h(MinecraftServer.java:159) ~[?:?]
+	at net.minecraft.util.concurrent.ThreadTaskExecutor.func_213168_p(SourceFile:118) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_213205_aW(MinecraftServer.java:717) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_213168_p(MinecraftServer.java:711) ~[?:?]
+	at net.minecraft.util.concurrent.ThreadTaskExecutor.func_213161_c(SourceFile:127) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_213202_o(MinecraftServer.java:697) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_240802_v_(MinecraftServer.java:646) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_240783_a_(MinecraftServer.java:232) ~[?:?]
+	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_362]
+[09May2023 21:44:51.756] [Netty Epoll Server IO #13/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize dev.maxneedssnacks.interactio.command.RegistryArgument@46a2aba3 (class dev.maxneedssnacks.interactio.command.RegistryArgument) - will not be sent to client!
+[09May2023 21:44:57.796] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [TheNukleon: Set own game mode to Creative Mode]
+[09May2023 21:52:31.323] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity EntityXPOrbBig['Experience Orb'/524961, l='ServerLevel[world]', x=5.75, y=64.10, z=-67.51]
+[09May2023 22:01:33.038] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [TheNukleon: Set own game mode to Survival Mode]
+[09May2023 22:03:08.534] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [TheNukleon: Set own game mode to Creative Mode]
+[09May2023 22:03:19.375] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [TheNukleon: Set own game mode to Survival Mode]
+[09May2023 22:08:08.550] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [TheNukleon: Set own game mode to Creative Mode]
+[09May2023 22:09:14.723] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [TheNukleon: Set own game mode to Survival Mode]
+[09May2023 22:10:12.520] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [TheNukleon: Set own game mode to Creative Mode]
+[09May2023 22:10:23.261] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [TheNukleon: Set own game mode to Survival Mode]
+[09May2023 22:12:50.451] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [TheNukleon: Set own game mode to Creative Mode]
+[09May2023 22:13:38.815] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [TheNukleon: Set own game mode to Survival Mode]
+[09May2023 22:13:49.450] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [TheNukleon: Set own game mode to Creative Mode]
+[09May2023 22:16:57.962] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [TheNukleon: Set own game mode to Survival Mode]
+[09May2023 22:20:29.113] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [TheNukleon: Set own game mode to Creative Mode]
+[09May2023 22:21:04.573] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [TheNukleon: Set own game mode to Survival Mode]
+[09May2023 22:30:38.561] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: TheNukleon lost connection: Disconnected
+[09May2023 22:30:38.562] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: TheNukleon left the game
+[09May2023 23:17:48.158] [Server thread/INFO] [FTB Utilities Backups/]: Server Backup started!
+[09May2023 23:17:48.159] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Server Backup started!
+[09May2023 23:17:48.167] [Thread-2471/INFO] [FTB Utilities Backups/]: Deleting old backup: 2023-05-08-02-05-18.zip
+[09May2023 23:17:48.172] [Thread-2471/INFO] [FTB Utilities Backups/]: Backing up 258 files...
+[09May2023 23:17:48.172] [Thread-2471/INFO] [FTB Utilities Backups/]: Compressing 258 files...
+[09May2023 23:17:48.717] [Thread-2471/INFO] [FTB Utilities Backups/]: Done compressing in 545ms seconds (9.3MB)!
+[09May2023 23:17:48.717] [Thread-2471/INFO] [FTB Utilities Backups/]: Created /root/minecraft/Minecraft_Ragna_Mod_VI/backups/2023-05-09-23-17-48.zip from /root/minecraft/Minecraft_Ragna_Mod_VI/world
+[09May2023 23:17:48.724] [Thread-2471/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Server backup done in 564ms! (9.3MB | 104.7MB)
+[09May2023 23:48:26.027] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2174ms or 43 ticks behind
